@@ -273,6 +273,7 @@ VetConnect es una startup que busca revolucionar la industria veterinaria, ofrec
 #### 1.2.2 Lean UX Process
 
 ##### 1.2.2.1 Lean UX Problem Statements
+este es el Lean UX. una prueba.
 
 ##### 1.2.2.2 Lean UX Assumptions
 
