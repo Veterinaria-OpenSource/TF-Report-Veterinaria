@@ -294,7 +294,13 @@ En Vet Connect, visualizamos un futuro donde todas las mascotas reciben atenció
 
 ##### 1.2.2.1 Lean UX Problem Statements
 
-este es el Lean UX. una prueba.
+###### **Problem Statement:** 
+
+El objetivo de Vet Connect es facilitar la búsqueda de centros veterinarios o de veterinarios independientes para así agendar citas mediante la misma aplicación.
+
+El problema surge en el día a día de los dueños de mascotas quienes siempre buscan lo mejor para la salud de sus animales. Normalmente suelen solicitar servicios como: vacunas, baños, consultas y desparasitaciones. Además de los servicios básicos también necesitan productos para el cuidado de sus mascotas.
+
+En consecuencia, mucho de estas personas recurren a medios usuales para comunicarse con su centro veterinario de preferencia mediante WhatsApp o llamada telefónica. Estos métodos suelen consumir mucho tiempo del cliente ya que la reserva no se hace de manera inmediata.
 
 ##### 1.2.2.2 Lean UX Assumptions
 
