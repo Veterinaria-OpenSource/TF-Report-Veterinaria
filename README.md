@@ -296,4 +296,6 @@ este es el Lean UX. una prueba.
 
 ### 1.3. Segmentos objetivo
 
-prueba de que todo funciona
+Según IPSOS, las estadísticas revelan un notable aumento en la tenencia de mascotas en Perú, alcanzando un 58% de los hogares. Los perros son los favoritos, con una presencia del 88%, mientras que los gatos se encuentran en el 38% de los hogares.
+
+Esta tendencia confirma la importancia que las mascotas tienen para las familias peruanas y abre un mercado potencial para VetConnect, un servicio que busca mejorar la interacción entre los dueños de mascotas y las veterinarias.
