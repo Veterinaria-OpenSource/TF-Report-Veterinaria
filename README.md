@@ -30,7 +30,7 @@
 | Renzo Manuel Ramos Ramirez       | u202113745 |
 | Brayan Gamboa                    | u202112655 |
 | Fabricio Iparraguirre            | U202113930 |
-| Jeremy Antonio                   | u202011431 |
+| Luiggi Jeremy Antonio Loayza     | u202011431 |
 
 #### Ciclo 2024 - 01
 
@@ -44,7 +44,7 @@
 | 1.1     | 2024-07-01 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
 | 1.2     | 2024-07-02 | Brayan Gamboa                    | Modificación de la estructura del Informe |
 | 1.3     | 2024-07-03 | Fabricio Iparraguirre            | Modificación de la estructura del Informe |
-| 1.4     | 2024-07-04 | Jeremy Antonio                   | Modificación de la estructura del Informe |
+| 1.4     | 2024-07-04 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
 
 ### Project Report Collaboration Instights
 
@@ -63,7 +63,7 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 | Renzo Manuel Ramos Ramirez       | Tarea 2         |
 | Brayan Gamboa                    | Tarea 3         |
 | Fabricio Iparraguirre            | Tarea 4         |
-| Jeremy Antonio                   | Tarea 5         |
+| Luiggi Jeremy Antonio Loayza     | Tarea 5         |
 
 Es importante mencionar que durante la elaboración del informe se realizaron commits respectivos a cada tarea asignada, con el fin de mantener un control de versiones y colaboración en tiempo real.
 
@@ -73,7 +73,7 @@ Es importante mencionar que durante la elaboración del informe se realizaron co
 - Renzo Ramos (RenzoRamosR)
 - Brayan Gamboa (GamboaBrayan)
 - Fabricio Iparraguirre (fabriciodev26)
-- Jeremy Antonio (JeremyAntonio)
+- Luiggi Jeremy Antonio Loayza (JeremyAntonio)
 
 Gracias a GitHub, se ha podido llevar un control de versiones y colaboración en tiempo real, permitiendo a los miembros del equipo trabajar de manera asincrónica y sincrónica en el proyecto. Además, gracias a Gitflow, se ha creado varias ramas para el desarrollo de las tareas asignadas, permitiendo a los miembros del equipo trabajar de manera independiente y colaborativa en el proyecto.
 
@@ -241,7 +241,15 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
 
 #### 1.1.1. Descripción de la Startup
 
-VetConnect es una startup que busca revolucionar la industria veterinaria, ofreciendo una plataforma digital que permita a los veterinarios y dueños de mascotas interactuar de manera eficiente y segura. Nuestro objetivo es brindar una solución tecnológica que permita a los veterinarios gestionar sus consultas, historias clínicas, recetas y facturación de manera sencilla y rápida, y a los dueños de mascotas acceder a los servicios veterinarios de forma remota y segura.
+En Vet Connect, estamos revolucionando la forma en que las mascotas reciben atención veterinaria al ofrecer un servicio de citas y reservas en centros veterinarios o con veterinarios independientes, todo de manera conveniente a través de nuestra plataforma web. Desde diagnósticos y tratamientos hasta consultas, baños, vacunas y la adquisición de productos relacionados, nuestros clientes pueden gestionar todas las necesidades de salud y bienestar de sus mascotas con un solo clic. Además, priorizamos la comodidad y el bienestar de las mascotas y sus dueños. Con tiempos de espera mínimos y una respuesta rápida a las necesidades de cada cliente, garantizamos una experiencia sin complicaciones en cada visita.
+
+<strong>Misión:</strong><br><br>
+
+Proporcionar una solución integral y conveniente para la atención veterinaria, conectando a los dueños de mascotas con centros veterinarios y profesionales independientes a través de nuestra plataforma web. 
+
+<strong>Visión:</strong><br><br>
+
+En Vet Connect, visualizamos un futuro donde todas las mascotas reciben atención veterinaria de manera accesible, conveniente y sin complicaciones. Nos esforzamos por ser líderes en la revolución de la industria veterinaria, proporcionando una plataforma tecnológica innovadora que une a los dueños de mascotas con servicios veterinarios de calidad, sin importar su ubicación o circunstancias.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
