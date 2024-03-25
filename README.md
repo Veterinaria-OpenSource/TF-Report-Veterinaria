@@ -268,7 +268,7 @@ VetConnect es una startup que busca revolucionar la industria veterinaria, ofrec
     </tr>
     <tr>
         <td><img src="ruta/de/imagen4.jpg"></td>
-        <td>Descripción 4</td>
+        <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero, estudiante de la carrera de Ingenieria de Software</td>
         <td>U202113930</td>
     </tr>
     <tr>
