@@ -28,7 +28,7 @@
 | -------------------------------- | ---------- |
 | Jose Carlos Isaac Ampudia Flores | u202112936 |
 | Renzo Manuel Ramos Ramirez       | u202113745 |
-| Brayan Gamboa                    | u202112655 |
+| Brayan Stiven Gamboa Delgado     | u202112655 |
 | Fabricio Iparraguirre            | U202113930 |
 | Luiggi Jeremy Antonio Loayza     | u202011431 |
 
@@ -42,7 +42,7 @@
 | ------- | ---------- | -------------------------------- | ----------------------------------------- |
 | 1.0     | 2024-06-30 | Jose Carlos Isaac Ampudia Flores | Creación del Informe                      |
 | 1.1     | 2024-07-01 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
-| 1.2     | 2024-07-02 | Brayan Gamboa                    | Modificación de la estructura del Informe |
+| 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Modificación de la estructura del Informe |
 | 1.3     | 2024-07-03 | Fabricio Iparraguirre            | Modificación de la estructura del Informe |
 | 1.4     | 2024-07-04 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
 
@@ -61,7 +61,7 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 | -------------------------------- | --------------- |
 | Jose Carlos Isaac Ampudia Flores | Tarea 1         |
 | Renzo Manuel Ramos Ramirez       | Tarea 2         |
-| Brayan Gamboa                    | Tarea 3         |
+| Brayan Stiven Gamboa Delgado     | Tarea 3         |
 | Fabricio Iparraguirre            | Tarea 4         |
 | Luiggi Jeremy Antonio Loayza     | Tarea 5         |
 
@@ -71,7 +71,7 @@ Es importante mencionar que durante la elaboración del informe se realizaron co
 
 - José Ampudia (IsaacAmp24)
 - Renzo Ramos (RenzoRamosR)
-- Brayan Gamboa (GamboaBrayan)
+- Brayan Stiven Gamboa Delgado (GamboaBrayan)
 - Fabricio Iparraguirre (fabriciodev26)
 - Luiggi Jeremy Antonio Loayza (JeremyAntonio)
 
