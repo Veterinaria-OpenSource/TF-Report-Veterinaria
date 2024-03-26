@@ -245,7 +245,7 @@ En Vet Connect, estamos revolucionando la forma en que las mascotas reciben aten
 
 <strong>Misión:</strong><br><br>
 
-Proporcionar una solución integral y conveniente para la atención veterinaria, conectando a los dueños de mascotas con centros veterinarios y profesionales independientes a través de nuestra plataforma web. 
+Proporcionar una solución integral y conveniente para la atención veterinaria, conectando a los dueños de mascotas con centros veterinarios y profesionales independientes a través de nuestra plataforma web.
 
 <strong>Visión:</strong><br><br>
 
@@ -294,7 +294,7 @@ En Vet Connect, visualizamos un futuro donde todas las mascotas reciben atenció
 
 ##### 1.2.2.1 Lean UX Problem Statements
 
-###### **Problem Statement:** 
+###### **Problem Statement:**
 
 El objetivo de Vet Connect es facilitar la búsqueda de centros veterinarios o de veterinarios independientes para así agendar citas mediante la misma aplicación.
 
@@ -313,3 +313,5 @@ En consecuencia, mucho de estas personas recurren a medios usuales para comunica
 Según IPSOS, las estadísticas revelan un notable aumento en la tenencia de mascotas en Perú, alcanzando un 58% de los hogares. Los perros son los favoritos, con una presencia del 88%, mientras que los gatos se encuentran en el 38% de los hogares.
 
 Esta tendencia confirma la importancia que las mascotas tienen para las familias peruanas y abre un mercado potencial para VetConnect, un servicio que busca mejorar la interacción entre los dueños de mascotas y las veterinarias.
+
+VetConnect se dirige principalmente a dueños de mascotas, tanto a familias que consideran a sus mascotas como miembros de su hogar, como también a profesionales ocupados que buscan optimizar el cuidado de sus mascotas sin comprometer sus horarios. Por otro lado, está enfocado a veterinarios y profesionales del sector que buscan mejorar la gestión de sus servicios, como brindar una mejor experiencia a sus clientes con herramientas digitales.
