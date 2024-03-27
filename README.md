@@ -329,22 +329,29 @@ En consecuencia, mucho de estas personas recurren a medios usuales para comunica
 11. **Lo resolveremos realizando** una implementación que permita añadir información adicional como las promociones exclusivas que ellos brindan y fotos que lo complementen.
 
 ###### **User Assumptions:**
-###### **¿Quién es el usuario?** 
+
+###### **¿Quién es el usuario?**
+
 Los usuarios son dueños de mascotas quienes van a agendar citas en nuestra aplicación y centros veterinarios o veterinarios independientes que quieran dar a conocer su local y sus servicios.
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
 Nuestro producto carece de un sistema de mensajes directos como un chat para que el cliente se comunique con el centro veterinario.
 
 ###### **¿Qué características son importantes?**
+
 Las características principales son: el poder visualizar los horarios de citas de los centros veterinarios para que el usuario pueda saber cuáles están disponibles o no.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
 El producto encaja en el día a día de los dueños de mascotas, ya que para ellos es importante velar por la salud de sus animales.
 
 ###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+
 Nuestro producto es usado cuando el dueño quiera organizar una cita para su mascota en un horario de su elección.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
 Debe verse como una plataforma fácil de usar y que sea familiar para el dueño de mascota para que pueda realizar sus reservas y citas con el centro veterinario.
 
 ###### **Feature Assumptions:**
@@ -367,6 +374,8 @@ Según IPSOS, las estadísticas revelan un notable aumento en la tenencia de mas
 
 Esta tendencia confirma la importancia que las mascotas tienen para las familias peruanas y abre un mercado potencial para VetConnect, un servicio que busca mejorar la interacción entre los dueños de mascotas y las veterinarias.
 
+VetConnect se dirige principalmente a dueños de mascotas, tanto a familias que consideran a sus mascotas como miembros de su hogar, como también a profesionales ocupados que buscan optimizar el cuidado de sus mascotas sin comprometer sus horarios. Por otro lado, está enfocado a veterinarios y profesionales del sector que buscan mejorar la gestión de sus servicios, como brindar una mejor experiencia a sus clientes con herramientas digitales.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
@@ -383,6 +392,7 @@ Descripción generada automáticamente](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2
 Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.003.png)</p></td><td colspan="1" valign="top"><p>Vet Connect</p><p>![Un dibujo animado con letras
 
 Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.004.png)</p></td></tr>
+
 <tr><td colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Perfil</p></td><td colspan="1" valign="top">Overview</td><td colspan="1" valign="top">Es un directorio en línea que te ayuda a encontrar clínicas veterinarias en Perú. Ofrecen una lista de veterinarias, pet shops y servicios de grooming. Puedes buscar por ciudad o distrito para encontrar la atención veterinaria más cercana a tu ubicación. Además, proporcionan información sobre horarios, direcciones y cómo contactar a los veterinarios. También cuentan con una sección de veterinarias abiertas las 24 horas.</td><td colspan="1" valign="top">Es una plataforma integral que ayuda a las clínicas veterinarias a mejorar la comunicación con los clientes y a simplificar la gestión de citas y cuidado de mascotas.</td><td colspan="1" valign="top">Es una plataforma que ofrece atención veterinaria en línea las 24 horas. Permite a los dueños de mascotas conectarse con veterinarios calificados a través de chat instantáneo o videollamadas desde la comodidad de su hogar. Los veterinarios pueden proporcionar consejos para una variedad de problemas de salud de las mascotas, y también ofrecen recetas en línea. Vetster es una solución conveniente y accesible para el cuidado de las mascotas.</td><td colspan="1" valign="top">Es una plataforma innovadora que revoluciona la forma en que las mascotas reciben atención veterinaria. Nuestro servicio se centra en la comodidad y el bienestar de las mascotas y sus dueños, ofreciendo una experiencia sin complicaciones en cada visita. Los usuarios pueden programar citas y reservas en centros veterinarios con un solo clic. Desde diagnósticos y tratamientos hasta consultas, baños y vacunas, todo se gestiona de manera integral en nuestra plataforma web.</td></tr>
 <tr><td colspan="1" valign="top">¿Qué valor ofrece a los clientes?</td><td colspan="1" valign="top"><p>-Información detallada.</p><p>-Servicios veterinarios locales.</p><p>-Comunidad activa</p><p></p></td><td colspan="1" valign="top"><p>-Acceso Digital a la Atención Veterinaria</p><p>-Calidad de Atención</p><p>-Evaluaciones Positivas</p><p>-Referencias y Recomendaciones</p></td><td colspan="1" valign="top"><p>-Gestión eficiente.</p><p>-Programación de citas y recordatorios.</p><p>-Interfaz amigable</p></td><td colspan="1" valign="top"><p>-Servicio de Citas y Reservas</p><p>-Priorización del Bienestar Animal</p><p>-Recordatorios Personalizados</p><p>-Transparencia en Costos</p></td></tr>
 <tr><td colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Perfil de Marketing</p></td><td colspan="1" valign="top">Mercado objetivo</td><td colspan="1" valign="top"><p>- Dueños de mascotas en Perú.</p><p>- Personas que buscan clínicas veterinarias cercanas para el cuidado de sus mascotas.</p><p>- Aquellos que necesitan atención veterinaria urgente o en horarios no convencionales.</p></td><td colspan="1" valign="top"><p>- Clínicas veterinarias y sus clientes.</p><p>- Propietarios de mascotas que buscan una comunicación más eficiente con las clínicas.</p><p>- Profesionales de la salud animal que desean administrar citas, recordatorios y comunicaciones de manera efectiva.</p></td><td colspan="1" valign="top"><p>- Dueños de mascotas en todo el mundo.</p><p>- Aquellos que buscan atención veterinaria en línea las 24 horas.</p><p>- Personas que desean consultas con veterinarios calificados sin salir de casa.</p></td><td colspan="1" valign="top"><p>- Clínicas veterinarias de que desean administrar citas, recordatorios y comunicaciones de manera efectiva.</p><p>- Personas que buscan clínicas veterinarias cercanas para el cuidado de sus mascotas.</p><p></p></td></tr>
@@ -395,7 +405,6 @@ Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd
 <tr><td colspan="1" valign="top">Oportunidades</td><td colspan="1" valign="top"><p>- Expansión Geográfica</p><p>- Alianzas Estratégicas</p><p>-Educación y Concienciación</p></td><td colspan="1" valign="top"><p>- Informar a los usuarios sobre los beneficios de las consultas virtuales.</p><p>- Expansión Global</p></td><td colspan="1" valign="top"><p>-Puede considerar expandirse a otros países.</p><p>- Ofrecer más contenido educativo para atraer a nuevos usuarios.</p></td><td colspan="1" valign="top"><p>-Ofrecer contenido educativo sobre el cuidado de mascotas para atraer a nuevos usuarios.</p><p>-Considerar la expansión a otras regiones fuera de tu ubicación actual.</p><p>-Colaborar con clínicas veterinarias y organizaciones relacionadas para aumentar la visibilidad.</p></td></tr>
 <tr><td colspan="1" valign="top">Amenazas</td><td colspan="1" valign="top"><p>- Cambios en el mercado</p><p>- Nuevas Plataformas Emergentes</p></td><td colspan="1" valign="top"><p>- La aparición de nuevas plataformas podría afectar su participación en el mercado.</p><p>- Cambios en las regulaciones de atención médica pueden afectar su modelo de negocio.</p><p></p></td><td colspan="1" valign="top"><p>- Competidores en el Mercado</p><p>- Las tendencias tecnológicas cambiantes pueden afectar la demanda de sus servicios.</p></td><td colspan="1" valign="top"><p>- Cambios en las regulaciones de atención médica pueden afectar el modelo de negocio.</p><p>- Cambios en la Tecnología</p></td></tr>
 </table>
-
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
