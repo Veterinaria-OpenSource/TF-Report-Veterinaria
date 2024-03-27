@@ -304,6 +304,59 @@ En consecuencia, mucho de estas personas recurren a medios usuales para comunica
 
 ##### 1.2.2.2 Lean UX Assumptions
 
+###### **Business Assumptions:**
+
+1.  **Creemos que nuestros usuarios necesitan** un sitio en donde puedan agendar citas con diversos centros veterinarios de acuerdo con las necesidades de su mascota.
+
+2.  **Estas necesidades se pueden satisfacer** con el desarrollo de una aplicación que contenga diversas opciones para que el usuario pueda elegir el establecimiento ideal para él.
+
+3.  **Nuestros clientes serán** dueños de mascotas y centros veterinarios o veterinarios independientes que quieran promocionarse a sí mismos.
+
+4.  **El valor más importante que un cliente quiere de nuestros servicios** es ser un intermediario entre el centro veterinario y el dueño de la mascota para organizar una cita en el respectivo lugar.
+
+5.  **El cliente también va a obtener** beneficios como descuentos en diversos centros veterinarios y promociones especiales.
+
+6.  **Vamos a obtener la mayoría de los clientes mediante** recomendación de otros clientes o de los centros veterinarios.
+
+7.  **Vamos a obtener ingresos mediante** la modalidad de subscripción de paga para que el usuario tenga acceso a promociones especiales y beneficios exclusivos. Además, cobraremos una tarifa a los centros veterinarios por las transacciones que realicen en la aplicación.
+
+8.  **Nuestra competencia principal en el mercado serán** páginas que se dediquen a brindar información acerca de centros veterinarios.
+
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que nuestra aplicación, además de brindar recomendaciones, también se puede organizar citas en ella y puede ofrecer descuentos especiales.
+
+10. **El mayor riesgo del servicio es** que los centros veterinarios estén dispuestos a usar otros medios de promocionar sus servicios en vez de la aplicación.
+
+11. **Lo resolveremos realizando** una implementación que permita añadir información adicional como las promociones exclusivas que ellos brindan y fotos que lo complementen.
+
+###### **User Assumptions:**
+###### **¿Quién es el usuario?** 
+Los usuarios son dueños de mascotas quienes van a agendar citas en nuestra aplicación y centros veterinarios o veterinarios independientes que quieran dar a conocer su local y sus servicios.
+
+###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+Nuestro producto carece de un sistema de mensajes directos como un chat para que el cliente se comunique con el centro veterinario.
+
+###### **¿Qué características son importantes?**
+Las características principales son: el poder visualizar los horarios de citas de los centros veterinarios para que el usuario pueda saber cuáles están disponibles o no.
+
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+El producto encaja en el día a día de los dueños de mascotas, ya que para ellos es importante velar por la salud de sus animales.
+
+###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+Nuestro producto es usado cuando el dueño quiera organizar una cita para su mascota en un horario de su elección.
+
+###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+Debe verse como una plataforma fácil de usar y que sea familiar para el dueño de mascota para que pueda realizar sus reservas y citas con el centro veterinario.
+
+###### **Feature Assumptions:**
+
+**Creemos que** que la aplicación debe incluir toda la información de los centros veterinarios para que el usuario haga una buena elección a la hora de agendar su cita.
+
+**Creemos que** nuestra aplicación debe ser fácil de usar para que los usuarios lo usen como medio principal para comunicarse con los centros veterinarios.
+
+**Creemos que** la plataforma debe ser capaz de mostrar los servicios básicos que cada centro veterinario ofrece, así como sus promociones que realizan.
+
+**Creemos que** nuestra aplicación debe contar con un sistema de clasificación de centros veterinarios, donde el usuario coloque una puntuación por el servicio brindado.
+
 ##### 1.2.2.3 Lean UX Hypothesis Statements
 
 ##### 1.2.2.4 Lean UX Canvas
