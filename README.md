@@ -288,7 +288,40 @@ En Vet Connect, visualizamos un futuro donde todas las mascotas reciben atenció
 
 ### 1.2. Solution Profile
 
+Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5 "W" y 2 "H" será la creación de un sitio web, en el cual los dueños de mascotas podrán agendar citas con diversos centros veterinarios o veterinarios independientes de acuerdo con las necesidades de su mascota.
+
 #### 1.2.1 Antecedentes y problemática
+
+###### **What? - ¿Qué?**
+###### **¿Cuál es el problema?**
+El problema surge mayormemente en el día a día de los dueños de mascotas quienes siempre buscan lo mejor para la salud de sus animales. Por otro lado, los centros veterinarios o veterinarios independientes buscan promocionarse a sí mismos para captar más clientes. Normalmente, los dueños de mascotas suelen solicitar servicios como: vacunas, baños, consultas y desparasitaciones. Además de los servicios básicos también necesitan productos para el cuidado de sus mascotas. En consecuencia, mucho de estas personas recurren a medios usuales para comunicarse con su centro veterinario de preferencia mediante WhatsApp o llamada telefónica. Estos métodos suelen consumir mucho tiempo del cliente ya que la reserva no se hace de manera inmediata.
+
+###### **When? - ¿Cuándo?**
+###### **¿Cuando ocurre el problema?**
+El problema ocurre cuando los dueños de mascotas necesitan agendar una cita con un centro veterinario o veterinario independiente. En este momento, el dueño de la mascota debe comunicarse con el centro veterinario mediante WhatsApp o llamada telefónica, lo cual consume mucho tiempo y no garantiza una reserva inmediata. Además, los centros veterinarios o veterinarios independientes también necesitan promocionarse para captar más clientes. En este sentido, la comunicación entre ambas partes no es eficiente y no garantiza una experiencia satisfactoria para el cliente.
+
+###### **Where? - ¿Dónde?**
+###### **¿Dónde se tomarán las medidas?**
+Las medidas se tomarán en el mercado de atención veterinaria, específicamente en la interacción entre los dueños de mascotas y los centros veterinarios o veterinarios independientes. Nuestra solución se centrará en la creación de un sitio web que permita a los dueños de mascotas agendar citas con diversos centros veterinarios o veterinarios independientes de acuerdo con las necesidades de su mascota.
+
+###### **Who? - ¿Quién?**
+###### **¿Quién lo utilizará? ¿Quién es el cliente de este producto?**
+Los usuarios de nuestro producto serán los dueños de mascotas, tanto a familias que consideran a sus mascotas como miembros de su hogar, como también a profesionales ocupados que buscan optimizar el cuidado de sus mascotas sin comprometer sus horarios. Por otro lado, está enfocado a veterinarios y profesionales del sector que buscan mejorar la gestión de sus servicios, como brindar una mejor experiencia a sus clientes con herramientas digitales.
+
+###### **Why? - ¿Por qué?**
+###### **¿Por qué es necesario resolver este problema?**
+Es necesario resolver este problema porque los dueños de mascotas necesitan una solución que les permita agendar citas con diversos centros veterinarios o veterinarios independientes de acuerdo con las necesidades de su mascota. Además, los centros veterinarios o veterinarios independientes necesitan una plataforma que les permita promocionarse a sí mismos y captar más clientes. Nuestra solución permitirá a los dueños de mascotas agendar citas de manera rápida y eficiente, y a los centros veterinarios o veterinarios independientes promocionarse y captar más clientes.
+
+###### **How? - ¿Cómo?**
+###### **¿Cómo se resolverá el problema?**
+El problema se resolverá mediante la creación de un sitio web que permita a los dueños de mascotas agendar citas con diversos centros veterinarios o veterinarios independientes de acuerdo con las necesidades de su mascota. De tal forma que ambos segmentos objetivos puedan interactuar de manera eficiente y satisfactoria, de este modo solucionar la problemática que se presenta en el mercado de atención veterinaria.
+
+###### **How much? - ¿Cuánto?**
+###### **¿Cuánto costará resolver el problema?**
+El costo de resolver el problema dependerá de los recursos necesarios para el desarrollo del sitio web, como el tiempo, el personal y los materiales. Además, se deberá considerar el costo de promoción y publicidad para dar a conocer el sitio web a los usuarios. En este sentido, el costo total de resolver el problema puede variar según las necesidades y requerimientos del proyecto.
+
+###### **¿Cuántas personas saldrán beneficiadas con nuestro producto?**
+Se tiene conocimiento que la profesión de veterinaria cuenta con una tasa de empleo del 80% en el Perú, lo que significa que hay una gran cantidad de veterinarios y centros veterinarios que podrían beneficiarse de nuestro producto. Por otro lado, según IPSOS, las estadísticas revelan un notable aumento en la tenencia de mascotas en Perú, alcanzando un 58% de los hogares. Los perros son los favoritos, con una presencia del 88%, mientras que los gatos se encuentran en el 38% de los hogares. Esta tendencia confirma la importancia que las mascotas tienen para las familias peruanas y abre un mercado potencial para VetConnect.
 
 #### 1.2.2 Lean UX Process
 
