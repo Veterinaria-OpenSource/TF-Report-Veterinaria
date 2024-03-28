@@ -365,6 +365,7 @@ Debe verse como una plataforma fácil de usar y que sea familiar para el dueño 
 **Creemos que** nuestra aplicación debe contar con un sistema de clasificación de centros veterinarios, donde el usuario coloque una puntuación por el servicio brindado.
 
 ##### 1.2.2.3 Lean UX Hypothesis Statements
+Prueba de guithub Jose Ampudia
 
 ##### 1.2.2.4 Lean UX Canvas
 
