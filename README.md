@@ -369,6 +369,8 @@ Prueba de guithub Jose Ampudia
 
 ##### 1.2.2.4 Lean UX Canvas
 
+Prueba Jeremy
+
 ### 1.3. Segmentos objetivo
 
 Según IPSOS, las estadísticas revelan un notable aumento en la tenencia de mascotas en Perú, alcanzando un 58% de los hogares. Los perros son los favoritos, con una presencia del 88%, mientras que los gatos se encuentran en el 38% de los hogares.
