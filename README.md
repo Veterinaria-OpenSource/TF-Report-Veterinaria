@@ -244,7 +244,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
 En Vet Connect, estamos revolucionando la forma en que las mascotas reciben atención veterinaria al ofrecer un servicio de citas y reservas en centros veterinarios o con veterinarios independientes, todo de manera conveniente a través de nuestra plataforma web. Desde diagnósticos y tratamientos hasta consultas, baños, vacunas y la adquisición de productos relacionados, nuestros clientes pueden gestionar todas las necesidades de salud y bienestar de sus mascotas con un solo clic. Además, priorizamos la comodidad y el bienestar de las mascotas y sus dueños. Con tiempos de espera mínimos y una respuesta rápida a las necesidades de cada cliente, garantizamos una experiencia sin complicaciones en cada visita.
 
 <strong>Misión:</strong><br><br>
-
+Prueba Brayan
 Proporcionar una solución integral y conveniente para la atención veterinaria, conectando a los dueños de mascotas con centros veterinarios y profesionales independientes a través de nuestra plataforma web.
 
 <strong>Visión:</strong><br><br>
