@@ -191,8 +191,8 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -213,8 +213,8 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
   - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
     - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -446,30 +446,121 @@ Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd
 
 Vet Connect tiene una visión y un objetivo claro: mejorar la atención veterinaria para hacerla más fácil, cómoda y sin esfuerzo. Estas son algunas de las estrategias y tácticas que ayudarán a enfrentar a la competencia y alcanzar los objetivos:
 
-### Expansión de clínicas veterinarias:
+##### Expansión de clínicas veterinarias:
 
 Colaborar con varias clínicas veterinarias para ampliar su alcance geográfico. Cuantas más opciones tengan los usuarios, más atractiva será la página.
 
 Crear alianzas estratégicas con clínicas reconocidas para fortalecer la credibilidad y la confianza de Vet Connect.
 
-### Marketing digital:
+##### Marketing digital:
 
 Utilizar estrategias de marketing digital para llegar a un público más amplio. La publicidad en línea, las redes sociales y las campañas de correo electrónico pueden ser efectivas.
 
-### Experiencia del usuario:
+##### Experiencia del usuario:
 
 Mejorar la interfaz de usuario del sitio web. La navegación intuitiva y la facilidad de uso son importantes.
 
 Proporcionar recordatorios de citas. Esto aumenta la satisfacción del usuario y reduce la posibilidad de que se olvide.
 
-### Contenido informativo:
+##### Contenido informativo:
 
 Proporcionar recursos educativos sobre la salud y el bienestar de las mascotas. Vídeos o seminarios web.
 
 Centrarse en la prevención y educar a los propietarios sobre la importancia de las vacunas, la desparasitación y el mantenimiento regular.
 
-### Adaptación continua:
+##### Adaptación continua:
 
 Evaluar periódicamente el rendimiento de la página, recopilar reseñas y ajustar las estrategias según sea necesario.
 
 Estar al tanto de las tendencias del mercado como de las necesidades de los usuarios.
+
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
+
+### 2.3. Needfinding
+#### 2.3.1. User Personas
+#### 2.3.2. User Task Matrix
+#### 2.3.3. User Journey Mapping
+#### 2.3.4. Empathy Mapping
+#### 2.3.5. As-is Scenario Mapping
+
+### 2.4. Ubiquitous Language
+
+## Capítulo 3: Requirements Specification
+
+### 3.1. To-Be Scenario Mapping
+### 3.2. User Stories
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
+
+## Capítulo 4: Product Design
+
+### 4.1. Style Guidelines
+#### 4.1.1. General Style Guideline
+#### 4.1.2. Web Style Guidelines
+
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
+#### 4.2.2. Labeling Systems
+#### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.4. Searching Systems
+#### 4.2.5. Navigation Systems
+
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+#### 4.3.2. Landing Page Mock-up
+
+#### 4.4. Web Applications UX/UI Design
+#### 4.4.1. Web Applications Wireframes
+#### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.3. Web Applications Mock-ups
+#### 4.4.4. Web Applications User Flow Diagrams
+
+### 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagram
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams
+
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+
+### 4.8. Database Design
+#### 4.8.1. Database Diagram
+
+## Capítulo 5: Product Implementation, Validation & Deployment
+
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+##### 5.2.1.2. Sprint Backlog 1
+##### 5.2.1.3. Development Evidence for Sprint Review
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product
+
+## Conclusiones
+### Conclusiones y recomendaciones
+### Video About-the-Team
+
+### Bibliografía
+### Anexos
