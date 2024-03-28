@@ -476,6 +476,34 @@ Estar al tanto de las tendencias del mercado como de las necesidades de los usua
 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+A continuación, presentaremos algunas de las preguntas que se realizarán en las entrevistas a los clientes que poseen mascotas en casa.
+
+- **Preguntas para los clientes dueños de mascotas:**
+
+  1. ¿Con qué frecuencia llevas a tu mascota al veterinario?
+  2. ¿Qué servicios sueles solicitar en una clínica veterinaria?
+  3. ¿Qué te gustaría mejorar en la atención veterinaria?
+  4. ¿Qué te parece más importante al elegir una clínica veterinaria?
+  5. ¿Qué te parece más importante al agendar una cita con un veterinario?
+  6. ¿Qué opinas de la idea de agendar citas en línea?
+  7. ¿Qué te gustaría ver en una plataforma de agendamiento de citas veterinarias?
+  8. ¿Qué te motiva a recomendar una clínica veterinaria a otros dueños de mascotas?
+  9. ¿Qué te gustaría que Vet Connect ofrezca como servicio adicional?
+  10. ¿Qué te gustaría que Vet Connect mejore en su plataforma?
+<br>
+- **Preguntas para los veterinarios:**
+
+  1. ¿Cómo gestionas las citas en tu clínica veterinaria?
+  2. ¿Qué servicios ofreces en tu clínica veterinaria?
+  4. Normalmente, ¿cómo se comunican los dueños de mascotas contigo?
+  5. ¿Qué te parece más importante al elegir una plataforma de agendamiento de citas veterinarias?
+  6. ¿Qué opinas de la idea de agendar citas en línea?
+  7. Como veterinario, ¿Qué factores consideras más importantes al atender a una mascota?
+  8. ¿Qué te gustaría ver en una plataforma de agendamiento de citas veterinarias?
+  9. ¿Qué te motiva a recomendar una plataforma de agendamiento de citas veterinarias a otros veterinarios?
+  10. ¿Qué te gustaría que Vet Connect ofrezca como servicio adicional?
+  11. ¿Qué te gustaría que Vet Connect mejore en su plataforma?
+
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 
