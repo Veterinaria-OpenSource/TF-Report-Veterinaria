@@ -507,6 +507,59 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
   11. ¿Qué te gustaría que Vet Connect mejore en su plataforma?
 
 #### 2.2.2. Registro de entrevistas
+
+- Entrevistas realizadas a dueños de mascotas:
+
+| **Entrevista 1** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
+| **Entrevista 2** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
+| **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
+- Entrevistas realizadas a veterinarios:
+
+| **Entrevista 1** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
+| **Entrevista 2** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
+| **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
+| --- | --- |
+| **Edad** | 30 años |
+| **Distrito** | Lima |
+| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
