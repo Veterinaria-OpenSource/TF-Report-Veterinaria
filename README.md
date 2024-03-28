@@ -490,7 +490,9 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
   8. ¿Qué te motiva a recomendar una clínica veterinaria a otros dueños de mascotas?
   9. ¿Qué te gustaría que Vet Connect ofrezca como servicio adicional?
   10. ¿Qué te gustaría que Vet Connect mejore en su plataforma?
+
 <br>
+
 - **Preguntas para los veterinarios:**
 
   1. ¿Cómo gestionas las citas en tu clínica veterinaria?
