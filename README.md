@@ -398,7 +398,37 @@ Debe verse como una plataforma fácil de usar y que sea familiar para el dueño 
 **Creemos que** nuestra aplicación debe contar con un sistema de clasificación de centros veterinarios, donde el usuario coloque una puntuación por el servicio brindado.
 
 ##### 1.2.2.3 Lean UX Hypothesis Statements
-Prueba de guithub Jose Ampudia
+* **Hypothesis Statement 01:**
+
+  **Creemos que** la plataforma se convertirá en el medio principal de los dueños de mascota para agendar sus citas en los centros veterinarios.
+
+  **Sabremos** que hemos tenido éxito.
+
+  **Cuando** los centros veterinarios recomienden a sus clientes usar la plataforma para agendar sus siguientes citas.
+
+* **Hypothesis Statement 02:**
+ 
+  **Creemos que** la plataforma será un sitio confiable para que los usuarios busquen centros veterinarios para atender a sus mascotas.
+
+  **Sabremos** que hemos tenido éxito.
+
+  **Cuando** la mayoría de los centros veterinarios estén registrados en nuestra aplicación y tengan su clasificación correspondiente.
+
+* **Hypothesis Statement 03:**
+
+  **Creemos que** cambiar al plan “Seguro Mascota” será necesario para lo usuarios gratuitos que usen la aplicación de manera frecuente.
+
+  **Sabremos** que hemos tenido éxito.
+
+  **Cuando** más del 50% de nuestros usuarios sean parte del plan “Seguro Mascota”.
+
+* **Hypothesis Statement 04:**  
+
+  **Creemos que** las tarifas de comisión en las transacciones no serán un problema para los centros veterinarios.
+
+  **Sabremos** que hemos tenido éxito.
+
+  **Cuando** se perciba que la mayoría de las reservas que realizan en los centros veterinarios sean mediante nuestra plataforma.
 
 ##### 1.2.2.4 Lean UX Canvas
 
