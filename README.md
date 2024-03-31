@@ -276,8 +276,8 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>u202112655</td>
   </tr>
   <tr>
-    <td><img src="ruta/de/imagen4.jpg"></td>
-    <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero, estudiante de la carrera de Ingenieria de Software</td>
+    <td><img src="https://cdn.discordapp.com/attachments/994490616895508562/1223874821390340118/404238912_1314618935891178_4571362781138523450_n.png?ex=661b713f&is=6608fc3f&hm=9e40278aecac7006c0b585898390889c4571314c6d3bbab8a3890e4c2ae0c2dc&=&format=webp&quality=lossless&width=622&height=622"></td>
+    <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero,  estudiante de Ingeniería de Software. Poseo habilidades técnicas sólidas en el desarrollo web, incluyendo HTML5, CSS3, JavaScript, Typescript, React y Python. Además, tengo experiencia trabajando con frameworks de UI como Bootstrap y Tailwind CSS. Me considero una persona proactiva y altamente comprometida con mis proyectos. Siempre busco mejorar mis habilidades y aprender nuevas tecnologías.</td>
     <td>U202113930</td>
   </tr>
   <tr>
