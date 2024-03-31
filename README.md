@@ -281,9 +281,9 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>U202113930</td>
   </tr>
   <tr>
-    <td><img src="ruta/de/imagen5.jpg"></td>
-    <td>Descripción 5</td>
-    <td>u202011431</td>
+    <td><img src="https://cdn.discordapp.com/attachments/753052583509360660/1224131890856853524/image.png?ex=661c60aa&is=6609ebaa&hm=652ec8c60797ca1d3b19e5dfe9ff9db59e306be55d1ef242a8331aba7d13d11a&"></td>
+    <td>Mi nombre es Renzo Manuel Ramos Ramirez. Actualmente estoy estudiando la carrera de Ingeniería de Software. Me gusta aportar ideas al equipo y ser de ayuda a mis compañeros. En cuanto a mis experiencias, he aprendido a desarrollar aplicaciones de escritorio y de web empleando tecnologías conocidas (C#, .NET framework, ASP.NET, javascript y python).</td>
+    <td>U202113745</td>
   </tr>
 </table>
 
