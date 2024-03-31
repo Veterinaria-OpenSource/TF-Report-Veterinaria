@@ -98,7 +98,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           <br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
-          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
+          Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Breve texto<br><br>
@@ -272,7 +272,7 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
   </tr>
   <tr>
     <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
-    <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.Soy puntual y comprometido con los trabamos, tambien tengo manejo en python.</td>
+    <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.  Soy puntual y comprometido con los trabajos, también tengo manejo en python.</td>
     <td>u202112655</td>
   </tr>
   <tr>
