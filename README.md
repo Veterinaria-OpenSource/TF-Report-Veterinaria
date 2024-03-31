@@ -265,25 +265,25 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>u202112936</td>
   </tr>
   <tr>
-    <td><img src="ruta/de/imagen2.jpg"></td>
-    <td>Descripción 2</td>
-    <td>u202113745</td>
+    <td><img src="https://media.discordapp.net/attachments/1025767455454412901/1223852354659418123/image.png?ex=661b5c53&is=6608e753&hm=3ae03c26c116b1d67f6ad465cfa1688b5e57f47e29d6a590625f3e310d943e1d&=&format=webp&quality=lossless"></td>
+    <td>Soy un estudiante de Ingeniería de Software con una fuerte inclinación hacia el liderazgo y la organización de equipos, destacándome por mi participación activa y proactiva en proyectos. Mi enfoque colaborativo me permite asignar tareas de manera eficiente y motivar a mis compañeros, mientras que mis habilidades técnicas en herramientas como Figma, Adobe XD, HTML y CSS respaldan mi capacidad para materializar ideas. Busco constantemente oportunidades de crecimiento y aprendizaje, y estoy comprometido con impulsar la innovación y el éxito en cualquier entorno de desarrollo de software.</td>
+    <td>u202011431</td>
   </tr>
-    <tr>
-        <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
-        <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.Soy puntual y comprometido con los trabamos, tambien tengo manejo en python.</td>
-        <td>u202112655</td>
-    </tr>
-    <tr>
-        <td><img src="ruta/de/imagen4.jpg"></td>
-        <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero, estudiante de la carrera de Ingenieria de Software</td>
-        <td>U202113930</td>
-    </tr>
-    <tr>
-        <td><img src="ruta/de/imagen5.jpg"></td>
-        <td>Descripción 5</td>
-        <td>u202011431</td>
-    </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
+    <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.Soy puntual y comprometido con los trabamos, tambien tengo manejo en python.</td>
+    <td>u202112655</td>
+  </tr>
+  <tr>
+    <td><img src="ruta/de/imagen4.jpg"></td>
+    <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero, estudiante de la carrera de Ingenieria de Software</td>
+    <td>U202113930</td>
+  </tr>
+  <tr>
+    <td><img src="ruta/de/imagen5.jpg"></td>
+    <td>Descripción 5</td>
+    <td>u202011431</td>
+  </tr>
 </table>
 
 ### 1.2. Solution Profile
