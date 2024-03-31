@@ -556,11 +556,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 
 - Entrevistas realizadas a dueños de mascotas:
 
-| **Entrevista 1** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 1** | **Jean Morin** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 21 años |
+| **Distrito** | San Juan Bautista - Iquitos |
+| <img src=""/> | En la entrevista, nuestro invitado llamado Dominick Doza nos mencion
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
@@ -582,11 +582,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 
 - Entrevistas realizadas a veterinarios:
 
-| **Entrevista 1** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 1** | **Dominick Doza** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 26 años |
+| **Distrito** | San Juan Bautista - Iquitos |
+| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224080873910177903/image.png?ex=661c3126&is=6609bc26&hm=6b59a37af1717f60c8367b66f7c65f544334c63e076fe1bbf782d437deea1268&=&format=webp&quality=lossless&width=550&height=224"/> | En la entrevista, nuestro invitado Dominick Doza nos menciona que la atención veterinaria es un servicio esencial para el bienestar de las mascotas, lo mas importante para el es cuidar la salud de las mascotas. Nos menciona que la manera en la que gestiona las citas en su clinica veterinaria es a través de llamadas telefónicas y de manera presencial, y que rara vez usan los correos electronicos. Además, Dominick hace mención que le agrada la idea de una plataforma para reservar citas en línea, ya que le facilitaria la gestión de citas y la comunicación con los dueños de mascotas. Nos menciona que le gustaría ver una plataforma en linea fácil de usar y que las funcinoalidades sean claras y precisas. Además, el hecho de que la plataforma sea intuitiva y y tenga un funcionamiento optimo, es lo que le llevaría a Dominck a recomendar la plataforma a otros colegas veterinarios. Nos menciona que como servicio adicional le gustaría que la plataforma ofrezca un sistema de recordatorios de citas para mantener a los dueños de mascotas informados sobre las citas de sus mascotas. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
