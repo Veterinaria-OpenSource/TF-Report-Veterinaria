@@ -534,11 +534,9 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
   1. ¿Podría mencionarme cuántos años tiene?
   2. ¿En qué distrito resides?
   3. ¿Tienes alguna ocupación o profesión?
-  4. ¿Trabajas en una clínica veterinaria o eres veterinario independiente?
-  5. ¿Qué servicios ofreces en tu clínica veterinaria o como veterinario independiente?
+  5. ¿Qué servicios ofreces en tu clínica veterinaria?
   6. ¿Qué te parece más importante al atender a una mascota?
   7. ¿Cómo gestionas las citas en tu clínica veterinaria?
-  8. ¿Qué servicios ofreces en tu clínica veterinaria?
   9. Normalmente, ¿cómo se comunican los dueños de mascotas contigo?
   10. ¿Qué te parece más importante al elegir una plataforma de agendamiento de citas veterinarias?
   11. ¿Qué opinas de la idea de agendar citas en línea?
@@ -546,7 +544,6 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
   13. ¿Qué te gustaría ver en una plataforma de agendamiento de citas veterinarias?
   14. ¿Qué te motiva a recomendar una plataforma de agendamiento de citas veterinarias a otros veterinarios?
   15. ¿Qué te gustaría que Vet Connect ofrezca como servicio adicional?
-  16. ¿Qué te gustaría que Vet Connect mejore en su plataforma?
 
 #### 2.2.2. Registro de entrevistas
 
