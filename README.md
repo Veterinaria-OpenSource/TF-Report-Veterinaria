@@ -432,7 +432,7 @@ Debe verse como una plataforma fácil de usar y que sea familiar para el dueño 
 
 ##### 1.2.2.4 Lean UX Canvas
 
-Prueba Jeremy
+<img src="https://media.discordapp.net/attachments/1025767455454412901/1223861548674715719/image.png?ex=661b64e3&is=6608efe3&hm=e55552cd6633b52b89378432a4810fcfdb47c4f94dd85ce172ac5dc807e2fd39&=&format=webp&quality=lossless&width=986&height=527">
 
 ### 1.3. Segmentos objetivo
 
