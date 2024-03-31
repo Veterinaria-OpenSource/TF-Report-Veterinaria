@@ -97,7 +97,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           Breve texto<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
-          Breve texto<br><br>
+          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Breve texto<br><br>
@@ -119,7 +119,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           Breve texto<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
-          Breve texto<br><br>
+          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1</strong><br>
           Breve texto<br><br>
