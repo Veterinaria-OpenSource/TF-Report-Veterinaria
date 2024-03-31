@@ -601,6 +601,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 
 #### 2.2.3. Análisis de entrevistas
 
+**Análisis del segmento Cliente (Dueño de mascotas):**
+
+
+**Análisis del segmento Veterinario:**
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 #### 2.3.2. User Task Matrix
