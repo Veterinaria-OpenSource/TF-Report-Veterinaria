@@ -270,8 +270,8 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>u202113745</td>
   </tr>
     <tr>
-        <td><img src="ruta/de/imagen3.jpg"></td>
-        <td>Descripción 3</td>
+        <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
+        <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.Soy puntual y comprometido con los trabamos, tambien tengo manejo en python.</td>
         <td>u202112655</td>
     </tr>
     <tr>
