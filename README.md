@@ -27,10 +27,10 @@
 | Nombres                          | Codigo     |
 | -------------------------------- | ---------- |
 | Jose Carlos Isaac Ampudia Flores | u202112936 |
-| Renzo Manuel Ramos Ramirez       | u202113745 |
+| Luiggi Jeremy Antonio Loayza     | u202011431 |
 | Brayan Stiven Gamboa Delgado     | u202112655 |
 | Fabricio Iparraguirre            | U202113930 |
-| Luiggi Jeremy Antonio Loayza     | u202011431 |
+| Renzo Manuel Ramos Ramirez       | u202113745 |
 
 #### Ciclo 2024 - 01
 
@@ -41,10 +41,10 @@
 | Version | Fecha      | Autor                            | Descripción de modificación               |
 | ------- | ---------- | -------------------------------- | ----------------------------------------- |
 | 1.0     | 2024-06-30 | Jose Carlos Isaac Ampudia Flores | Creación del Informe                      |
-| 1.1     | 2024-07-01 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
+| 1.1     | 2024-07-01 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
 | 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Modificación de la estructura del Informe |
 | 1.3     | 2024-07-03 | Fabricio Iparraguirre            | Modificación de la estructura del Informe |
-| 1.4     | 2024-07-04 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
+| 1.4     | 2024-07-04 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
 
 ### Project Report Collaboration Instights
 
@@ -60,20 +60,20 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 | Miembro                          | Responsabilidad |
 | -------------------------------- | --------------- |
 | Jose Carlos Isaac Ampudia Flores | Tarea 1         |
-| Renzo Manuel Ramos Ramirez       | Tarea 2         |
+| Luiggi Jeremy Antonio Loayza     | Tarea 2         |
 | Brayan Stiven Gamboa Delgado     | Tarea 3         |
 | Fabricio Iparraguirre            | Tarea 4         |
-| Luiggi Jeremy Antonio Loayza     | Tarea 5         |
+| Renzo Manuel Ramos Ramirez       | Tarea 5         |
 
 Es importante mencionar que durante la elaboración del informe se realizaron commits respectivos a cada tarea asignada, con el fin de mantener un control de versiones y colaboración en tiempo real.
 
 **Miembros**
 
 - José Ampudia (IsaacAmp24)
-- Renzo Ramos (RenzoRamosR)
+- Luiggi Jeremy Antonio Loayza (JeremyAntonio)
 - Brayan Stiven Gamboa Delgado (GamboaBrayan)
 - Fabricio Iparraguirre (fabriciodev26)
-- Luiggi Jeremy Antonio Loayza (JeremyAntonio)
+- Renzo Ramos (RenzoRamosR)
 
 Gracias a GitHub, se ha podido llevar un control de versiones y colaboración en tiempo real, permitiendo a los miembros del equipo trabajar de manera asincrónica y sincrónica en el proyecto. Además, gracias a Gitflow, se ha creado varias ramas para el desarrollo de las tareas asignadas, permitiendo a los miembros del equipo trabajar de manera independiente y colaborativa en el proyecto.
 
@@ -92,16 +92,17 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           <td><strong>Ampudia, José</strong><br>
           <strong>TB1:</strong><br>
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
-          <strong>Ramos, Renzo</strong><br>
+          <strong>Jeremy, Antonio</strong><br>
           <strong>TB1:</strong><br>
-          Breve texto<br><br>
+          Se planteó el desarrollo del startup junto al Lean UX Canvas, entrevistas/análisis, User Task Matrix  y To-Be Scenario Mapping.
+          <br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Breve texto<br><br>
-          <strong>Jeremy, Antonio</strong><br>
+          <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
           Breve texto<br><br>
         </td>
@@ -114,16 +115,16 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
     <td><strong>Ampudia, José</strong><br>
     <strong>TB1:</strong><br>
           Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
-          <strong>Ramos, Renzo</strong><br>
+          <strong>Jeremy, Antonio </strong><br>
           <strong>TB1</strong><br>
-          Breve texto<br><br>
+          Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, se realizó la entrevista junto a su análisis, desarrollo User Task Matrix  y To-Be Scenario Mapping.<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1</strong><br>
           Breve texto<br><br>
-          <strong>Jeremy, Antonio</strong><br>
+          <strong>Ramos, Renzo</strong><br>
           <strong>TB1</strong><br>
          Breve texto<br><br>
     </td>
