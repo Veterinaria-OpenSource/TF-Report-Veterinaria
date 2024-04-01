@@ -564,11 +564,21 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
-| **Entrevista 2** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 2** | **Adriana Valdivia** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 21 años |
+| **Distrito** | Cercado de Lima |
+| <img src="https://cdn.discordapp.com/attachments/1004952348034093067/1224452936936194158/image.png?ex=661d8ba9&is=660b16a9&hm=a3a99101d4406525db0c8ba50edadd1fd37f95ff01bf915aba367c25d0b3d4da&" width="100"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos 
+comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva 
+para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas.
+Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo
+para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, 
+la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las
+reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que
+se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias
+están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se
+sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier
+momento. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
