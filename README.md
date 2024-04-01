@@ -590,11 +590,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
-| **Entrevista 2** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 2** | **Mathías Mejía** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 21 años |
+| **Distrito** | Breña - Lima |
+| <img src="https://media.discordapp.net/attachments/1025767455454412901/1224417366868234250/image.png?ex=661d6a88&is=660af588&hm=0db9cca951b2909291f4f9b37f5171d4c09d4436c1e58b0300e9180be8b6de26&=&format=webp&quality=lossless&width=1031&height=342"/> | Nuestro invitado Mathías Mejía nos explica claramente como la serenidad al momento de atender una mascota es la características principal del servicio que brinda como veterinario. Además, indica que en las dos clinicas que trabajó la manera de gestionar las citas fué muy distinta ya que en la primera clínica que trabajó fue de manera más clásica al ir el cliente a reservar una cita, de diferente forma la segunda clínica estaba ligeramente mejor organizada debido a que sí se podía agendar cita mediante llamada, cabe destacar que ninguna de las dos contaba con una plataforma web. Mathías destacó que una plataforma web intuitiva sería de mucha ayuda durante los turnos de noche debido a que a esas horas los veterinarios no cuentan con atención directa y por ende los médicos asumen el rol de atención al cliente. Finalmente nos menciona que le parece genial la idea de la creación de una plataforma web que resuelva todos estos problemas, y comenta que el valor añadido que puede tener la plataforma sería la habiltiación del apartado reserva de transporte el cual se ocuparía del traslado de las mascotas de su hogar a la veterinaria y viceversa. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
