@@ -101,7 +101,8 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
-          Breve texto<br><br>
+          Se ha realizó un análisis detallado de los segmentos objetivos, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.
+          <br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
           Breve texto<br><br>
