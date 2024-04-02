@@ -262,7 +262,7 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <th>Codigo de usuario</th>
   </tr>
   <tr>
-    <td><img src="https://media.discordapp.net/attachments/1172792135318249557/1222828227496513546/cara_jocais.jpg?ex=6617a288&is=66052d88&hm=9c397c7eff93318c0b7f1ded6b36db49a9d00cc7f6785531a54bf5fa47e741d8&=" width="80"></td>
+    <td><img src="https://media.discordapp.net/attachments/1172792135318249557/1222828227496513546/cara_jocais.jpg?ex=6617a288&is=66052d88&hm=9c397c7eff93318c0b7f1ded6b36db49a9d00cc7f6785531a54bf5fa47e741d8&="></td>
     <td>Mi nombre es José Carlos Isaac Ampudia Flores, estudiante de la carrera de Ingeniería de Software, actualmente curso el septimo ciclo de la carrera, tengo habilidades en el desarrollo web, y manejo algunos lenguajes como, JavaScript, C#, Java. Algunos frameworks como Vue.js y Angular</td>
     <td>u202112936</td>
   </tr>
