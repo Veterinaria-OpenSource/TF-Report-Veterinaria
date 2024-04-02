@@ -560,10 +560,10 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Entrevista 1** | **Jean Morin** |
 | --- | --- |
 | **Edad** | 21 años |
-| **Distrito** | San Juan Bautista - Iquitos |
-| <img src=""/> | En la entrevista, nuestro invitado llamado Dominick Doza nos mencion
+| **Distrito** | Miraflores |
+| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224609078504853514/image.png?ex=661e1d14&is=660ba814&hm=eb6140264a329eff738bdf545142fc0afab90a654a76d1bae4d9912dbdc612ce&=&format=webp&quality=lossless&" width="100"/> | En la entrevista, nuestro invitado llamado Jean Morin nos menciona que tiene 1 mascota, y los lleva al veterinario cada 2 veces al mes, a veces 3 en caso de emergencias, también nos menciona que cuando acude a estos centros veterinarios suele solicitar servicios como vacunas, desparasitación y baños. Por otro lado, nos menciona que en una atencion veterinaria, podria mejorarse la interaccion directa entre el dueño de la mascota y el veterinario, ya que para nuestro invitado, la comunicacion entre estos 2 segmentos no es tan clara como le gustaria, tambien nos menciona que lo mas importante para el cuando elige una clinica veterinaria es la calidad de atencion que le brindan a su mascota y la confiabilidad de los veterinarios. Además, nos menciona que una plataforma en linea seria una muy buena opcion, y que le gustaria que sea una interfaz facil de usar con recordatorios para las citas. Ademas, nos menciono que Vet Connect deberia mostrar los servicios que ofrecen las veterinarias, y que si hubiera la posibilidad de que se hiciera atencion a domicilio, seria un plus para el. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 00:02 - 6:18 |
 
 | **Entrevista 2** | **Adriana Valdivia** |
 | --- | --- |
@@ -571,15 +571,15 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Distrito** | Cercado de Lima |
 | <img src="https://cdn.discordapp.com/attachments/1004952348034093067/1224452936936194158/image.png?ex=661d8ba9&is=660b16a9&hm=a3a99101d4406525db0c8ba50edadd1fd37f95ff01bf915aba367c25d0b3d4da&" width="100"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas. Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier momento. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 6:19 - 10:37 |
 
 | **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
 | --- | --- |
 | **Edad** | 30 años |
 | **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224618812385792080/image.png?ex=661e2625&is=660bb125&hm=3a67653712ca7f5dec3b7045c9341f2465d9b3a14f93abbe31ff8d0f059649ce&=&format=webp&quality=lossless" width="100"/> | Poner de qué trató la entrevista |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 10:38 - 17:00 |
 
 - Entrevistas realizadas a veterinarios:
 
@@ -589,7 +589,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Distrito** | San Juan Bautista - Iquitos |
 | <img src="https://media.discordapp.net/attachments/1172792135318249557/1224080873910177903/image.png?ex=661c3126&is=6609bc26&hm=6b59a37af1717f60c8367b66f7c65f544334c63e076fe1bbf782d437deea1268&=&format=webp&quality=lossless&width=550&height=224"/> | En la entrevista, nuestro invitado Dominick Doza nos menciona que la atención veterinaria es un servicio esencial para el bienestar de las mascotas, lo mas importante para el es cuidar la salud de las mascotas. Nos menciona que la manera en la que gestiona las citas en su clinica veterinaria es a través de llamadas telefónicas y de manera presencial, y que rara vez usan los correos electronicos. Además, Dominick hace mención que le agrada la idea de una plataforma para reservar citas en línea, ya que le facilitaria la gestión de citas y la comunicación con los dueños de mascotas. Nos menciona que le gustaría ver una plataforma en linea fácil de usar y que las funcinoalidades sean claras y precisas. Además, el hecho de que la plataforma sea intuitiva y y tenga un funcionamiento optimo, es lo que le llevaría a Dominck a recomendar la plataforma a otros colegas veterinarios. Nos menciona que como servicio adicional le gustaría que la plataforma ofrezca un sistema de recordatorios de citas para mantener a los dueños de mascotas informados sobre las citas de sus mascotas. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 17:01 - 25:40 |
 
 | **Entrevista 2** | **Mathías Mejía** |
 | --- | --- |
@@ -597,7 +597,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Distrito** | Breña - Lima |
 | <img src="https://media.discordapp.net/attachments/1025767455454412901/1224417366868234250/image.png?ex=661d6a88&is=660af588&hm=0db9cca951b2909291f4f9b37f5171d4c09d4436c1e58b0300e9180be8b6de26&=&format=webp&quality=lossless&width=1031&height=342"/> | Nuestro invitado Mathías Mejía nos explica claramente como la serenidad al momento de atender una mascota es la características principal del servicio que brinda como veterinario. Además, indica que en las dos clinicas que trabajó la manera de gestionar las citas fué muy distinta ya que en la primera clínica que trabajó fue de manera más clásica al ir el cliente a reservar una cita, de diferente forma la segunda clínica estaba ligeramente mejor organizada debido a que sí se podía agendar cita mediante llamada, cabe destacar que ninguna de las dos contaba con una plataforma web. Mathías destacó que una plataforma web intuitiva sería de mucha ayuda durante los turnos de noche debido a que a esas horas los veterinarios no cuentan con atención directa y por ende los médicos asumen el rol de atención al cliente. Finalmente nos menciona que le parece genial la idea de la creación de una plataforma web que resuelva todos estos problemas, y comenta que el valor añadido que puede tener la plataforma sería la habiltiación del apartado reserva de transporte el cual se ocuparía del traslado de las mascotas de su hogar a la veterinaria y viceversa. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 25:41 - 35:10 |
 
 | **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
 | --- | --- |
