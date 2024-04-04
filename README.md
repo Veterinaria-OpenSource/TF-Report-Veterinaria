@@ -573,11 +573,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | 6:19 - 10:37 |
 
-| **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 3** | **Entrevistado: Paolo Andres Espejo** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224618812385792080/image.png?ex=661e2625&is=660bb125&hm=3a67653712ca7f5dec3b7045c9341f2465d9b3a14f93abbe31ff8d0f059649ce&=&format=webp&quality=lossless" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 20 años |
+| **Distrito** | Junín, Huancayo |
+| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224618812385792080/image.png?ex=661e2625&is=660bb125&hm=3a67653712ca7f5dec3b7045c9341f2465d9b3a14f93abbe31ff8d0f059649ce&=&format=webp&quality=lossless" width="100"/> | Durante la entrevista con Paolo Espejo, nos comentó que tiene una mascota al cual lleva al veterinario una vez al mes para que le realicen chequeos y le apliquen las vacunas correspondientes si es de ser necesario. También indica que tiene algunos problemas a la hora de la atención ya que suele tomar demasiado tiempo debido a que el centro veterinario al que va suele estar lleno y no tiene un horario fijo para cada cliente. Lo que más busca a la hora de elegir un centro médico es que sea uno confiable y seguro para que nada malo le pase a su mascota. Se mostró interesado en nuestra propuesta pero nos sugiere que agreguemos la funcionalidad de agregar a "favoritos" los centros veterinarios que le parezca mejor para su mascota y que también la plataforma esté disponible 24/7 para realizar las reservas correctamente y sin ningún problema. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | 10:38 - 17:00 |
 
