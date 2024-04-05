@@ -666,6 +666,15 @@ La principal diferencia radica en las tareas relacionadas con la gestión de dis
 ## Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+
+**Segmento Clientes**
+
+<img src="https://media.discordapp.net/attachments/1025767455454412901/1225695565547831347/image.png?ex=662210f3&is=660f9bf3&hm=79b9aa4fdd29056c86021a01b163eac881ad4eaf47722d777b63d9283dfa49b1&=&format=webp&quality=lossless&width=903&height=478">
+
+**Segmento Veterinarias**
+
+<img src="https://media.discordapp.net/attachments/1025767455454412901/1225697558249209866/image.png?ex=662212ce&is=660f9dce&hm=c6ba24d62ba481e105cbc6bfd4f7dc1d1fabe20cda140890008b3267cde47553&=&format=webp&quality=lossless&width=906&height=478">
+
 ### 3.2. User Stories
 Los User Stories son una técnica de desarrollo ágil que se utiliza para describir las funcionalidades de un sistema desde el punto de vista del usuario. Cada User Story describe una funcionalidad específica que el usuario necesita para cumplir un objetivo. Las User Stories se escriben en un lenguaje sencillo y se centran en las necesidades del usuario. A continuación, se presentan algunas User Stories para Vet Connect:
 
