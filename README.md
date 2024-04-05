@@ -599,11 +599,11 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | 25:41 - 35:10 |
 
-| **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 3** | **Louise Vélez de Villa** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="ruta/de/la/imagen.jpg" width="100"/> | Poner de qué trató la entrevista |
+| **Edad** | 21 años |
+| **Distrito** | Santa Anita - Lima |
+| <img src="https://media.discordapp.net/attachments/994490616895508562/1225819197041414248/image.png?ex=66228417&is=66100f17&hm=26581b40313da51b4738f2191ca3dad0b5bb796a5b596c9cf039eb7ad7cc0252&=&format=webp&quality=lossless&width=687&height=317" width="100"/> | Nuestra invitada Louise Vélez de Villa nos comenta [Falta agregar Poner de qué trató la entrevista]
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
 
