@@ -566,7 +566,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Timming** | 00:09 - 6:27 |
 
 
-| **Entrevista 2** | **Entrevistado: Paolo Andres Espejo** |
+| **Entrevista 2** | **Paolo Andres Espejo** |
 | --- | --- |
 | **Edad** | 20 años |
 | **Distrito** | Junín, Huancayo |
