@@ -600,13 +600,13 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 25:57 - 35:27 |
 
-| **Entrevista 3** | **Entrevistado: Nombre y Apellido** |
+| **Entrevista 3** | **Louise Vélez de Villa** |
 | --- | --- |
-| **Edad** | 30 años |
-| **Distrito** | Lima |
-| <img src="https://media.discordapp.net/attachments/1172792135318249557/1225930397452472422/image.png?ex=6622eba7&is=661076a7&hm=0929e39d18f7f1490471a44fb1242690085aac59960751450b28eeac76dcb1bb&=&format=webp&quality=lossless" width="100"/> | Poner de qué trató la entrevista |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=qx29xb) |
-| **Timming** | 35:28 - 46:15 |
+| **Edad** | 21 años |
+| **Distrito** | Santa Anita - Lima |
+| <img src="https://media.discordapp.net/attachments/994490616895508562/1225819197041414248/image.png?ex=66228417&is=66100f17&hm=26581b40313da51b4738f2191ca3dad0b5bb796a5b596c9cf039eb7ad7cc0252&=&format=webp&quality=lossless&width=687&height=317" width="100"/> | Durante la entrevista con nuestra invitada Louise Vélez de Villa enfatiza la importancia de la atención veterinaria como un servicio esencial para garantizar el bienestar de las mascotas. Para ella, cuidar la salud de los animales es una prioridad indiscutible. Louise explica que en la clínica veterinaria donde trabaja, gestionan las citas a través de atención presencial, WhatsApp y también llamadas telefónicas en situaciones de urgencias.Louise muestra interés en la idea de implementar una plataforma para reservar citas en línea, reconociendo los beneficios que esto traería en términos de simplificar la gestión de citas y mejorar la comunicación con los dueños de mascotas. Ella destaca la importancia de que esta plataforma sea fácil de usar, con funcionalidades claras y precisas tanto para los usuarios como para el personal veterinario. Considera que la intuitividad y el funcionamiento óptimo de la plataforma serían aspectos fundamentales para que ella la recomiende a sus colegas veterinarios.Además, como un servicio adicional, Louise propone que la plataforma permita a los dueños de mascotas completar un formulario en caso de emergencia. Este formulario les permitiría proporcionar información detallada sobre la situación de su mascota, incluyendo fotos, tamaño y una descripción del problema. Louise cree firmemente que esto permitiría al personal veterinario estar mejor preparado para atender las necesidades de las mascotas en momentos críticos. Asimismo, resalta la importancia de los recordatorios de citas para mantener a los clientes informados y comprometidos con los horarios de atención de sus mascotas.
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
+| **Timming** | 35:28 - 46:16 |
 
 #### 2.2.3. Análisis de entrevistas
 
