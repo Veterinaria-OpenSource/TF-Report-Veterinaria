@@ -618,6 +618,25 @@ El 100% de nuestros entrevistados presenta una edad entre 20 – 23 años de eda
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+
+- **User Persona Dueño de Mascota**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075238710775808/John_Smith.png?ex=6623728c&is=6610fd8c&hm=3ade64ef50c410355b53c29a0b251bac94de5553bdf0226705288c326e2a51f2&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+
+- **User Persona Veterinario**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075294297755658/Alana_Cohen.png?ex=66237299&is=6610fd99&hm=9659134c4d7485cb4a05b8340196c857f927d38def41ec66a5afa6d0efa21240&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+
 #### 2.3.2. User Task Matrix
 
 Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
