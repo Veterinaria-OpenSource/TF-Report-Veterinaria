@@ -562,24 +562,25 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Edad** | 21 años |
 | **Distrito** | Miraflores |
 | <img src="https://media.discordapp.net/attachments/1172792135318249557/1224609078504853514/image.png?ex=661e1d14&is=660ba814&hm=eb6140264a329eff738bdf545142fc0afab90a654a76d1bae4d9912dbdc612ce&=&format=webp&quality=lossless&" width="100"/> | En la entrevista, nuestro invitado llamado Jean Morin nos menciona que tiene 1 mascota, y los lleva al veterinario cada 2 veces al mes, a veces 3 en caso de emergencias, también nos menciona que cuando acude a estos centros veterinarios suele solicitar servicios como vacunas, desparasitación y baños. Por otro lado, nos menciona que en una atencion veterinaria, podria mejorarse la interaccion directa entre el dueño de la mascota y el veterinario, ya que para nuestro invitado, la comunicacion entre estos 2 segmentos no es tan clara como le gustaria, tambien nos menciona que lo mas importante para el cuando elige una clinica veterinaria es la calidad de atencion que le brindan a su mascota y la confiabilidad de los veterinarios. Además, nos menciona que una plataforma en linea seria una muy buena opcion, y que le gustaria que sea una interfaz facil de usar con recordatorios para las citas. Ademas, nos menciono que Vet Connect deberia mostrar los servicios que ofrecen las veterinarias, y que si hubiera la posibilidad de que se hiciera atencion a domicilio, seria un plus para el. |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | 00:02 - 6:18 |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
+| **Timming** | 00:09 - 6:27 |
 
-| **Entrevista 2** | **Adriana Valdivia** |
-| --- | --- |
-| **Edad** | 21 años |
-| **Distrito** | Cercado de Lima |
-| <img src="https://cdn.discordapp.com/attachments/1004952348034093067/1224452936936194158/image.png?ex=661d8ba9&is=660b16a9&hm=a3a99101d4406525db0c8ba50edadd1fd37f95ff01bf915aba367c25d0b3d4da&" width="100"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas. Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier momento. |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | 6:19 - 10:37 |
 
-| **Entrevista 3** | **Entrevistado: Paolo Andres Espejo** |
+| **Entrevista 2** | **Paolo Andres Espejo** |
 | --- | --- |
 | **Edad** | 20 años |
 | **Distrito** | Junín, Huancayo |
 | <img src="https://media.discordapp.net/attachments/1172792135318249557/1224618812385792080/image.png?ex=661e2625&is=660bb125&hm=3a67653712ca7f5dec3b7045c9341f2465d9b3a14f93abbe31ff8d0f059649ce&=&format=webp&quality=lossless" width="100"/> | Durante la entrevista con Paolo Espejo, nos comentó que tiene una mascota al cual lleva al veterinario una vez al mes para que le realicen chequeos y le apliquen las vacunas correspondientes si es de ser necesario. También indica que tiene algunos problemas a la hora de la atención ya que suele tomar demasiado tiempo debido a que el centro veterinario al que va suele estar lleno y no tiene un horario fijo para cada cliente. Lo que más busca a la hora de elegir un centro médico es que sea uno confiable y seguro para que nada malo le pase a su mascota. Se mostró interesado en nuestra propuesta pero nos sugiere que agreguemos la funcionalidad de agregar a "favoritos" los centros veterinarios que le parezca mejor para su mascota y que también la plataforma esté disponible 24/7 para realizar las reservas correctamente y sin ningún problema. |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | 10:38 - 17:00 |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
+| **Timming** | 06:28 - 12:51 |
+
+| **Entrevista 3** | **Adriana Valdivia** |
+| --- | --- |
+| **Edad** | 21 años |
+| **Distrito** | Cercado de Lima |
+| <img src="https://cdn.discordapp.com/attachments/1004952348034093067/1224452936936194158/image.png?ex=661d8ba9&is=660b16a9&hm=a3a99101d4406525db0c8ba50edadd1fd37f95ff01bf915aba367c25d0b3d4da&" width="100"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas. Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier momento. |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
+| **Timming** | 12:53 - 17:11 |
 
 - Entrevistas realizadas a veterinarios:
 
@@ -588,24 +589,24 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | **Edad** | 26 años |
 | **Distrito** | San Juan Bautista - Iquitos |
 | <img src="https://media.discordapp.net/attachments/1172792135318249557/1224080873910177903/image.png?ex=661c3126&is=6609bc26&hm=6b59a37af1717f60c8367b66f7c65f544334c63e076fe1bbf782d437deea1268&=&format=webp&quality=lossless&width=550&height=224"/> | En la entrevista, nuestro invitado Dominick Doza nos menciona que la atención veterinaria es un servicio esencial para el bienestar de las mascotas, lo mas importante para el es cuidar la salud de las mascotas. Nos menciona que la manera en la que gestiona las citas en su clinica veterinaria es a través de llamadas telefónicas y de manera presencial, y que rara vez usan los correos electronicos. Además, Dominick hace mención que le agrada la idea de una plataforma para reservar citas en línea, ya que le facilitaria la gestión de citas y la comunicación con los dueños de mascotas. Nos menciona que le gustaría ver una plataforma en linea fácil de usar y que las funcinoalidades sean claras y precisas. Además, el hecho de que la plataforma sea intuitiva y y tenga un funcionamiento optimo, es lo que le llevaría a Dominck a recomendar la plataforma a otros colegas veterinarios. Nos menciona que como servicio adicional le gustaría que la plataforma ofrezca un sistema de recordatorios de citas para mantener a los dueños de mascotas informados sobre las citas de sus mascotas. |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | 17:01 - 25:40 |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
+| **Timming** | 17:20 - 25:56 |
 
 | **Entrevista 2** | **Mathías Mejía** |
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Breña - Lima |
 | <img src="https://media.discordapp.net/attachments/1025767455454412901/1224417366868234250/image.png?ex=661d6a88&is=660af588&hm=0db9cca951b2909291f4f9b37f5171d4c09d4436c1e58b0300e9180be8b6de26&=&format=webp&quality=lossless&width=1031&height=342"/> | Nuestro invitado Mathías Mejía nos explica claramente como la serenidad al momento de atender una mascota es la características principal del servicio que brinda como veterinario. Además, indica que en las dos clinicas que trabajó la manera de gestionar las citas fué muy distinta ya que en la primera clínica que trabajó fue de manera más clásica al ir el cliente a reservar una cita, de diferente forma la segunda clínica estaba ligeramente mejor organizada debido a que sí se podía agendar cita mediante llamada, cabe destacar que ninguna de las dos contaba con una plataforma web. Mathías destacó que una plataforma web intuitiva sería de mucha ayuda durante los turnos de noche debido a que a esas horas los veterinarios no cuentan con atención directa y por ende los médicos asumen el rol de atención al cliente. Finalmente nos menciona que le parece genial la idea de la creación de una plataforma web que resuelva todos estos problemas, y comenta que el valor añadido que puede tener la plataforma sería la habiltiación del apartado reserva de transporte el cual se ocuparía del traslado de las mascotas de su hogar a la veterinaria y viceversa. |
-| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | 25:41 - 35:10 |
+| **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
+| **Timming** | 25:57 - 35:27 |
 
 | **Entrevista 3** | **Louise Vélez de Villa** |
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Santa Anita - Lima |
-| <img src="https://media.discordapp.net/attachments/994490616895508562/1225819197041414248/image.png?ex=66228417&is=66100f17&hm=26581b40313da51b4738f2191ca3dad0b5bb796a5b596c9cf039eb7ad7cc0252&=&format=webp&quality=lossless&width=687&height=317" width="100"/> | Nuestra invitada Louise Vélez de Villa nos comenta [Falta agregar Poner de qué trató la entrevista]
+| <img src="https://media.discordapp.net/attachments/994490616895508562/1225819197041414248/image.png?ex=66228417&is=66100f17&hm=26581b40313da51b4738f2191ca3dad0b5bb796a5b596c9cf039eb7ad7cc0252&=&format=webp&quality=lossless&width=687&height=317" width="100"/> | Durante la entrevista con nuestra invitada Louise Vélez de Villa enfatiza la importancia de la atención veterinaria como un servicio esencial para garantizar el bienestar de las mascotas. Para ella, cuidar la salud de los animales es una prioridad indiscutible. Louise explica que en la clínica veterinaria donde trabaja, gestionan las citas a través de atención presencial, WhatsApp y también llamadas telefónicas en situaciones de urgencias.Louise muestra interés en la idea de implementar una plataforma para reservar citas en línea, reconociendo los beneficios que esto traería en términos de simplificar la gestión de citas y mejorar la comunicación con los dueños de mascotas. Ella destaca la importancia de que esta plataforma sea fácil de usar, con funcionalidades claras y precisas tanto para los usuarios como para el personal veterinario. Considera que la intuitividad y el funcionamiento óptimo de la plataforma serían aspectos fundamentales para que ella la recomiende a sus colegas veterinarios.Además, como un servicio adicional, Louise propone que la plataforma permita a los dueños de mascotas completar un formulario en caso de emergencia. Este formulario les permitiría proporcionar información detallada sobre la situación de su mascota, incluyendo fotos, tamaño y una descripción del problema. Louise cree firmemente que esto permitiría al personal veterinario estar mejor preparado para atender las necesidades de las mascotas en momentos críticos. Asimismo, resalta la importancia de los recordatorios de citas para mantener a los clientes informados y comprometidos con los horarios de atención de sus mascotas.
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
-| **Timming** | Poner desde qué segundo empieza la primera entrevista y en qué segundo termina |
+| **Timming** | 35:28 - 46:16 |
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -617,6 +618,25 @@ El 100% de nuestros entrevistados presenta una edad entre 20 – 23 años de eda
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+
+- **User Persona Dueño de Mascota**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075238710775808/John_Smith.png?ex=6623728c&is=6610fd8c&hm=3ade64ef50c410355b53c29a0b251bac94de5553bdf0226705288c326e2a51f2&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+
+- **User Persona Veterinario**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075294297755658/Alana_Cohen.png?ex=66237299&is=6610fd99&hm=9659134c4d7485cb4a05b8340196c857f927d38def41ec66a5afa6d0efa21240&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+
 #### 2.3.2. User Task Matrix
 
 Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
