@@ -657,7 +657,7 @@ Se presentan los User Task Matrix que contiene las tareas que los User Persona r
 <td>Realizar reseñas</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>High</td> </tr> <tr>
 <td>Establecer metas</td> <td>Always</td> <td>Medium</td> <td>Always</td> <td>Medium</td> </tr> <tr>
 <td>Participar en desafios</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Low</td> </tr> <tr>
-<td>Apartado de sesión online</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr>
+<td>Apartado de sesión online</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> </table>
 
 **Trainer (Entrenador):**
 
@@ -678,6 +678,26 @@ Ambos segmentos coinciden en la importancia de registrarse en visualizar reseña
 La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para los entrenadores pero no tan relevante para los clientes.
 
 #### 2.3.3. User Journey Mapping
+
+En este apartado, se muestra el end-to-end journey de la aplicacion VetConnect. En el User Journey Mapping se presentan las etapas que los usuarios atraviesan al interactuar con la plataforma. Este empieza desde el momento en el que el cliente adquiere información sobre la plataforma, hacer uso, hasta el momento en el que deja de usar la aplicación.
+
+- **User Journey Mapping Dueño de Mascota**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226249566513401876/Journey_Map_Dueno_de_Mascota.png?ex=662414e7&is=66119fe7&hm=926d1414e7847e784ef71a63343927c822afec94e7a8ea6666bd391a38f1fb37&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+
+- **User Journey Mapping Veterinario**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226249598948085790/Alana_Cohen.png?ex=662414ef&is=66119fef&hm=9d5fc91dc2492662354b10d8b3234c11837c2c8d42b829087a2f47c5fc7d9a1c&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
 #### 2.3.4. Empathy Mapping
 #### 2.3.5. As-is Scenario Mapping
 
