@@ -699,7 +699,26 @@ En este apartado, se muestra el end-to-end journey de la aplicacion VetConnect. 
 </tr>
 
 #### 2.3.4. Empathy Mapping
+
 #### 2.3.5. As-is Scenario Mapping
+
+Para realizar el As-Is Scenario Mapping, es importante mencionar que se ha realizado un análisis de las entrevistas realizadas a los clientes y veterinarios, con el fin de identificar las necesidades y problemas que presentan al momento de reservar citas, este esquema presenta las etapas que los usuarios atraviesan al momento de reservar una cita en una clínica veterinaria.
+
+- **Dueño de Mascota:**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226299985121775696/image.png?ex=662443dc&is=6611cedc&hm=4108cfd1bfa210b383cecd1a4398e780d5bd339343fed7eb32dbbbbcc0e5c2bb&=&format=webp&quality=lossless">
+    </td>
+</tr>
+
+- **Veterinario:**
+
+<tr>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226403640571592776/image.png?ex=6624a465&is=66122f65&hm=12a2b93e4bf8f9a6cfa47c4009ba325c3696db4760eab107f7c5352daf7f257c&=&format=webp&quality=lossless">
+    </td>
+</tr>
 
 ### 2.4. Ubiquitous Language
 
