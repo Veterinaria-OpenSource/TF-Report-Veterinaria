@@ -726,6 +726,41 @@ Para realizar el As-Is Scenario Mapping, es importante mencionar que se ha reali
 
 ### 2.4. Ubiquitous Language
 
+En esta sección se muestra el Ubiquitous Language, el cual es un lenguaje común que se utiliza en el desarrollo de software para garantizar una comunicación efectiva entre los miembros del equipo de desarrollo y los stakeholders. El Ubiquitous Language se basa en un conjunto de términos y conceptos compartidos que se utilizan de manera consistente en todo el proceso de desarrollo de software. A continuación, se presentan algunos términos y conceptos clave relacionados con Vet Connect:
+
+1. **Vet Connect: (Vet Connect):**
+Una plataforma digital que revoluciona la forma en que las mascotas reciben atención veterinaria al ofrecer un servicio conveniente de citas y reservas en centros veterinarios, accesible a través de una plataforma web.
+
+2. **Pet Owner: (Propietario de mascotas):** 
+Individuos que poseen animales domésticos y buscan servicios veterinarios para la salud y el bienestar de sus mascotas.
+
+3. **Veterinary Clinic: (Clínica Veterinaria):** 
+Una instalación donde veterinarios con licencia proporcionan atención médica, tratamiento y servicios para animales, incluyendo consultas, diagnósticos y aseo.
+
+4. **Appointment Booking: (Reserva de Citas):** 
+El proceso mediante el cual los propietarios de mascotas programan citas para servicios veterinarios a través de la plataforma Vet Connect, garantizando una experiencia conveniente y simplificada.
+
+5. **Insurance for Pets: (Seguro para Mascotas):** 
+Un servicio ofrecido por Vet Connect que proporciona a los propietarios de mascotas una cobertura integral para gastos veterinarios, incluyendo consultas, diagnósticos, control de parásitos y aseo, por una tarifa mensual.
+
+6. **Consultation: (Consulta):** 
+Una reunión entre un propietario de mascotas y un veterinario para discutir la salud, el bienestar y las preocupaciones médicas de la mascota, lo que conduce a recomendaciones de diagnóstico y tratamiento.
+
+7. **Diagnostics: (Diagnósticos):** 
+Procedimientos y pruebas realizadas por veterinarios para identificar condiciones de salud, incluyendo análisis de sangre, radiografías y otros exámenes necesarios para el cuidado y tratamiento adecuados de las mascotas.
+
+8. **Parasite Control: (Control de Parásitos):** 
+Medidas tomadas para prevenir y tratar parásitos internos y externos en mascotas, como tratamientos antiparasitarios proporcionados por veterinarios a intervalos regulares.
+
+9. **Grooming: (Peluquería):** 
+Servicios dirigidos a mantener la higiene y apariencia de las mascotas, incluyendo sesiones de baño y aseo para garantizar su bienestar general.
+
+10. **Commission Fee: (Tarifa de Comisión):** 
+Una tarifa mínima aplicada por Vet Connect a las clínicas veterinarias que generan ingresos a través de la plataforma, garantizando un modelo de negocio sostenible y una compensación justa por los servicios de valor agregado.
+
+11. **Transaction Fee: (Tarifa por Transacción):** 
+Una tarifa impuesta por Vet Connect a las clínicas veterinarias por transacciones que superan un cierto umbral de ingresos mensuales, asegurando una compensación equitativa por los servicios proporcionados por la plataforma.
+
 ## Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
