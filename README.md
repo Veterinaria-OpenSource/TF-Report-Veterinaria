@@ -616,6 +616,10 @@ El 100% de nuestros entrevistados presenta una edad entre 20 – 23 años de eda
 
 **Análisis del segmento Veterinario:**
 
+En todas las entrevistas, se destaca la atención veterinaria como un servicio esencial para garantizar el bienestar de las mascotas. Los entrevistados concuerdan en que cuidar la salud de los animales es una prioridad indiscutible. En cuanto a la gestión de citas, se observa una variedad de métodos utilizados en las clínicas veterinarias, que van desde la atención presencial hasta el uso de llamadas telefónicas y WhatsApp. Sin embargo, en ninguna de las clínicas se emplea una plataforma en línea para reservar citas, lo que sugiere una oportunidad de mejora en este aspecto. Los entrevistados expresan un interés común en la implementación de una plataforma web para reservar citas, destacando la necesidad de que sea fácil de usar, con funcionalidades claras y precisas. La intuitividad y el funcionamiento óptimo de la plataforma son aspectos fundamentales que influirían en su recomendación a otros colegas veterinarios. Además de la gestión de citas, se sugiere la inclusión de servicios adicionales en la plataforma, como recordatorios de citas y formularios de emergencia. Estos servicios complementarios contribuirían a mejorar la experiencia del cliente y la atención a las mascotas, especialmente en situaciones críticas.
+
+En resumen, las entrevistas revelan una clara demanda por parte de los veterinarios de herramientas digitales que faciliten la gestión de citas y mejoren la comunicación con los dueños de mascotas. La implementación de una plataforma en línea con características intuitivas y servicios adicionales podría beneficiar tanto a los profesionales veterinarios como a los clientes, contribuyendo así al bienestar general de las mascotas.
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
