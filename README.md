@@ -831,7 +831,52 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 |**US027**| Generacion automatica de facturas | Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación. | **Escenario 1: Generar una factura automáticamente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se complete un servicio en el sistema. <br> **Entonces** se genera automáticamente una factura con los detalles del servicio y se envía al cliente por correo electrónico. | EP16 |
 
 ### 3.3. Impact Mapping
+
+
 ### 3.4. Product Backlog
+
+|#Orden|User Story Id|Titulo|Descripcion|Story Points|
+|---|---|---|---|---|
+|1|US001|Conocer informacion de la aplicacion|Como visitante de la landing page de Vet Connect quiero conocer la misión y visión de la empresa para saber de qué se trata el proyecto.|3|
+|2|US002|Contactar con la empresa|Como visitante de la landing page de Vet Connect quiero tener un formulario de contacto para proporcionar mi correo electrónico y recibir información sobre el servicio.|3|
+|3|US003|Enlace a la aplicacion|Como visitante de la landing page de Vet Connect quiero tener un enlace a la aplicación de manera directa desde la landing page para poder usar la plataforma y usar sus funcinoalidades.|3|
+|4|US004|Registrar Veterinario|Como Veterinario de Vet Connect quiero poder registrarme como Clinica Veterinaria para poder ofrecer mis servicios en la plataforma.|5|
+|5|US005|Registrar Dueño de Mascota|Como Dueño de Mascota de Vet Connect quiero poder registrarme como usuario para poder agendar citas y reservar servicios en la plataforma.|5|
+|6|US006|Inicio de sesion para Veterinarios y Dueños de mascotas|Como usuario de Vet Connect quiero poder iniciar sesión en la plataforma para acceder a los servicios y funcionalidades de la aplicacion|3|
+|7|US007|Busqueda de Veterinarias por ubicacion y servicios.|Como usuario de Vet Connect quiero poder buscar veterinarias por ubicacion y servicios para encontrar la clinica mas adecuada para mi mascota y cerca de mi ubicacion.|5|
+|8|US008|Ver perfiles de Veterinarias|Como usuario de Vet Connect quiero poder ver los perfiles de las veterinarias para conocer mas acerca de la clinica y los servicios que ofrecen y sobre todo las reseñas de otros usuarios.|5|
+|9|US009|Selección de fecha y hora para agendar cita|Como usuario de Vet Connect quiero poder seleccionar la fecha y hora para agendar una cita para asegurar la atención de mi mascota.|5|
+|10|US010|Selección de servicios para agendar cita|Como usuario de Vet Connect quiero poder seleccionar los servicios como baños, vacunas y desparasitaciones para reservar la cita y mantener a mi mascota sana y feliz.|5|
+|11|US011|Cancelacion de citas|Como usuario de Vet Connect quiero poder cancelar citas agendadas en caso de ser necesario para liberar el horario y permitir que otro usuario pueda agendar una cita.|5|
+|12|US012|Recordatorios de citas|Como usuario de Vet Connect quiero recibir recordatorios de citas para estar informado y no olvidar la cita de mi mascota.|3|
+|13|US013|Evaluacion de Veterinarias|Como usuario de Vet Connect quiero poder evaluar a las veterinarias y dejar comentarios para ayudar a otros usuarios a elegir la mejor clinica para su mascota.|5|
+|14|US014|Proceso de pago|Como usuario de Vet Connect quiero poder pagar los servicios en linea para realizar pagos seguros desde la misma plataforma.|5|
+|15|US015|Metodos de pago alternativos|Como usuario de Vet Connect quiero poder pagar los servicios en linea con metodos de pago alternativos para tener mas opciones de pago.|5|
+|16|US016|Visualizar perfil de usuario|Como usuario de Vet Connect quiero poder visualizar mi perfil para ver mis datos personales.|3|
+|17|US017|Visualizar perfil de veterinario|Como veterinario quiero poder visualizar mi perfil para ver mis datos de la veterinaria|3|
+|18|US018|Eliminar cuenta de usuario|Como usuario de Vet Connect quiero poder eliminar mi cuenta para dejar de recibir notificaciones y eliminar mis datos personales de la plataforma.|3|
+|19|US019|Eliminar cuenta de veterinario|Como veterinario quiero poder eliminar mi cuenta para dejar de ofrecer mis servicios en la plataforma y eliminar mis datos personales de la plataforma.|3|
+|20|US020|Modificar datos de usuario|Como usuario de Vet Connect quiero poder modificar mis datos personales para mantener actualizada mi información.|3|
+|21|US021|Lista de Servicios|Como clínica veterinaria, quiero poder listar todos los servicios que ofrecemos, desde consultas generales hasta procedimientos especializados, para que los clientes conozcan nuestras capacidades.|5|
+|22|US022|Configuracion de servicios|Como clínica veterinaria, quiero poder configurar la duración y los costos asociados con cada servicio, para garantizar una programación y facturación precisas.|5|
+|23|US023|Actualización de estado de servicios|Como clínica veterinaria, quiero poder configurar la duración y los costos asociados con cada servicio, para garantizar una programación y facturación precisas.|5|
+|24|US024|Vista de calendario|Como clínica veterinaria, quiero tener una vista de calendario que muestre todas las citas programadas y la disponibilidad del personal para facilitar la programación de la cita.|5|
+|25|US025|Notificaciones de nuevas citas|Como clínica veterinaria, quiero recibir notificaciones cuando se programe una nueva cita para poder revisarla y confirmarla en el sistema.|5|
+|26|US026|Mensajeria interna|Como clínica veterinaria, quiero tener una función de mensajería interna que me permita comunicarme con mis pacientes para coordinar citas y compartir información relevante.|5|
+|27|US027|Generacion automatica de facturas|Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación.|5|
+
+<br>
+
+- Captura de pantalla del tablero de Trello con las historias de usuario priorizadas.
+
+<tr>
+    <td>
+      <img src="">
+    </td>
+</tr>
+
+-  [Link del tablero de Trello - Vet Connect](https://trello.com/b/7Q6Z6Z8v/vet-connect)
+
 
 ## Capítulo 4: Product Design
 
