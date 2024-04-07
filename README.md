@@ -703,6 +703,14 @@ En este apartado, se muestra el end-to-end journey de la aplicacion VetConnect. 
 </tr>
 
 #### 2.3.4. Empathy Mapping
+- **Dueño de Mascota**
+
+  <img src= "https://cdn.discordapp.com/attachments/737081411416227973/1226409322020601887/Screenshot_1.png?ex=6624a9af&is=661234af&hm=aaecf06bfdd9906d3e2fc583f648d8fd420283acf19b78934994876c4984c2e8&">
+
+
+- **Veterinario:**
+
+  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1226427169169997916/image.png?ex=6624ba4f&is=6612454f&hm=56a8ab5a255006d09957d82104def3534c19f9523e4e5caec3c6b4fb168a0afd&">
 
 #### 2.3.5. As-is Scenario Mapping
 
