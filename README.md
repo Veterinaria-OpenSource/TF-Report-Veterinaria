@@ -832,6 +832,7 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
 ### 3.3. Impact Mapping
 
+<img src="https://media.discordapp.net/attachments/1219442976061653025/1226639232253034587/VetConnect.png?ex=66257fce&is=66130ace&hm=8557f143af10df91a0eabeaf75cf0f96863fa9cddd5097f97e61c067c9628b53&=&format=webp&quality=lossless&width=773&height=602"/>
 
 ### 3.4. Product Backlog
 
