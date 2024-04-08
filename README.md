@@ -924,6 +924,10 @@ Para el desarrollo del siguiente proyecto, se ha trabajado dentro del framework 
 |---|---|---|---|---|---|
 |1|19/03/2024|11:00 am|Reunion virtual mediante Discord|Jose Ampudia|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
 
+|Sprint 1 - Review Summary| Sprint 1 - Retrospective Summary|
+|---|---|
+|Se logró desarrollar la documentacion del proyecto y la elaboración del Landing Page de la aplicación VetConnect gracias a las ideas y sugerencias de nuestros entrevistados.|Se logró cumplir con el objetivo del Sprint 1, sin embargo, se debe mejorar la comunicación entre los miembros del equipo para que el desarrollo de las siguientes funcionalidades sea más eficiente.|
+
 |Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
 |---|---|---|
 |Desarrollar la documentacion del proyecto y la elaboración del Landing Page de la aplicación|5|13|
