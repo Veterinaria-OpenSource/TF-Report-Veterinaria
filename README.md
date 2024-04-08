@@ -934,6 +934,23 @@ Para el desarrollo del siguiente proyecto, se ha trabajado dentro del framework 
 
 ##### 5.2.1.2. Sprint Backlog 1
 
+En el Sprint Backlog 1 se encuentran las tareas que se realizarán en el Sprint 1. Para ello el equipo de desarrollo tuvo tareas asignadas para el desarrollo correcto de la Landing Page de la aplicación VetConnect, es por eso que usamos la herramienta de Trello. Esta herramienta nos permite tener un control de las tareas que se deben realizar y el estado en el que se encuentran. A continuación, se muestra el tablero de Trello con las tareas asignadas para el Sprint 1.
+
+![Trello](https://media.discordapp.net/attachments/1219442976061653025/1227043253988360304/image.png?ex=6626f815&is=66148315&hm=f1172e9ce2031cfe8814a063271d65256a8d63223dba0cc003512e6d09b6a2a7&=&format=webp&quality=lossless)
+
+- Acceder a [Trello](https://trello.com/invite/b/V6jPbcPd/ATTIbbf318b43200b3cf626025eb09925f857F6E68D9/sprint-1-vetconect)
+
+|Sprint #|||||||||
+|---|---|---|---|---|---|---|---|---|
+|**User Story**|**Title**|**Work-Item/Task**|
+|**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hours)**|**Assigned To**|**Status (To Do, In Progress, Done)**|
+|US001|Header de la Landing Page|3|Colocar la barra del header enlazadas a secciones|Permitir al usuario hacer click en el header y redirigirlos a las secciones respectivas de la Landing Page|2|Fabricio|Done|
+|US002|Footer de la Landing Page|3|Colocar la barra del footer enlazadas a secciones|Permitir al usuario hacer click en el footer y redirigirlos a las secciones respectivas de la Landing Page|1|Jose Ampudia|Done|
+|US003|Seccion de Mision y Vision|3|Colocar la seccion de Mision y Vision en la Landing Page|Mostrar la mision y vision de la empresa en la Landing Page|3|Luiggi Antonio|Done|
+|US004|Seccion de Contacto|3|Colocar la seccion de Contacto en la Landing Page|Mostrar un formulario de contacto para que los usuarios puedan proporcionar su correo electronico|3|Jose Ampudia|Done|
+|US005|Informacion de Seguro de Mascotas|3|Colocar la seccion de Informacion de Seguro de Mascotas en la Landing Page|Mostrar informacion sobre los seguros de mascotas que se ofrecen en la aplicacion|3|Brayan Gamboa|Done|
+|US006|Servicios que se ofrecen|3|Colocar la seccion de Servicios que se ofrecen para los distintos segmentos objetivos en la Landing Page|Mostrar los servicios que se ofrecen en la aplicacion|3|Renzo Ramos|Done|
+|US007|Pagina principal de Landing Page|3|Colocar la pagina principal de la Landing Page|Mostrar la pagina principal de la Landing Page|3|Renzo Ramos|Done|
 
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
