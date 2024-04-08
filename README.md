@@ -866,18 +866,6 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 |26|US026|Mensajeria interna|Como clínica veterinaria, quiero tener una función de mensajería interna que me permita comunicarme con mis pacientes para coordinar citas y compartir información relevante.|5|
 |27|US027|Generacion automatica de facturas|Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación.|5|
 
-<br>
-
-- Captura de pantalla del tablero de Trello con las historias de usuario priorizadas.
-
-<tr>
-    <td>
-      <img src="">
-    </td>
-</tr>
-
--  [Link del tablero de Trello - Vet Connect](https://trello.com/b/7Q6Z6Z8v/vet-connect)
-
 
 ## Capítulo 4: Product Design
 
@@ -926,8 +914,24 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
+
 ##### 5.2.1.1. Sprint Planning 1
+
+
+Para el desarrollo del siguiente proyecto, se ha trabajado dentro del framework de Scrum, el cual es un marco de trabajo que permite trabajar de manera ágil y colaborativa en proyectos de desarrollo de software. Scrum se basa en la división del proyecto en iteraciones llamadas sprints, que tienen una duración de 2 a 4 semanas, en las cuales se desarrollan funcionalidades del producto. Para el Sprint 1, se tiene planeado realizar la documentacion del proyecto y la elaboración del Landing Page de la aplicación, el cual será la primera vista que los usuarios tendrán de la aplicación.
+
+|Sprint #|Date|Time|Location|Prepared by|Attendees|
+|---|---|---|---|---|---|
+|1|19/03/2024|11:00 am|Reunion virtual mediante Discord|Jose Ampudia|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|---|---|---|
+|Desarrollar la documentacion del proyecto y la elaboración del Landing Page de la aplicación|5|13|
+
 ##### 5.2.1.2. Sprint Backlog 1
+
+
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
