@@ -1062,6 +1062,42 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
   1. **Github:** Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y revisar código, gestionar proyectos y colaborar en el desarrollo de software. Github facilita la colaboración entre equipos de desarrollo y permite mantener un historial de cambios en el código fuente. Ruta de referencia: [Github](https://github.com)
 
 #### 5.1.2. Source Code Management
+
+Para el control de versiones del código fuente del proyecto Vet Connect, se ha utilizado el sistema de control de versiones Git. Ayudandonos de GitFlow, un flujo de trabajo de Git que se centra en la colaboración y la liberación de software. GitFlow define un modelo de ramificación para el desarrollo de software y establece reglas claras sobre cómo se deben fusionar las ramas. De esta manera, aplicamos este flujo de trabajo en los siguientes repositorios:
+
+- [Vet Connect Organization](https://github.com/Veterinaria-OpenSource)
+
+- [Landing Page Repository](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git)
+
+- [Report TF Vet Connect](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria.git)
+
+**Flujo de trabajo GitFlow:**
+A continuacion, se muestra una imagen que representa el flujo de trabajo de GitFlow:
+
+![gitflow](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0e39b55a-67c3-4afa-bd17-37c069691152)
+
+**Estructura de ramas:**
+
+- **Master:** La rama master es la principal del proyecto, el cual contiene el código fuente de producción y se actualiza con cada versión estable del software.
+
+- **Develop:** La rama develop es la rama de desarrollo del proyecto, el cual contiene el código fuente en desarrollo y se actualiza con cada nueva funcionalidad o mejora del software.
+
+- **Feature:** La rama feature es una rama de funcionalidad que se crea a partir de la rama develop y se utiliza para desarrollar una nueva funcionalidad del software.
+
+- **Release:** La rama release es una rama de lanzamiento que se crea a partir de la rama develop y se utiliza para preparar una nueva versión del software para su lanzamiento.
+
+- **Hotfix:** La rama hotfix es una rama de corrección de errores que se crea a partir de la rama master y se utiliza para corregir errores críticos en el software.
+
+**Semantic Versioning:**
+Para la versión del software, se aplicará Semantic Versioning 2.0.0, un sistema de numeración de versiones que se basa en tres números separados por puntos: Major, Minor y Patch.
+
+**Conventional Commits:**
+Para los mensajes de confirmación del código fuente, se aplicará Conventional Commits, un estándar de mensajes de confirmación que se basa en un formato predefinido y permite a los desarrolladores generar automáticamente el historial de cambios del software. La estructura del mensaje será la siguiente:
+
+```
+git commit -m <type>[optional scope]: <description>
+```
+
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration
 
