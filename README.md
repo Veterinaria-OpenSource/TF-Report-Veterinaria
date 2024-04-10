@@ -1198,6 +1198,21 @@ En el Sprint Backlog 1 se encuentran las tareas que se realizarán en el Sprint 
 
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
+
+Para este Sprint 1, se ha desarrollado la documentación del proyecto y la elaboración del Landing Page de la aplicación VetConnect. En este capitulo se muestran los commits de referencia para el desarrollo de la Landing Page.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|master|b1c4d3a|Initial commit|initial commit|19/03/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/header|a2b3c4d|Add header section|Add header section to the landing page|4/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/about|b3c4d5e|Add about section|Add about section to the landing page|4/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/benefits|c4d5e6f|Add benefits section|Add benefits section to the landing page|4/03/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/business|d5e6f7g|Add business section|Add business section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/footer|e6f7g8h|Add footer section|Add footer section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/hero|f7g8h9i|Add hero section|Add hero section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/insurance|g8h9i0j|Add insurance section|Add insurance section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/styles|g8h9i0j|Add styles|Add styles to the landing page|7/04/2024|
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
