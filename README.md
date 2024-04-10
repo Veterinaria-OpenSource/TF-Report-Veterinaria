@@ -929,6 +929,9 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
+![DataBase_VetConnect-2024-04-09_23-43](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b56a28cd-418c-4496-a1d7-074c858283f3)
+
+
 ## Capítulo 5: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
