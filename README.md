@@ -926,6 +926,91 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 
 #### 4.7.2. Class Dictionary
 
+- Class User_Pet
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del usuario|
+|name|String|Nombre del usuario|
+|lastName|String|Apellido del usuario|
+|email|String|Correo electronico del usuario|
+|password|String|Contraseña del usuario|
+
+- Class User_veterinarian
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del veterinario|
+|name|String|Nombre del veterinario|
+|lastName|String|Apellido del veterinario|
+|nameClinic|String|Nombre de la clinica veterinaria|
+|email|String|Correo electronico del veterinario|
+|ruc|String|RUC de la clinica veterinaria|
+|phone|String|Numero de telefono del veterinario|
+|password|String|Contraseña del veterinario|
+
+- Class Appointment
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la cita|
+|date|String|Fecha de la cita|
+|hour|String|Hora de la cita|
+|issue|String|Motivo de la cita|
+|price|float|Precio de la cita|
+|clinic|User_veterinarian|Veterinario que atendera la cita|
+
+
+- Class Reservation_booking
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la reserva|
+|start_date|String|Fecha de inicio de la reserva|
+|finish_date|String|Fecha de fin de la reserva|
+|service|String|Servicio reservado|
+|price|float|Precio de la reserva|
+
+- Class Notification_Manager
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la notificacion|
+|issue|String|Asunto|
+|message|String|Mensaje de la notificacion|
+|author|String|Autor de la notificacion|
+|service|String|Servicio relacionado a la notificacion|
+
+- Class NotificationService
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del servicio de notificacion|
+|User_Pet|User_Pet|Usuario que recibe la notificacion|
+|User_veterinarian|User_veterinarian|Veterinario que envia la notificacion|
+
+- Class PaymentProcess
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del proceso de pago|
+|paypalClientId|String|ID de cliente de PayPal|
+|paypalClientSecret|String|Clave de cliente de PayPal|
+
+- Class VetConnect
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de VetConnect|
+|customers|User_Pet|Usuarios de VetConnect|
+|clinics|User_veterinarian|Veterinarios de VetConnect|
+|appointments|Appointment|Citas de VetConnect|
+|reservations|Reservation_booking|Reservas de VetConnect|
+|notifications|Notification_Manager|Notificaciones de VetConnect|
+
+
+
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
