@@ -829,7 +829,9 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
 ### 3.3. Impact Mapping
 
-<img src="https://media.discordapp.net/attachments/1219442976061653025/1226639232253034587/VetConnect.png?ex=66257fce&is=66130ace&hm=8557f143af10df91a0eabeaf75cf0f96863fa9cddd5097f97e61c067c9628b53&=&format=webp&quality=lossless&width=773&height=602"/>
+![VetConnect-veterinario](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/133163553/54354d2b-618e-4bdd-9d25-a247fedf3f71)
+
+![VetConnect-usuario](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/133163553/37426b47-ead8-4cdb-8c3d-a0ee98bc05cb)
 
 ### 3.4. Product Backlog
 
