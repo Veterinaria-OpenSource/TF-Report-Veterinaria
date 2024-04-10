@@ -1101,6 +1101,41 @@ git commit -m <type>[optional scope]: <description>
 ```
 
 #### 5.1.3. Source Code Style Guide & Conventions
+
+Las referencias a utilizar para nombrar objetos y programar en lenguajes de programación serán las siguientes:
+
+- **HTML5:** Para buenas practicas al usar HTML5 y adoptar un estilo de codificación limpio y consistente son las siguientes:
+
+  1. **Indentación:** Se recomienda utilizar una indentación de 2 espacios para mejorar la legibilidad del código.
+
+  2. **Nombres de archivos:** Se recomienda utilizar nombres de archivos descriptivos y en minúsculas, separando las palabras con guiones.
+
+  3. **Cerrar etiquetas:** Se recomienda cerrar todas las etiquetas HTML para garantizar la compatibilidad con los navegadores.
+
+  4. **Comentarios:** Se recomienda utilizar comentarios en el código HTML para documentar el propósito de las secciones de código.
+
+  5. **Uso de comillas:** Se recomienda utilizar comillas dobles para los atributos de las etiquetas HTML.
+
+- **CSS3:** Para CSS se adoptaron las siguientes buenas practicas:
+
+  1. **Usar clases y selectores descriptivos:** Esto permite que otros desarrolladores puedan entender el propósito de los estilos y facilita la mantenibilidad del código.
+
+  2. **Evitar el uso de estilos en línea:** Se recomienda evitar el uso de estilos en línea y utilizar hojas de estilo externas para mantener el código limpio y organizado.
+
+  3. **Usar prefijos de proveedores:** Se recomienda utilizar prefijos de proveedores para garantizar la compatibilidad con los navegadores.
+
+  4. **Comentarios:** Se recomienda utilizar comentarios en el código CSS para documentar el propósito de las reglas de estilo.
+
+- **JavaScript:** Para JavaScript se adoptaron las siguientes buenas practicas:
+
+  1. **Uso de comentarios:** Se recomienda utilizar comentarios en el código JavaScript para documentar el propósito de las funciones y variables.
+
+  2. **Nombres descriptivos:** Se recomienda utilizar nombres descriptivos para las funciones y variables para mejorar la legibilidad del código.
+
+  3. **Evitar el uso de variables globales:** Se recomienda evitar el uso de variables globales y utilizar variables locales para evitar conflictos de nombres.
+
+- **Gherkin:** Es un lenguaje de especificación que se utiliza para escribir pruebas de aceptación en un formato legible por humanos. Gherkin permite a los equipos de desarrollo y pruebas colaborar en la creación de pruebas de aceptación y garantizar que las funcionalidades del software cumplan con los requisitos del negocio.
+
 #### 5.1.4. Software Deployment Configuration
 
 ### 5.2. Landing Page, Services & Applications Implementation
