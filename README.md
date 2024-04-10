@@ -1138,6 +1138,24 @@ Las referencias a utilizar para nombrar objetos y programar en lenguajes de prog
 
 #### 5.1.4. Software Deployment Configuration
 
+**Landing Page Deployment:**
+
+Para el despliegue de la Landing Page de Vet Connect, se utilizará GitHub Pages, un servicio de alojamiento web estático que permite a los desarrolladores alojar sitios web estáticos de forma gratuita. Los pasos son muy sencillos:
+
+1. Crear un repositorio en GitHub con el código fuente de la Landing Page. Normalmente se recomienda que el repositorio contenga el archivo index.html en la raíz del proyecto.
+
+2. Habilitar GitHub Pages en la configuración del repositorio, seleccionando la rama y la carpeta de despliegue.
+
+3. Seleccionar la rama y la carpeta de despliegue. Normalmente se recomienda seleccionar la rama master y la carpeta raíz del proyecto.
+
+4. Acceder a la URL proporcionada por GitHub Pages para visualizar la Landing Page. Normalmente la URL tiene el siguiente formato: "https://username.github.io/repository"
+
+A continuacion se muestran capturas de como hacerlo.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/d5fad392-7c97-419b-b140-39c0b16548d3)
+
+- [Accede a la Landing Page](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 
