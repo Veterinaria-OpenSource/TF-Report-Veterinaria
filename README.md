@@ -1021,6 +1021,46 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+
+- Requirements Management:
+  1. **Trello:** Es una herramienta de gestión de proyectos que permite organizar tareas y proyectos de manera eficiente. Además, permite a los equipos de desarrollo colaborar y trabajar de manera conjunta en un mismo proyecto. Ruta de referencia: [Trello](https://trello.com/es)
+
+- **Product UX/UI Design:**
+  1. Figma: Es una herramienta de diseño de interfaces de usuario que permite a los diseñadores crear prototipos y maquetas de manera sencilla y eficiente. Además, Figma permite a los equipos de diseño colaborar en tiempo real en un mismo proyecto. Ruta de referencia: [Figma](https://www.figma.com/)
+
+  2. Lucidchart: Es una herramienta de diagramación en línea que permite a los equipos de diseño crear diagramas de flujo, organigramas y otros tipos de diagramas de manera sencilla y eficiente. Ruta de referencia: [Lucidchart](https://www.lucidchart.com/)
+
+  3. Vertabelo: Es una herramienta de diseño de bases de datos que permite a los desarrolladores crear y gestionar bases de datos de manera eficiente. Vertabelo cuenta con una interfaz gráfica que facilita la creación de tablas, relaciones y otros elementos de una base de datos. Ruta de referencia: [Vertabelo](https://www.vertabelo.com/)
+
+- **Software Development:**
+  1. **Visual Studio Code:** Es un editor de código fuente que permite a los desarrolladores escribir y editar código de manera eficiente. Visual Studio Code cuenta con una amplia variedad de extensiones que facilitan el desarrollo de software. Ruta de referencia: [Visual Studio Code](https://code.visualstudio.com/)
+
+  3. **Intelij IDEA:** Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores escribir, compilar y depurar código de manera eficiente. Intelij IDEA cuenta con una amplia variedad de características y herramientas que facilitan el desarrollo de software. Ruta de referencia: [Intelij IDEA](https://www.jetbrains.com/es-es/idea/)
+
+  5. **WebStorm:** Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores escribir, compilar y depurar código de manera eficiente. WebStorm está diseñado específicamente para el desarrollo de aplicaciones web y cuenta con una amplia variedad de características y herramientas que facilitan el desarrollo de software. Ruta de referencia: [WebStorm](https://www.jetbrains.com/es-es/webstorm/)
+
+  6. **HTML5:** Es un lenguaje de marcado que se utiliza para estructurar y presentar contenido en la web. HTML5 es la última versión de HTML y cuenta con una amplia variedad de características y elementos que facilitan el desarrollo de sitios web y aplicaciones web. Ruta de referencia: [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+
+  7. **CSS3:** Es un lenguaje de hojas de estilo que se utiliza para dar estilo y formato a páginas web y aplicaciones web. CSS3 es la última versión de CSS y cuenta con una amplia variedad de características y propiedades que facilitan el diseño y la maquetación de sitios web y aplicaciones web. Ruta de referencia: [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+
+  8. **JavaScript:** Es un lenguaje de programación que se utiliza para crear interactividad en sitios web y aplicaciones web. JavaScript es un lenguaje de programación de alto nivel que se ejecuta en el navegador y permite a los desarrolladores crear aplicaciones web dinámicas y interactivas. Ruta de referencia: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+  9. **TypeScript:** Es un lenguaje de programación que se basa en JavaScript y agrega características de programación orientada a objetos y tipado estático. TypeScript es un lenguaje de programación de alto nivel que se compila a JavaScript y permite a los desarrolladores escribir código más seguro y mantenible. Ruta de referencia: [TypeScript](https://www.typescriptlang.org/)
+
+  10. **Java:** Es un lenguaje de programación de propósito general que se utiliza para desarrollar aplicaciones de escritorio, aplicaciones web y aplicaciones móviles. Java es un lenguaje de programación de alto nivel que se ejecuta en la máquina virtual de Java (JVM) y permite a los desarrolladores crear aplicaciones seguras y portátiles. Ruta de referencia: [Java](https://www.java.com/es/)
+
+  11. **Spring Boot:** Es un marco de trabajo de desarrollo de aplicaciones que se utiliza para crear aplicaciones web y servicios web de manera eficiente. Spring Boot es un marco de trabajo de desarrollo de aplicaciones que se basa en el marco de trabajo Spring y permite a los desarrolladores crear aplicaciones web y servicios web de manera rápida y sencilla. Ruta de referencia: [Spring Boot](https://spring.io/projects/spring-boot)
+
+- **Software Testing:**
+  1. **Gherkin:** Es un lenguaje de especificación que se utiliza para escribir pruebas de aceptación en un formato legible por humanos. Gherkin permite a los equipos de desarrollo y pruebas colaborar en la creación de pruebas de aceptación y garantizar que las funcionalidades del software cumplan con los requisitos del negocio. Ruta de referencia: [Gherkin](https://cucumber.io/docs/gherkin/)
+
+- **Software Deployment:**
+
+  1. **Git** Es un sistema de control de versiones que permite a los desarrolladores gestionar y controlar las versiones de un proyecto de software. Git facilita la colaboración entre equipos de desarrollo y permite mantener un historial de cambios en el código fuente. Ruta de referencia: [Git](https://git-scm.com/)
+
+- **Software Documentation:**
+  1. **Github:** Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y revisar código, gestionar proyectos y colaborar en el desarrollo de software. Github facilita la colaboración entre equipos de desarrollo y permite mantener un historial de cambios en el código fuente. Ruta de referencia: [Github](https://github.com)
+
 #### 5.1.2. Source Code Management
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration
