@@ -4,7 +4,7 @@
 
 <tr>
     <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1221319011900456980/UPC_logo.png?ex=661224f7&is=65ffaff7&hm=151e3178ae9fe3e0ee4951cca67ebff7105389c71326f393b6f23924eadc3118&=&format=webp&quality=lossless">
+      <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/1ed50dfb-53e2-4389-8587-45ce7d51c83d" height="170">
     </td>
 </tr>
 
@@ -40,11 +40,11 @@
 
 | Version | Fecha      | Autor                            | Descripción de modificación               |
 | ------- | ---------- | -------------------------------- | ----------------------------------------- |
-| 1.0     | 2024-06-30 | Jose Carlos Isaac Ampudia Flores | Creación del Informe                      |
-| 1.1     | 2024-07-01 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
-| 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Modificación de la estructura del Informe |
-| 1.3     | 2024-07-03 | Fabricio Iparraguirre            | Modificación de la estructura del Informe |
-| 1.4     | 2024-07-04 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
+| 1.0     | 25-03-2024 | Jose Carlos Isaac Ampudia Flores | Creación del Informe, Capitulo 5, Class Diagrams, Database Diagram, User Stories                     |
+| 1.1     | 25-03-2024 | Luiggi Jeremy Antonio Loayza     | Tax Matrix, Implementacion de Style Guidelines, Information Architecture, Landing Page, UI Design y Web Application UX/UI design |
+| 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Implementacion de User Stories, Analisis competitivo, Product Backlog, DDD.  |
+| 1.3     | 26-03-2024 | Fabricio Iparraguirre            | Segmentos objetivos, User Personas, Impact Mapping. |
+| 1.4     | 27-03-2024 | Renzo Manuel Ramos Ramirez       | Empathy Map, Implementacion de Style Guidelines, Information Architecture, Landing Page, UI Design y Web Application UX/UI design |
 
 ### Project Report Collaboration Instights
 
@@ -59,11 +59,11 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 
 | Miembro                          | Responsabilidad |
 | -------------------------------- | --------------- |
-| Jose Carlos Isaac Ampudia Flores | Tarea 1         |
-| Luiggi Jeremy Antonio Loayza     | Tarea 2         |
-| Brayan Stiven Gamboa Delgado     | Tarea 3         |
-| Fabricio Iparraguirre            | Tarea 4         |
-| Renzo Manuel Ramos Ramirez       | Tarea 5         |
+| Jose Carlos Isaac Ampudia Flores | Diseño de entrevistas, Implemantacion del Capitulo 5, User Stories, Diagrama de clases, Diagrama de base de datos, User Journey Mapping, Antecedentes y problematicas, As Is Escenario Mapping, mejoras en la Landing Page.         |
+| Luiggi Jeremy Antonio Loayza     | Implemantacion de Descripcion del startup, Lean UX Canvas, User Tax Matrix, To be Scenario Mapping, Desarrollo del capitulo 4, mejoras en la Landing Page.         |
+| Brayan Stiven Gamboa Delgado     | Implementacion del Analisis competitivo, estrategias frente a competidores, User Stories, Product Backlog, Domain Driven Software Architecture.         |
+| Fabricio Iparraguirre            | Implementacion de los segmentos objetivos, User Personas, Impact Mapping, Landing Page.        |
+| Renzo Manuel Ramos Ramirez       | Implementacion de Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Empathy Mapping, desarrollo del capitulo 4, modificaciones en el Landing Page.          |
 
 Es importante mencionar que durante la elaboración del informe se realizaron commits respectivos a cada tarea asignada, con el fin de mantener un control de versiones y colaboración en tiempo real.
 
@@ -78,6 +78,13 @@ Es importante mencionar que durante la elaboración del informe se realizaron co
 Gracias a GitHub, se ha podido llevar un control de versiones y colaboración en tiempo real, permitiendo a los miembros del equipo trabajar de manera asincrónica y sincrónica en el proyecto. Además, gracias a Gitflow, se ha creado varias ramas para el desarrollo de las tareas asignadas, permitiendo a los miembros del equipo trabajar de manera independiente y colaborativa en el proyecto.
 
 La rama **"develop"** se ha utilizado para la integración de las tareas asignadas a cada miembro del equipo, permitiendo la integración de las tareas de manera ordenada y eficiente. La rama **"main"** sirvió para presentar la versión final del proyecto.
+
+- **TB1**
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/a4e57de0-88dd-4b5b-9676-7129c94fd45b)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0c35eaef-2cc4-4f63-90c2-7327a1360e32)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/279b170a-7996-44d1-b80c-2b6f8911f707)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/bd914c2b-4076-46ef-9609-2cb0655417a1)
+
 
 ## Student Outcome
 
@@ -105,7 +112,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           <br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
-          Breve texto<br><br>
+          Se realizó los Lean UX Assumptions y el Empathy Map tomando en cuenta las necesidades y problemas de los segmentos objetivos seleccionados.<br><br>
         </td>
         <td>
         Como equipo, logramos establecer medios de comunicación eficientes como Discord, para poder realizar una organización concreta y de tal nabera realizar una entrega de proyecto bueno.<br><br>
@@ -124,10 +131,10 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1</strong><br>
-          Breve texto<br><br>
+          Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1</strong><br>
-         Breve texto<br><br>
+         Se describieron los procesos y flujos importantes de la Web Application, tanto de los Mock ups y Wireframes<br><br>
     </td>
     <td>Como equipo, se logró desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto. El documento realizado es una forma para que las personas puedan conocer más sobre el proyecto, el proceso de desarrollo y las herramientas utilizadas para la realización del mismo.<br><br></td>
     </td><br>
@@ -459,14 +466,12 @@ VetConnect también está enfocado en las veterinarias que buscan mejorar la ges
 <table><tr><th colspan="6" valign="top"><b>Análisis Competitivo</b></th></tr>
 <tr><td colspan="1" rowspan="2" valign="top">¿Por qué llevar a cabo este Análisis?</td><td colspan="5" valign="top">El objetivo es proporcionar una plataforma que permita a los dueños de mascotas gestionar todas las necesidades de salud y bienestar de sus engreídos de manera integral y sin complicaciones.</td></tr>
 <tr><td colspan="5" valign="top">El objetivo es optimizar la gestión de servicios veterinarios facilitando la comunicación con los clientes, la administración de citas y la reputación en línea de las clínicas.</td></tr>
-<tr><td colspan="2" valign="top"></td><td colspan="1" valign="top"><p>VETPERÚ</p><p></p><p>![Imagen que contiene Logotipo
-
-Descripción generada automáticamente](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.001.png)</p><p></p></td><td colspan="1" valign="top"><p>Vetster</p><p></p><p>![](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.002.png)</p><p></p></td><td colspan="1" valign="top"><p>PetDesk</p><p></p><p>![Logotipo
-
-Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.003.png)</p></td><td colspan="1" valign="top"><p>Vet Connect</p><p>![Un dibujo animado con letras
-
-Descripción generada automáticamente con confianza media](Aspose.Words.e7039bd0-a82c-4c27-b87d-da2297264e72.004.png)</p></td></tr>
-
+<tr><td colspan="2" valign="top"></td><td colspan="1" valign="top"><p>VETPERÚ</p><p></p><p><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/1a60fbb7-f540-480c-a449-9416edaa8f4d"/> 
+</p><p></p></td><td colspan="1" valign="top"><p>Vetster</p><p></p><p><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/f7a98383-b93f-4a54-9e28-aa7ec4f09882"/>
+</p><p></p></td><td colspan="1" valign="top"><p>PetDesk</p><p></p><p><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/4f012511-0617-4b5f-9bd5-9d9392e7fd3e"/>
+</p></td><td colspan="1" valign="top"><p>Vet Connect</p><p>
+<img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/ed6d0554-80ae-41ec-a9db-11aa89231c5f"/>
+</p></td></tr>
 <tr><td colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Perfil</p></td><td colspan="1" valign="top">Overview</td><td colspan="1" valign="top">Es un directorio en línea que te ayuda a encontrar clínicas veterinarias en Perú. Ofrecen una lista de veterinarias, pet shops y servicios de grooming. Puedes buscar por ciudad o distrito para encontrar la atención veterinaria más cercana a tu ubicación. Además, proporcionan información sobre horarios, direcciones y cómo contactar a los veterinarios. También cuentan con una sección de veterinarias abiertas las 24 horas.</td><td colspan="1" valign="top">Es una plataforma integral que ayuda a las clínicas veterinarias a mejorar la comunicación con los clientes y a simplificar la gestión de citas y cuidado de mascotas.</td><td colspan="1" valign="top">Es una plataforma que ofrece atención veterinaria en línea las 24 horas. Permite a los dueños de mascotas conectarse con veterinarios calificados a través de chat instantáneo o videollamadas desde la comodidad de su hogar. Los veterinarios pueden proporcionar consejos para una variedad de problemas de salud de las mascotas, y también ofrecen recetas en línea. Vetster es una solución conveniente y accesible para el cuidado de las mascotas.</td><td colspan="1" valign="top">Es una plataforma innovadora que revoluciona la forma en que las mascotas reciben atención veterinaria. Nuestro servicio se centra en la comodidad y el bienestar de las mascotas y sus dueños, ofreciendo una experiencia sin complicaciones en cada visita. Los usuarios pueden programar citas y reservas en centros veterinarios con un solo clic. Desde diagnósticos y tratamientos hasta consultas, baños y vacunas, todo se gestiona de manera integral en nuestra plataforma web.</td></tr>
 <tr><td colspan="1" valign="top">¿Qué valor ofrece a los clientes?</td><td colspan="1" valign="top"><p>-Información detallada.</p><p>-Servicios veterinarios locales.</p><p>-Comunidad activa</p><p></p></td><td colspan="1" valign="top"><p>-Acceso Digital a la Atención Veterinaria</p><p>-Calidad de Atención</p><p>-Evaluaciones Positivas</p><p>-Referencias y Recomendaciones</p></td><td colspan="1" valign="top"><p>-Gestión eficiente.</p><p>-Programación de citas y recordatorios.</p><p>-Interfaz amigable</p></td><td colspan="1" valign="top"><p>-Servicio de Citas y Reservas</p><p>-Priorización del Bienestar Animal</p><p>-Recordatorios Personalizados</p><p>-Transparencia en Costos</p></td></tr>
 <tr><td colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Perfil de Marketing</p></td><td colspan="1" valign="top">Mercado objetivo</td><td colspan="1" valign="top"><p>- Dueños de mascotas en Perú.</p><p>- Personas que buscan clínicas veterinarias cercanas para el cuidado de sus mascotas.</p><p>- Aquellos que necesitan atención veterinaria urgente o en horarios no convencionales.</p></td><td colspan="1" valign="top"><p>- Clínicas veterinarias y sus clientes.</p><p>- Propietarios de mascotas que buscan una comunicación más eficiente con las clínicas.</p><p>- Profesionales de la salud animal que desean administrar citas, recordatorios y comunicaciones de manera efectiva.</p></td><td colspan="1" valign="top"><p>- Dueños de mascotas en todo el mundo.</p><p>- Aquellos que buscan atención veterinaria en línea las 24 horas.</p><p>- Personas que desean consultas con veterinarios calificados sin salir de casa.</p></td><td colspan="1" valign="top"><p>- Clínicas veterinarias de que desean administrar citas, recordatorios y comunicaciones de manera efectiva.</p><p>- Personas que buscan clínicas veterinarias cercanas para el cuidado de sus mascotas.</p><p></p></td></tr>
@@ -561,7 +566,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Miraflores |
-| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224609078504853514/image.png?ex=661e1d14&is=660ba814&hm=eb6140264a329eff738bdf545142fc0afab90a654a76d1bae4d9912dbdc612ce&=&format=webp&quality=lossless&" width="100"/> | En la entrevista, nuestro invitado llamado Jean Morin nos menciona que tiene 1 mascota, y los lleva al veterinario cada 2 veces al mes, a veces 3 en caso de emergencias, también nos menciona que cuando acude a estos centros veterinarios suele solicitar servicios como vacunas, desparasitación y baños. Por otro lado, nos menciona que en una atencion veterinaria, podria mejorarse la interaccion directa entre el dueño de la mascota y el veterinario, ya que para nuestro invitado, la comunicacion entre estos 2 segmentos no es tan clara como le gustaria, tambien nos menciona que lo mas importante para el cuando elige una clinica veterinaria es la calidad de atencion que le brindan a su mascota y la confiabilidad de los veterinarios. Además, nos menciona que una plataforma en linea seria una muy buena opcion, y que le gustaria que sea una interfaz facil de usar con recordatorios para las citas. Ademas, nos menciono que Vet Connect deberia mostrar los servicios que ofrecen las veterinarias, y que si hubiera la posibilidad de que se hiciera atencion a domicilio, seria un plus para el. |
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/d4eafe55-386a-4a77-b025-311c1c45d557"/> | En la entrevista, nuestro invitado llamado Jean Morin nos menciona que tiene 1 mascota, y los lleva al veterinario cada 2 veces al mes, a veces 3 en caso de emergencias, también nos menciona que cuando acude a estos centros veterinarios suele solicitar servicios como vacunas, desparasitación y baños. Por otro lado, nos menciona que en una atencion veterinaria, podria mejorarse la interaccion directa entre el dueño de la mascota y el veterinario, ya que para nuestro invitado, la comunicacion entre estos 2 segmentos no es tan clara como le gustaria, tambien nos menciona que lo mas importante para el cuando elige una clinica veterinaria es la calidad de atencion que le brindan a su mascota y la confiabilidad de los veterinarios. Además, nos menciona que una plataforma en linea seria una muy buena opcion, y que le gustaria que sea una interfaz facil de usar con recordatorios para las citas. Ademas, nos menciono que Vet Connect deberia mostrar los servicios que ofrecen las veterinarias, y que si hubiera la posibilidad de que se hiciera atencion a domicilio, seria un plus para el. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 00:09 - 6:27 |
 
@@ -570,7 +575,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 20 años |
 | **Distrito** | Junín, Huancayo |
-| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224618812385792080/image.png?ex=661e2625&is=660bb125&hm=3a67653712ca7f5dec3b7045c9341f2465d9b3a14f93abbe31ff8d0f059649ce&=&format=webp&quality=lossless" width="100"/> | Durante la entrevista con Paolo Espejo, nos comentó que tiene una mascota al cual lleva al veterinario una vez al mes para que le realicen chequeos y le apliquen las vacunas correspondientes si es de ser necesario. También indica que tiene algunos problemas a la hora de la atención ya que suele tomar demasiado tiempo debido a que el centro veterinario al que va suele estar lleno y no tiene un horario fijo para cada cliente. Lo que más busca a la hora de elegir un centro médico es que sea uno confiable y seguro para que nada malo le pase a su mascota. Se mostró interesado en nuestra propuesta pero nos sugiere que agreguemos la funcionalidad de agregar a "favoritos" los centros veterinarios que le parezca mejor para su mascota y que también la plataforma esté disponible 24/7 para realizar las reservas correctamente y sin ningún problema. |
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/dd08260b-1ef8-410b-9543-ed9411041f70"/> | Durante la entrevista con Paolo Espejo, nos comentó que tiene una mascota al cual lleva al veterinario una vez al mes para que le realicen chequeos y le apliquen las vacunas correspondientes si es de ser necesario. También indica que tiene algunos problemas a la hora de la atención ya que suele tomar demasiado tiempo debido a que el centro veterinario al que va suele estar lleno y no tiene un horario fijo para cada cliente. Lo que más busca a la hora de elegir un centro médico es que sea uno confiable y seguro para que nada malo le pase a su mascota. Se mostró interesado en nuestra propuesta pero nos sugiere que agreguemos la funcionalidad de agregar a "favoritos" los centros veterinarios que le parezca mejor para su mascota y que también la plataforma esté disponible 24/7 para realizar las reservas correctamente y sin ningún problema. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 06:28 - 12:51 |
 
@@ -578,7 +583,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Cercado de Lima |
-| <img src="https://cdn.discordapp.com/attachments/1004952348034093067/1224452936936194158/image.png?ex=661d8ba9&is=660b16a9&hm=a3a99101d4406525db0c8ba50edadd1fd37f95ff01bf915aba367c25d0b3d4da&" width="100"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas. Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier momento. |
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/10e1765b-d0a6-4f80-b0ea-fea2ff5b8cfe"/> | Nuestra invitada Adriana Valdivia menciona que tiene 4 mascotas, 2 perras y 2 gatos y nos comenta que una de cada 2 meses va al veterinario para controles. Una de sus perras las lleva para exámenes de sangre y el resto de sus mascotas para desparasitación y vacunas antirrábicas. Nos menciona que le encantaría que se mejore la puntualidad de citas, que se respete el tiempo para no estar esperando. También nos comenta que elige una clínica veterinaria por sus reseñas, la confianza y comodidad que ofrecen a las mascotas. Comenta también que le gustarían mucho las reservaciones en línea, ya que no le gusta mucho ir presencialmente a consultar. Le gustaría que se muestren los servicios que ofrecen las veterinarias, los horarios de atención y qué veterinarias están disponibles. Y lo que le motiva a recomendar una clínica veterinaria es que sus mascotas se sientan cómodas, que la atención sea puntual y que sus medicamentos estén disponibles en cualquier momento. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 12:53 - 17:11 |
 
@@ -588,7 +593,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 26 años |
 | **Distrito** | San Juan Bautista - Iquitos |
-| <img src="https://media.discordapp.net/attachments/1172792135318249557/1224080873910177903/image.png?ex=661c3126&is=6609bc26&hm=6b59a37af1717f60c8367b66f7c65f544334c63e076fe1bbf782d437deea1268&=&format=webp&quality=lossless&width=550&height=224"/> | En la entrevista, nuestro invitado Dominick Doza nos menciona que la atención veterinaria es un servicio esencial para el bienestar de las mascotas, lo mas importante para el es cuidar la salud de las mascotas. Nos menciona que la manera en la que gestiona las citas en su clinica veterinaria es a través de llamadas telefónicas y de manera presencial, y que rara vez usan los correos electronicos. Además, Dominick hace mención que le agrada la idea de una plataforma para reservar citas en línea, ya que le facilitaria la gestión de citas y la comunicación con los dueños de mascotas. Nos menciona que le gustaría ver una plataforma en linea fácil de usar y que las funcinoalidades sean claras y precisas. Además, el hecho de que la plataforma sea intuitiva y y tenga un funcionamiento optimo, es lo que le llevaría a Dominck a recomendar la plataforma a otros colegas veterinarios. Nos menciona que como servicio adicional le gustaría que la plataforma ofrezca un sistema de recordatorios de citas para mantener a los dueños de mascotas informados sobre las citas de sus mascotas. |
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b7f36a4f-ac67-40e0-922c-8e336220690b"/> | En la entrevista, nuestro invitado Dominick Doza nos menciona que la atención veterinaria es un servicio esencial para el bienestar de las mascotas, lo mas importante para el es cuidar la salud de las mascotas. Nos menciona que la manera en la que gestiona las citas en su clinica veterinaria es a través de llamadas telefónicas y de manera presencial, y que rara vez usan los correos electronicos. Además, Dominick hace mención que le agrada la idea de una plataforma para reservar citas en línea, ya que le facilitaria la gestión de citas y la comunicación con los dueños de mascotas. Nos menciona que le gustaría ver una plataforma en linea fácil de usar y que las funcinoalidades sean claras y precisas. Además, el hecho de que la plataforma sea intuitiva y y tenga un funcionamiento optimo, es lo que le llevaría a Dominck a recomendar la plataforma a otros colegas veterinarios. Nos menciona que como servicio adicional le gustaría que la plataforma ofrezca un sistema de recordatorios de citas para mantener a los dueños de mascotas informados sobre las citas de sus mascotas. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 17:20 - 25:56 |
 
@@ -596,7 +601,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Breña - Lima |
-| <img src="https://media.discordapp.net/attachments/1025767455454412901/1224417366868234250/image.png?ex=661d6a88&is=660af588&hm=0db9cca951b2909291f4f9b37f5171d4c09d4436c1e58b0300e9180be8b6de26&=&format=webp&quality=lossless&width=1031&height=342"/> | Nuestro invitado Mathías Mejía nos explica claramente como la serenidad al momento de atender una mascota es la características principal del servicio que brinda como veterinario. Además, indica que en las dos clinicas que trabajó la manera de gestionar las citas fué muy distinta ya que en la primera clínica que trabajó fue de manera más clásica al ir el cliente a reservar una cita, de diferente forma la segunda clínica estaba ligeramente mejor organizada debido a que sí se podía agendar cita mediante llamada, cabe destacar que ninguna de las dos contaba con una plataforma web. Mathías destacó que una plataforma web intuitiva sería de mucha ayuda durante los turnos de noche debido a que a esas horas los veterinarios no cuentan con atención directa y por ende los médicos asumen el rol de atención al cliente. Finalmente nos menciona que le parece genial la idea de la creación de una plataforma web que resuelva todos estos problemas, y comenta que el valor añadido que puede tener la plataforma sería la habiltiación del apartado reserva de transporte el cual se ocuparía del traslado de las mascotas de su hogar a la veterinaria y viceversa. |
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f3770c23-351e-414c-8645-e98f5e59853a"/> | Nuestro invitado Mathías Mejía nos explica claramente como la serenidad al momento de atender una mascota es la características principal del servicio que brinda como veterinario. Además, indica que en las dos clinicas que trabajó la manera de gestionar las citas fué muy distinta ya que en la primera clínica que trabajó fue de manera más clásica al ir el cliente a reservar una cita, de diferente forma la segunda clínica estaba ligeramente mejor organizada debido a que sí se podía agendar cita mediante llamada, cabe destacar que ninguna de las dos contaba con una plataforma web. Mathías destacó que una plataforma web intuitiva sería de mucha ayuda durante los turnos de noche debido a que a esas horas los veterinarios no cuentan con atención directa y por ende los médicos asumen el rol de atención al cliente. Finalmente nos menciona que le parece genial la idea de la creación de una plataforma web que resuelva todos estos problemas, y comenta que el valor añadido que puede tener la plataforma sería la habiltiación del apartado reserva de transporte el cual se ocuparía del traslado de las mascotas de su hogar a la veterinaria y viceversa. |
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EYfyggxNq2dFv2vJEMhTCWgBd88vE-MhDC3aqamAVHZ8FA?e=89J5CL) |
 | **Timming** | 25:57 - 35:27 |
 
@@ -604,7 +609,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 años |
 | **Distrito** | Santa Anita - Lima |
-| <img src="https://media.discordapp.net/attachments/994490616895508562/1225819197041414248/image.png?ex=66228417&is=66100f17&hm=26581b40313da51b4738f2191ca3dad0b5bb796a5b596c9cf039eb7ad7cc0252&=&format=webp&quality=lossless&width=687&height=317" width="100"/> | Durante la entrevista con nuestra invitada Louise Vélez de Villa enfatiza la importancia de la atención veterinaria como un servicio esencial para garantizar el bienestar de las mascotas. Para ella, cuidar la salud de los animales es una prioridad indiscutible. Louise explica que en la clínica veterinaria donde trabaja, gestionan las citas a través de atención presencial, WhatsApp y también llamadas telefónicas en situaciones de urgencias.Louise muestra interés en la idea de implementar una plataforma para reservar citas en línea, reconociendo los beneficios que esto traería en términos de simplificar la gestión de citas y mejorar la comunicación con los dueños de mascotas. Ella destaca la importancia de que esta plataforma sea fácil de usar, con funcionalidades claras y precisas tanto para los usuarios como para el personal veterinario. Considera que la intuitividad y el funcionamiento óptimo de la plataforma serían aspectos fundamentales para que ella la recomiende a sus colegas veterinarios.Además, como un servicio adicional, Louise propone que la plataforma permita a los dueños de mascotas completar un formulario en caso de emergencia. Este formulario les permitiría proporcionar información detallada sobre la situación de su mascota, incluyendo fotos, tamaño y una descripción del problema. Louise cree firmemente que esto permitiría al personal veterinario estar mejor preparado para atender las necesidades de las mascotas en momentos críticos. Asimismo, resalta la importancia de los recordatorios de citas para mantener a los clientes informados y comprometidos con los horarios de atención de sus mascotas.
+| <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/04586c47-41ea-4dba-898d-1cb78a00b6e9" width="100"/> | Durante la entrevista con nuestra invitada Louise Vélez de Villa enfatiza la importancia de la atención veterinaria como un servicio esencial para garantizar el bienestar de las mascotas. Para ella, cuidar la salud de los animales es una prioridad indiscutible. Louise explica que en la clínica veterinaria donde trabaja, gestionan las citas a través de atención presencial, WhatsApp y también llamadas telefónicas en situaciones de urgencias.Louise muestra interés en la idea de implementar una plataforma para reservar citas en línea, reconociendo los beneficios que esto traería en términos de simplificar la gestión de citas y mejorar la comunicación con los dueños de mascotas. Ella destaca la importancia de que esta plataforma sea fácil de usar, con funcionalidades claras y precisas tanto para los usuarios como para el personal veterinario. Considera que la intuitividad y el funcionamiento óptimo de la plataforma serían aspectos fundamentales para que ella la recomiende a sus colegas veterinarios.Además, como un servicio adicional, Louise propone que la plataforma permita a los dueños de mascotas completar un formulario en caso de emergencia. Este formulario les permitiría proporcionar información detallada sobre la situación de su mascota, incluyendo fotos, tamaño y una descripción del problema. Louise cree firmemente que esto permitiría al personal veterinario estar mejor preparado para atender las necesidades de las mascotas en momentos críticos. Asimismo, resalta la importancia de los recordatorios de citas para mantener a los clientes informados y comprometidos con los horarios de atención de sus mascotas.
 | **URL de la grabación** | [upc-pre-202401-si729-SV55-CodeConnect-needfinding-sprint-1](#Link-en-Microsift-Steam) |
 | **Timming** | 35:28 - 46:16 |
 
@@ -646,7 +651,7 @@ En resumen, las entrevistas revelan una clara demanda por parte de los veterinar
 Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
 
 <table> <tr> <th></th>
-<td colspan="2">Trainer</td> <td colspan="2">Cliente</td> </tr> <tr> 
+<td colspan="2">Clínica Veterinaria</td> <td colspan="2">Dueños de Mascotas</td> </tr> <tr> 
 <td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> 
 <td>Registrarse en la plataforma</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr> 
 <td>Crear perfil</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr>
@@ -654,32 +659,32 @@ Se presentan los User Task Matrix que contiene las tareas que los User Persona r
 <td>Recibir notificaciones</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> 
 <td>Actualizar perfil</td> <td>Rarely</td> <td>Medium</td> <td>Rarely</td> <td>Low</td> </tr> <tr> 
 <td>Visualizar reseñas</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
-<td>Seguimiento del progreso</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
+<td>Confirmar citas reservadas</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> 
 <td>Pagos en línea</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>Medium</td> </tr> <tr>  
-<td>Buscar trainers</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
-<td>Reservar sesiones</td> <td>Never</td> <td>Low</td> <td>Never</td> <td>Low</td> </tr> <tr> 
+<td>Buscar clinicas veterinarias disponibles</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
+<td>Reservar citas</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
 <td>Realizar reseñas</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>High</td> </tr> <tr>
-<td>Establecer metas</td> <td>Always</td> <td>Medium</td> <td>Always</td> <td>Medium</td> </tr> <tr>
-<td>Participar en desafios</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Low</td> </tr> <tr>
-<td>Apartado de sesión online</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> </table>
+<td>Eliminacion de cita</td> <td>Rarely</td> <td>Medium</td> <td>Rarely</td> <td>Medium</td> </tr> <tr>
+<td>Filtrar búsqueda</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr>
+<td>Acceder a información de la clínica</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> </table>
 
-**Trainer (Entrenador):**
+**Clínica Veterinaria:**
 
-Las tareas de mayor frecuencia e importancia para los entrenadores son: "registrarse en la plataforma, crear y actualizar su perfil, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Esto destaca la importancia de mantener actualizada la información de su perfil, y estar al tanto de las interacciones con los clientes para destacar entre los demás trainers.
+Las tareas de mayor frecuencia e importancia para las Clínicas Veterinarias son: "registrarse en la plataforma, crear y actualizar su perfil, visualizar reseñas, confirmar citas reservadas ". Esto destaca la importancia de mantener actualizada la información de su perfil, y estar al tanto de las interacciones con los dueños de mascotas para destacar entre las demás clínicas veterinarias.
 
-La gestión de disponibilidad de horarios es una tarea siempre necesaria y de alta importancia para los trainers, ya que les permite una mejor organización de su agenda y aceptar solicitudes de próximas sesiones.
+La gestión de disponibilidad de horarios es una tarea siempre necesaria y de alta importancia para las veterinarias , ya que les permite una mejor organización de su agenda y aceptar solicitudes de próximas citas.
 
-**Cliente:**
+**Dueños de mascotas:**
 
-Las tareas de mayor frecuencia e importancia para los clientes son: "recibir notificaciones, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Estas tareas reflejan la necesidad de los clientes de interactuar con la plataforma de manera continua para elegir al mejor trainer junto con una mejor rutina y asesoría.
+Las tareas de mayor frecuencia e importancia para los dueños de mascotas son: "recibir notificaciones, visualizar reseñas, realizas reseñas, buscar clinicas veterinarias disponibles, acceder a información de la clínica y filtrar búsqueda". Estas tareas reflejan la necesidad de los dueños de mascotas de interactuar con la plataforma de manera continua para elegir a la mejor clínica veterinaria junto con una mejor atención.
 
-La búsqueda de entrenadores y la reserva de sesiones tienen una frecuencia media y alta importancia para los clientes, lo que indica que la elección del entrenador y la programación de sesiones son aspectos importantes en su proceso de uso de la plataforma.
+La búsqueda de clínicas veterinarias y la reserva de citas tienen una frecuencia media y alta importancia para los dueños de mascotas, lo que indica que la elección de la clínica veterinaria y la programación de citas son aspectos importantes en su proceso de uso de la plataforma.
 
 **Coincidencias y Diferencias:**
 
-Ambos segmentos coinciden en la importancia de registrarse en visualizar reseñas y el apartado de sesión online.
+Ambos segmentos coinciden en la importancia de registrarse en visualizar reseñas y el apartado de eliminacion de cita.
 
-La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para los entrenadores pero no tan relevante para los clientes.
+La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para las clínicas veterinarias pero no tan relevante para los dueños de mascotas ya que ellos son los que crearan las solicitudes.
 
 #### 2.3.3. User Journey Mapping
 
@@ -787,59 +792,65 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 |Epic/ Story ID|Titulo|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)
 |---|---|---|---|---|
 |**EP01**| Información de la aplicación | **Como** visitante de la landing page de Vet Connect **quiero** conocer acerca mas de la empresa y de la aplicacion **para** saber de qué se trata el proyecto. |  |  |
-|**EP02**| Contacto con la empresa | **Como** visitante de la landing page de Vet Connect **quiero** tener un formulario de contacto **para** poder comunicarme con la empresa y absolver mis dudas sobre el servicio. |  |  |
-|**EP03**| Conexión de Landing Page con la App | **Como** visitante de la landing page de Vet Connect **quiero** tener un enlace a la aplicación **para** poder acceder a la plataforma y agendar citas. |  |  |
-|**EP04**| Gestion de cuentas en la aplicacion | **Como** usuario de Vet Connect **quiero** poder registrarme, iniciar sesión y gestionar mi perfil **para** poder agendar citas y acceder a los servicios de la plataforma. |  |  |
-|**EP05**| Sistema de Búsqueda de Veterinarias | **Como** usuario de Vet Connect **quiero** poder buscar veterinarias por ubicación, horario y servicios **para** encontrar la clínica más adecuada para mi mascota. |  |  |
-|**EP06**| Agendamiento de Citas | **Como** usuario de Vet Connect **quiero** poder agendar citas en línea **para** evitar esperas y asegurar la atención de mi mascota. |  |  |
-|**EP07**| Sistema de Reservas | **Como** usuario de Vet Connect **quiero** poder reservar servicios como baños, vacunas y desparasitaciones **para** mantener a mi mascota sana y feliz. |  |  |
-|**EP08**| Sistema de Pago | **Como** usuario de Vet Connect **quiero** poder pagar los servicios en línea **para** evitar el uso de efectivo y hacer transacciones seguras. |  |  |
-|**EP09**| Sistema de Evaluaciones | **Como** usuario de Vet Connect **quiero** poder evaluar a las veterinarias y dejar comentarios **para** ayudar a otros usuarios a elegir la mejor clínica para su mascota. |  |  |
-|**EP10**| Sistema de Notificaciones | **Como** usuario de Vet Connect **quiero** recibir notificaciones de citas, recordatorios y promociones **para** estar informado y no perderme ningún detalle. |  |  |
-|**EP11**| Gestión Integral de Servicios | **Como** clínica veterinaria, **quiero** una plataforma que me permita gestionar todos mis servicios, desde consultas generales hasta procedimientos especializados, **para** garantizar una experiencia de atención completa para mis clientes y sus mascotas. |  |  |
-|**EP12**| Agenda Centralizada y Programación de Citas | **Como** clínica veterinaria, **quiero** una agenda centralizada **para** ver todas las citas programadas y disponibilidad de personal, y que facilite la programación y gestión de nuevas citas para optimizar la eficiencia y evitar conflictos de horarios. |  |  |
-|**EP13**| Agenda Centralizada y Programación de Citas | **Como** clínica veterinaria, **quiero** tener perfiles individuales **para** cada veterinario y miembro del personal, donde pueda mostrar sus especialidades, experiencia y disponibilidad, para que los clientes puedan elegir al profesional adecuado para las necesidades de sus mascotas. |  |  |
-|**EP14**| Sistema de Comunicación Interna | **Como** clínica veterinaria, **quiero** un sistema de comunicación interna que facilite la coordinación entre el personal, la asignación de tareas y la transmisión de información relevante **para** garantizar una atención fluida y eficiente para todas las mascotas. |  |  |
-|**EP15**| Gestión de Historiales Médicos y Registros de Pacientes | **Como** clínica veterinaria, **quiero** una herramienta que me permita mantener registros detallados de cada paciente, incluyendo historiales médicos, tratamientos previos y vacunas, **para** proporcionar un cuidado personalizado y seguimiento adecuado de la salud de las mascotas. |  |  |
-|**EP16**| Integración de Pagos y Facturación | **Como** clínica veterinaria, **quiero** una integración fluida con sistemas de pago **para** procesar transacciones de manera segura y conveniente, y generar facturas automáticamente para mantener una gestión financiera precisa y eficiente. |  |  |
-|**US001**| Conocer informacion de la aplicacion | **Como** visitante de la landing page de Vet Connect **quiero** conocer la misión y visión de la empresa **para** saber de qué se trata el proyecto. | **Escenario 1: El usuario ingresa a la landing page de Vet Connect.** <br> **Dado** que el usuario se encuentra en la landing page de Vet Connect. <br> **Cuando** el usuario busca información sobre la empresa. <br> **Entonces** el usuario encuentra la misión y visión de la empresa. | EP01 |
-|**US002**| Contactar con la empresa | **Como** visitante de la landing page de Vet Connect **quiero** tener un formulario de contacto **para** proporcionar mi correo electrónico y recibir información sobre el servicio. | **Escenario 1: El usuario se comunica con la empresa.** <br> **Dado** que el usuario se encuentra en la landing page de Vet Connect. <br> **Cuando** el usuario tenga alguna duda o inquietud acerca de nuestra aplicacion, el usuario completa el formulario de contacto. <br> **Entonces** el usuario recibe un correo electrónico de respuesta. | EP02 |
-|**US003**| Enlace a la aplicacion | **Como** visitante de la landing page de Vet Connect **quiero** tener un enlace a la aplicación de manera directa desde la landing page **para** poder usar la plataforma y usar sus funcinoalidades. | **Escenario 1: El usuario accede a la aplicación.** <br> **Dado** que el usuario visitante de la landing page de Vet Connect. <br> **Cuando** haga clic en el enlace de la aplicación. <br> **Entonces** el usuario es redirigido a la aplicación. <br> **Escenario 2: Fallo al ingresar a la aplicacion.** <br> **Dado** que el usuario este visitando la landing page de Vet Connect. <br> **Cuando** haga el usuario haga clic en el enlace de la aplicación y tenga algunas fallas o no pueda ingresar a la aplicacion. <br> **Entonces** el usuario recibe un mensaje de error. | EP03 |
-|**US004**| Registrar Veterinario | **Como** Veterinario de Vet Connect **quiero** poder registrarme como Clinica Veterinaria **para** poder ofrecer mis servicios en la plataforma. | **Escenario 1: El veterinario se registra en la plataforma.** <br> **Dado** que el veterinario es nuevo en la plataforma de Vet Connect, creara una cuenta. <br> **Cuando** el veterinario complete el formulario de registro. <br> **Entonces** el veterinario recibe un correo electrónico de confirmación, y seguidamente se muestra un aviso del costo de la aplicacion. <br> **Escenario 2: El veterinario ya esta registrado en la plataforma.** <br> **Dado** que el veterinario ya esta registrado en la plataforma de Vet Connect. <br> **Cuando** el veterinario intente registrarse nuevamente. <br> **Entonces** el veterinario recibe un mensaje de error. <br> **Escenario 3: El veterinario no completa de manera correcta el formulario de registro.** <br> **Dado** que el veterinario esta completando el formulario de registro. <br> **Cuando** el veterinario no complete de manera correcta el formulario de registro o con las caracteristicas que se piden. <br> **Entonces** el veterinario recibe una advertencia para que complete de manera correcta el formulario. | EP04 |
-|**US005**| Registrar Dueño de Mascota | **Como** Dueño de Mascota de Vet Connect **quiero** poder registrarme como usuario **para** poder agendar citas y reservar servicios en la plataforma. | **Escenario 1: El dueño de mascota se registra en la plataforma.** <br> **Dado** que el dueño de mascota es nuevo en la plataforma de Vet Connect, creara una cuenta. <br> **Cuando** el dueño de mascota complete el formulario de registro. <br> **Entonces** el dueño de mascota recibe un correo electrónico de confirmación, y seguidamente se muestra un aviso del costo de la aplicacion. <br> **Escenario 2: El dueño de mascota ya esta registrado en la plataforma.** <br> **Dado** que el dueño de mascota ya esta registrado en la plataforma de Vet Connect. <br> **Cuando** el dueño de mascota intente registrarse nuevamente. <br> **Entonces** el dueño de mascota recibe un mensaje de error. <br> **Escenario 3: El dueño de mascota no completa de manera correcta el formulario de registro.** <br> **Dado** que el dueño de mascota esta completando el formulario de registro. <br> **Cuando** el dueño de mascota no complete de manera correcta el formulario de registro o con las caracteristicas que se piden. <br> **Entonces** el dueño de mascota recibe una advertencia para que complete de manera correcta el formulario. | EP04 |
-|**US006**| Inicio de sesion para Veterinarios y Dueños de mascotas | **Como** usuario de Vet Connect **quiero** poder iniciar sesión en la plataforma **para** acceder a los servicios y funcionalidades de la aplicacion| **Escenario 1: El usuario inicia sesion en la plataforma con credenciales correctas.** <br> **Dado** que el usuario se encuentra en la pantalla de inicio de sesion de Vet Connect y desee iniciar sesión. <br> **Cuando** el usuario ingrese su correo electrónico y contraseña correctas. <br> **Entonces** el usuario es redirigido a la pantalla principal de la aplicacion. <br> **Escenario 2: El usuario inicia sesion en la plataforma con credenciales incorrectas.** <br> **Dado** que el usuario se encuentra en la pantalla de inicio de sesion de Vet Connect y desee iniciar sesión. <br> **Cuando** el usuario ingrese su correo electrónico y contraseña incorrectas. <br> **Entonces** el usuario recibe un mensaje de error. | EP04 |
-|**US007**| Busqueda de Veterinarias por ubicacion y servicios. | **Como** usuario de Vet Connect **quiero** poder buscar veterinarias por ubicacion y servicios **para** encontrar la clinica mas adecuada para mi mascota y cerca de mi ubicacion. | **Escenario 1: El usuario busca veterinarias por ubicacion y servicios.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario ingrese la ubicacion y los servicios que necesita. <br> **Entonces** el usuario recibe una lista de veterinarias que cumplan con los criterios de busqueda. <br> **Escenario 2: El usuario no encuentra veterinarias que cumplan con los criterios de busqueda.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario ingrese la ubicacion y los servicios que necesita y no encuentre veterinarias que cumplan con los criterios de busqueda. <br> **Entonces** se muestra un mensaje de que no se encontraron resultados. | EP05 | 
-|**US008**| Ver perfiles de Veterinarias | **Como** usuario de Vet Connect **quiero** poder ver los perfiles de las veterinarias **para** conocer mas acerca de la clinica y los servicios que ofrecen y sobre todo las reseñas de otros usuarios. | **Escenario 1: El usuario ve el perfil de una veterinaria.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario haga clic en una veterinaria. <br> **Entonces** el usuario ve el perfil de la veterinaria con informacion detallada y reseñas de otros usuarios. | EP05 |
-|**US009**| Selección de fecha y hora para agendar cita | **Como** usuario de Vet Connect **quiero** poder seleccionar la fecha y hora para agendar una cita **para** asegurar la atención de mi mascota. | **Escenario 1: El usuario selecciona la fecha y hora para agendar una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la fecha y hora para agendar una cita. <br> **Entonces** el usuario recibe una confirmación  instantánea de la cita agendada. <br> **Escenario 2: El usuario intenta agendar una cita en una fecha y hora que ya esta ocupada.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la fecha y hora para agendar una cita y la fecha y hora ya esta ocupada. <br> **Entonces** el usuario recibe un mensaje de que la fecha y hora ya esta ocupada y debe seleccionar otra. | EP06 |
-|**US010**| Selección de servicios para agendar cita | **Como** usuario de Vet Connect **quiero** poder seleccionar los servicios como baños, vacunas y desparasitaciones **para** reservar la cita y mantener a mi mascota sana y feliz. | **Escenario 1: El usuario selecciona los servicios para agendar una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione los servicios que desea reservar. <br> **Entonces** el usuario recibe una confirmación instantánea de los servicios reservados y algunos costos adicionales segun la clinica. <br> **Escenario 2: El usuario intenta seleccionar servicios que no estan disponibles.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione los servicios que desea reservar y los servicios no estan disponibles. <br> **Entonces** el usuario recibe un mensaje de que los servicios no estan disponibles y debe seleccionar otros. | EP07 | 
-|**US011**| Cancelacion de citas | **Como** usuario de Vet Connect **quiero** poder cancelar citas agendadas en caso de ser necesario **para** liberar el horario y permitir que otro usuario pueda agendar una cita. | **Escenario 1: El usuario cancela una cita agendada.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la cita que desea cancelar. <br> **Entonces** el usuario y la clinica veterinaria reciben una notificacion de la cancelacion de la cita. <br> **Escenario 2: El usuario intenta cancelar una cita que ya ha pasado.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la cita que desea cancelar y la cita ya ha pasado. <br> **Entonces** el usuario no puede cancelar la cita y recibe un mensaje que la cita ya ha pasado. | EP06 |
-|**US012**| Recordatorios de citas | **Como** usuario de Vet Connect **quiero** recibir recordatorios de citas **para** estar informado y no olvidar la cita de mi mascota. | **Escenario 1: El usuario recibe un recordatorio de cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario agende una cita. <br> **Entonces** el usuario recibe un recordatorio 2 horas antes de la cita agendada. | EP10 |
-|**US013**| Evaluacion de Veterinarias | **Como** usuario de Vet Connect **quiero** poder evaluar a las veterinarias y dejar comentarios **para** ayudar a otros usuarios a elegir la mejor clinica para su mascota. | **Escenario 1: El usuario evalua a una veterinaria.** <br> **Dado** que el usuario ya ha tenido una cita en una clinica veterinaria y se encuentra en la pantalla de evaluacion de la clinica. <br> **Cuando** el usuario complete la evaluacion y deje un comentario. <br> **Entonces** el usuario puede ver su opinión reflejada en la lista de evaluaciones de la veterinaria respectiva. <br> **Escenario 2: El usuario intenta evaluar una clinica sin haber tenido una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de evaluacion de la clinica. <br> **Cuando** el usuario intente evaluar una clinica sin haber tenido una cita. <br> **Entonces** el usuario no puede completar la evaluacion y recibe un mensaje de error. | EP09 |
+|**EP02**| Conexión de Landing Page con la App | **Como** visitante de la landing page de Vet Connect **quiero** tener un enlace a la aplicación **para** poder acceder a la plataforma y agendar citas. |  |  |
+|**EP03**| Gestion de cuentas en la aplicacion | **Como** usuario de Vet Connect **quiero** poder registrarme, iniciar sesión y gestionar mi perfil **para** poder agendar citas y acceder a los servicios de la plataforma. |  |  |
+|**EP04**| Sistema de Búsqueda de Veterinarias | **Como** usuario de Vet Connect **quiero** poder buscar veterinarias por ubicación, horario y servicios **para** encontrar la clínica más adecuada para mi mascota. |  |  |
+|**EP05**| Agendamiento de Citas | **Como** usuario de Vet Connect **quiero** poder agendar citas en línea **para** evitar esperas y asegurar la atención de mi mascota. |  |  |
+|**EP06**| Sistema de Reservas | **Como** usuario de Vet Connect **quiero** poder reservar servicios como baños, vacunas y desparasitaciones **para** mantener a mi mascota sana y feliz. |  |  |
+|**EP07**| Sistema de Pago | **Como** usuario de Vet Connect **quiero** poder pagar los servicios en línea **para** evitar el uso de efectivo y hacer transacciones seguras. |  |  |
+|**EP08**| Sistema de Evaluaciones | **Como** usuario de Vet Connect **quiero** poder evaluar a las veterinarias y dejar comentarios **para** ayudar a otros usuarios a elegir la mejor clínica para su mascota. |  |  |
+|**EP09**| Sistema de Notificaciones | **Como** usuario y veterinaria de Vet Connect **quiero** recibir notificaciones de citas y recordatorios **para** mantenerme informado. |  |  |
+|**EP10**| Gestión Integral de Servicios | **Como** clínica veterinaria, **quiero** una plataforma que me permita gestionar todos mis servicios, desde consultas generales hasta procedimientos especializados, **para** garantizar una experiencia de atención completa para mis clientes y sus mascotas. |  |  |
+|**EP11**| Agenda Centralizada y Programación de Citas | **Como** clínica veterinaria, **quiero** una agenda centralizada **para** ver todas las citas programadas y disponibilidad de personal, y que facilite la programación y gestión de nuevas citas para optimizar la eficiencia y evitar conflictos de horarios. |  |  |
+|**EP12**| Gestión de Historiales Médicos y Registros de Pacientes | **Como** clínica veterinaria, **quiero** una herramienta que me permita mantener registros detallados de cada paciente, incluyendo historiales médicos, tratamientos previos y vacunas, **para** proporcionar un cuidado personalizado y seguimiento adecuado de la salud de las mascotas. |  |  |
+|**EP13**| Integración de Pagos y Facturación | **Como** clínica veterinaria, **quiero** una integración fluida con sistemas de pago **para** procesar transacciones de manera segura y conveniente, y generar facturas automáticamente para mantener una gestión financiera precisa y eficiente. |  |  |
+|**US001**| Conocer informacion de la aplicacion | **Como** visitante de la landing page de Vet Connect **quiero** conocer informacion relevante de la empresa **para** saber de qué se trata el proyecto. | **Escenario 1: El usuario ingresa a la landing page de Vet Connect.** <br> **Dado** que el usuario se encuentra en la landing page de Vet Connect. <br> **Cuando** el usuario busca información sobre la empresa. <br> **Entonces** el usuario encuentra la informacion de la empresa. <br> **Escenario 2: El usuario no encuentra la información de la empresa.** <br> **Dado** que el usuario se encuentra en la landing page de Vet Connect. <br> **Cuando** el usuario busca información sobre la empresa y no la encuentra. <br> **Entonces** el usuario no puede conocer la informacion de la empresa. | EP01 |
+|**US002**| Enlace a la aplicacion | **Como** visitante de la landing page de Vet Connect **quiero** tener un enlace a la aplicación de manera directa desde la landing page **para** poder usar la plataforma y usar sus funcinoalidades. | **Escenario 1: El usuario accede a la aplicación.** <br> **Dado** que el usuario visitante de la landing page de Vet Connect. <br> **Cuando** haga clic en el enlace de la aplicación. <br> **Entonces** el usuario es redirigido a la aplicación. <br> **Escenario 2: Fallo al ingresar a la aplicacion.** <br> **Dado** que el usuario este visitando la landing page de Vet Connect. <br> **Cuando** haga el usuario haga clic en el enlace de la aplicación y tenga algunas fallas o no pueda ingresar a la aplicacion. <br> **Entonces** el usuario recibe un mensaje de error. | EP02 |
+|**US003**| Registrar Veterinario | **Como** Veterinario de Vet Connect **quiero** poder registrarme como Clinica Veterinaria **para** poder ofrecer mis servicios en la plataforma. | **Escenario 1: El veterinario se registra en la plataforma.** <br> **Dado** que el veterinario es nuevo en la plataforma de Vet Connect, creara una cuenta. <br> **Cuando** el veterinario complete el formulario de registro. <br> **Entonces** el veterinario recibe un correo electrónico de confirmación, y seguidamente se muestra un aviso del costo de la aplicacion. <br> **Escenario 2: El veterinario ya esta registrado en la plataforma.** <br> **Dado** que el veterinario ya esta registrado en la plataforma de Vet Connect. <br> **Cuando** el veterinario intente registrarse nuevamente. <br> **Entonces** el veterinario recibe un mensaje de error. <br> **Escenario 3: El veterinario no completa de manera correcta el formulario de registro.** <br> **Dado** que el veterinario esta completando el formulario de registro. <br> **Cuando** el veterinario no complete de manera correcta el formulario de registro o con las caracteristicas que se piden. <br> **Entonces** el veterinario recibe una advertencia para que complete de manera correcta el formulario. | EP03 |
+|**US004**| Registrar Dueño de Mascota | **Como** Dueño de Mascota de Vet Connect **quiero** poder registrarme como usuario **para** poder agendar citas y reservar servicios en la plataforma. | **Escenario 1: El dueño de mascota se registra en la plataforma.** <br> **Dado** que el dueño de mascota es nuevo en la plataforma de Vet Connect, creara una cuenta. <br> **Cuando** el dueño de mascota complete el formulario de registro. <br> **Entonces** el dueño de mascota recibe un correo electrónico de confirmación, y seguidamente se muestra un aviso del costo de la aplicacion. <br> **Escenario 2: El dueño de mascota ya esta registrado en la plataforma.** <br> **Dado** que el dueño de mascota ya esta registrado en la plataforma de Vet Connect. <br> **Cuando** el dueño de mascota intente registrarse nuevamente. <br> **Entonces** el dueño de mascota recibe un mensaje de error. <br> **Escenario 3: El dueño de mascota no completa de manera correcta el formulario de registro.** <br> **Dado** que el dueño de mascota esta completando el formulario de registro. <br> **Cuando** el dueño de mascota no complete de manera correcta el formulario de registro o con las caracteristicas que se piden. <br> **Entonces** el dueño de mascota recibe una advertencia para que complete de manera correcta el formulario. | EP04 |
+|**US005**| Inicio de sesion para Veterinarios y Dueños de mascotas | **Como** usuario de Vet Connect **quiero** poder iniciar sesión en la plataforma **para** acceder a los servicios y funcionalidades de la aplicacion| **Escenario 1: El usuario inicia sesion en la plataforma con credenciales correctas.** <br> **Dado** que el usuario se encuentra en la pantalla de inicio de sesion de Vet Connect y desee iniciar sesión. <br> **Cuando** el usuario ingrese su correo electrónico y contraseña correctas. <br> **Entonces** el usuario es redirigido a la pantalla principal de la aplicacion. <br> **Escenario 2: El usuario inicia sesion en la plataforma con credenciales incorrectas.** <br> **Dado** que el usuario se encuentra en la pantalla de inicio de sesion de Vet Connect y desee iniciar sesión. <br> **Cuando** el usuario ingrese su correo electrónico y contraseña incorrectas. <br> **Entonces** el usuario recibe un mensaje de error. | EP03 |
+|**US006**| Busqueda de Veterinarias por ubicacion y servicios. | **Como** usuario de Vet Connect **quiero** poder buscar veterinarias por ubicacion y servicios **para** encontrar la clinica mas adecuada para mi mascota y cerca de mi ubicacion. | **Escenario 1: El usuario busca veterinarias por ubicacion y servicios.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario ingrese la ubicacion y los servicios que necesita. <br> **Entonces** el usuario recibe una lista de veterinarias que cumplan con los criterios de busqueda. <br> **Escenario 2: El usuario no encuentra veterinarias que cumplan con los criterios de busqueda.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario ingrese la ubicacion y los servicios que necesita y no encuentre veterinarias que cumplan con los criterios de busqueda. <br> **Entonces** se muestra un mensaje de que no se encontraron resultados. | EP05 | 
+|**US007**| Ver perfiles de Veterinarias | **Como** usuario de Vet Connect **quiero** poder ver los perfiles de las veterinarias **para** conocer mas acerca de la clinica y los servicios que ofrecen y sobre todo las reseñas de otros usuarios. | **Escenario 1: El usuario ve el perfil de una veterinaria.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario haga clic en una veterinaria. <br> **Entonces** el usuario ve el perfil de la veterinaria con informacion detallada y reseñas de otros usuarios. <br> **Escenario 2: El usuario intenta ver el perfil de una veterinaria que no existe.** <br> **Dado** que el usuario se encuentra en la pantalla de busqueda de veterinarias de Vet Connect. <br> **Cuando** el usuario haga clic en una veterinaria que no existe. <br> **Entonces** el usuario recibe un mensaje de que la veterinaria no existe. | EP05 |
+|**US008**| Selección de fecha y hora para agendar cita | **Como** usuario de Vet Connect **quiero** poder seleccionar la fecha y hora para agendar una cita **para** asegurar la atención de mi mascota. | **Escenario 1: El usuario selecciona la fecha y hora para agendar una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la fecha y hora para agendar una cita. <br> **Entonces** el usuario recibe una confirmación  instantánea de la cita agendada. <br> **Escenario 2: El usuario intenta agendar una cita en una fecha y hora que ya esta ocupada.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la fecha y hora para agendar una cita y la fecha y hora ya esta ocupada. <br> **Entonces** el usuario recibe un mensaje de que la fecha y hora ya esta ocupada y debe seleccionar otra. | EP05 |
+|**US009**| Selección de servicios para agendar cita | **Como** usuario de Vet Connect **quiero** poder seleccionar los servicios como baños, vacunas y desparasitaciones **para** reservar la cita y mantener a mi mascota sana y feliz. | **Escenario 1: El usuario selecciona los servicios para agendar una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione los servicios que desea reservar. <br> **Entonces** el usuario recibe una confirmación instantánea de los servicios reservados y algunos costos adicionales segun la clinica. <br> **Escenario 2: El usuario intenta seleccionar servicios que no estan disponibles.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione los servicios que desea reservar y los servicios no estan disponibles. <br> **Entonces** el usuario recibe un mensaje de que los servicios no estan disponibles y debe seleccionar otros. | EP06 |
+|**US010**| Cancelacion de citas | **Como** usuario de Vet Connect **quiero** poder cancelar citas agendadas en caso de ser necesario **para** liberar el horario y permitir que otro usuario pueda agendar una cita. | **Escenario 1: El usuario cancela una cita agendada.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la cita que desea cancelar. <br> **Entonces** el usuario y la clinica veterinaria reciben una notificacion de la cancelacion de la cita. <br> **Escenario 2: El usuario intenta cancelar una cita que ya ha pasado.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario seleccione la cita que desea cancelar y la cita ya ha pasado. <br> **Entonces** el usuario no puede cancelar la cita y recibe un mensaje que la cita ya ha pasado. | EP07 |
+|**US011**| Recordatorios de citas | **Como** usuario de Vet Connect **quiero** recibir recordatorios de citas **para** estar informado y no olvidar la cita de mi mascota. | **Escenario 1: El usuario recibe un recordatorio de cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario agende una cita. <br> **Entonces** el usuario recibe un recordatorio 2 horas antes de la cita agendada. <br> **Escenario 2: El usuario no recibe un recordatorio de cita.** <br> **Dado** que el usuario se encuentra en la pantalla de agendamiento de citas de Vet Connect. <br> **Cuando** el usuario agende una cita y no recibe un recordatorio. <br> **Entonces** el usuario puede reportar el problema y recibir un mensaje de disculpa. | EP07 |
+|**US012**| Evaluacion de Veterinarias | **Como** usuario de Vet Connect **quiero** poder evaluar a las veterinarias y dejar comentarios **para** ayudar a otros usuarios a elegir la mejor clinica para su mascota. | **Escenario 1: El usuario evalua a una veterinaria.** <br> **Dado** que el usuario ya ha tenido una cita en una clinica veterinaria y se encuentra en la pantalla de evaluacion de la clinica. <br> **Cuando** el usuario complete la evaluacion y deje un comentario. <br> **Entonces** el usuario puede ver su opinión reflejada en la lista de evaluaciones de la veterinaria respectiva. <br> **Escenario 2: El usuario intenta evaluar una clinica sin haber tenido una cita.** <br> **Dado** que el usuario se encuentra en la pantalla de evaluacion de la clinica. <br> **Cuando** el usuario intente evaluar una clinica sin haber tenido una cita. <br> **Entonces** el usuario no puede completar la evaluacion y recibe un mensaje de error. | EP08 |
 |**US014**| Proceso de pago | **Como** usuario de Vet Connect **quiero** poder pagar los servicios en linea **para** realizar pagos seguros desde la misma plataforma. | **Escenario 1: El usuario realiza un pago en linea.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y complete el proceso de pago. <br> **Entonces** el usuario debe poder completar la transacción de manera segura y recibir un recibo de confirmacion por correo electronico. <br> **Escenario 2: El usuario intenta realizar un pago sin tener fondos suficientes.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y complete el proceso de pago sin tener fondos suficientes. <br> **Entonces** el usuario un mensaje de fondos insuficientes y no puede completar la transacción. <br> **Escenario 3: El usuario intenta realizar un pago sin completar correctamente el proceso.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y no complete correctamente el proceso de pago. <br> **Entonces** el usuario un mensaje de error y no puede completar la transacción. | EP08 |
 |**US015**| Metodos de pago alternativos | **Como** usuario de Vet Connect **quiero** poder pagar los servicios en linea con metodos de pago alternativos **para** tener mas opciones de pago. | **Escenario 1: El usuario selecciona metodo de pago PayPal.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y complete el proceso de pago con PayPal. <br> **Entonces** el usuario debe poder completar la transacción de manera segura y recibir un recibo de confirmacion por correo electronico. <br> **Escenario 2: El usuario selecciona metodo de pago Tarjeta de Credito.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y complete el proceso de pago con Tarjeta de Credito. <br> **Entonces** el usuario debe poder completar la transacción de manera segura y recibir un recibo de confirmacion por correo electronico. <br> **Escenario 3: El usuario no coloca los datos de la tarjeta de credito correctamente.** <br> **Dado** que el usuario se encuentra en la pantalla de pago de Vet Connect. <br> **Cuando** el usuario seleccione el servicio que desea pagar y complete el proceso de pago con Tarjeta de Credito y no coloque los datos correctamente. <br> **Entonces** el usuario debe recibir un mensaje de error y no puede completar la transacción. | EP08 |
-|**US016**| Visualizar perfil de usuario | **Como** usuario de Vet Connect **quiero** poder visualizar mi perfil **para** ver mis datos personales. | **Escenario 1: El usuario visualiza su perfil.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de perfil. <br> **Entonces** el usuario puede ver sus datos personales. | EP04 |
-|**US017**| Visualizar perfil de veterinario | **Como** veterinario **quiero** poder visualizar mi perfil **para** ver mis datos de la veterinaria | **Escenario 1: El veterinario visualiza su perfil.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de perfil. <br> **Entonces** el veterinario puede ver sus datos personales de su veterinaria. | EP04 |
-|**US018**| Eliminar cuenta de usuario | **Como** usuario de Vet Connect **quiero** poder eliminar mi cuenta **para** dejar de recibir notificaciones y eliminar mis datos personales de la plataforma. | **Escenario 1: El usuario elimina su cuenta.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de eliminar cuenta. <br> **Entonces** el usuario recibe una confirmación de eliminación de cuenta y se eliminan todos los datos personales de la plataforma. | EP04 |
-|**US019**| Eliminar cuenta de veterinario | **Como** veterinario **quiero** poder eliminar mi cuenta **para** dejar de ofrecer mis servicios en la plataforma y eliminar mis datos personales de la plataforma. | **Escenario 1: El veterinario elimina su cuenta.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de eliminar cuenta. <br> **Entonces** el veterinario recibe una confirmación de eliminación de cuenta y se eliminan todos los datos personales de la plataforma. | EP04 |
+|**US016**| Visualizar perfil de usuario | **Como** dueño de mascota de Vet Connect **quiero** poder visualizar mi perfil **para** ver mis datos personales. | **Escenario 1: El usuario visualiza su perfil.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de perfil. <br> **Entonces** el usuario puede ver sus datos personales. <br> **Escenario 2: El usuario intenta visualizar su perfil sin haber iniciado sesion.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de perfil sin haber iniciado sesion. <br> **Entonces** el usuario es redirigido a la pantalla de inicio de sesion. | EP04 |
+|**US017**| Visualizar perfil de veterinario | **Como** veterinario **quiero** poder visualizar mi perfil **para** ver mis datos de la veterinaria | **Escenario 1: El veterinario visualiza su perfil.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de perfil. <br> **Entonces** el veterinario puede ver sus datos personales de su veterinaria. <br> **Escenario 2: El veterinario intenta visualizar su perfil sin haber iniciado sesion.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de perfil sin haber iniciado sesion. <br> **Entonces** el veterinario es redirigido a la pantalla de inicio de sesion. | EP04 |
+|**US018**| Eliminar cuenta de usuario | **Como** usuario de Vet Connect **quiero** poder eliminar mi cuenta **para** dejar de recibir notificaciones y eliminar mis datos personales de la plataforma. | **Escenario 1: El usuario elimina su cuenta.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de eliminar cuenta. <br> **Entonces** el usuario recibe una confirmación de eliminación de cuenta y se eliminan todos los datos personales de la plataforma. <br> **Escenario 2: El usuario intenta eliminar su cuenta sin confirmar.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de eliminar cuenta y no confirme la eliminacion. <br> **Entonces** el usuario no puede eliminar su cuenta. | EP04 |
+|**US019**| Eliminar cuenta de veterinario | **Como** veterinario **quiero** poder eliminar mi cuenta **para** dejar de ofrecer mis servicios en la plataforma y eliminar mis datos personales de la plataforma. | **Escenario 1: El veterinario elimina su cuenta.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de eliminar cuenta. <br> **Entonces** el veterinario recibe una confirmación de eliminación de cuenta y se eliminan todos los datos personales de la plataforma. <br> **Escenario 2: El veterinario intenta eliminar su cuenta sin confirmar.** <br> **Dado** que el veterinario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el veterinario haga clic en la opción de eliminar cuenta y no confirme la eliminacion. <br> **Entonces** el veterinario no puede eliminar su cuenta. | EP04 |
 |**US020**| Modificar datos de usuario | **Como** usuario de Vet Connect **quiero** poder modificar mis datos personales **para** mantener actualizada mi información. | **Escenario 1: Cambiar contraseña.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect y quiera cambiar su contraseña. <br> **Cuando** ingrese la nueva contraseña, esta sera validada por el sistema y el usuario confirme su intención de proceder con el cambio. <br> **Entonces** el usuario puede cambiar su contraseña. <br> **Escenario 2: Cambiar correo electrónico.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de cambiar correo electrónico. <br> **Entonces** el usuario puede cambiar su correo electrónico. <br> **Escenario 3: Cambiar número de teléfono.** <br> **Dado** que el usuario se encuentra en la pantalla de perfil de Vet Connect. <br> **Cuando** el usuario haga clic en la opción de cambiar número de teléfono. <br> **Entonces** el usuario puede cambiar su número de teléfono. | EP04 |
-|**US021**| Lista de Servicios | **Como** clínica veterinaria, **quiero** poder listar todos los servicios que ofrecemos, desde consultas generales hasta procedimientos especializados, **para** que los clientes conozcan nuestras capacidades. | **Escenario 1: Ver la lista de servicios de la clinica veterinaria.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de gestion de servicios. <br> **Entonces** veo una lista de todos los servicios ofrecidos, incluyendo consultas generales, procedimientos especializados, desparasitaciones y tratamientos de higiene. <br> **Escenario 2: Agregar un nuevo servicio a la lista.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de gestion de servicios y agrego un nuevo servicio. <br> **Entonces** el nuevo servicio se agrega a la lista y se muestra en la seccion de servicios de la clinica. | EP11 |
-|**US022**| Configuracion de servicios | **Como** clínica veterinaria, **quiero** poder configurar la duración y los costos asociados con cada servicio, **para** garantizar una programación y facturación precisas. | **Escenario 1: Configurar la duracion y costos de un servicio.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de configuracion de servicios y selecciono un servicio especifico, configuro la duracion y el costo del servicio. <br> **Entonces** los cambios se guardan exitosamente en el sistema y se reflejan en la programacion y facturacion de la clinica. | EP11 |
+|**US021**| Lista de Servicios | **Como** clínica veterinaria, **quiero** poder listar todos los servicios que ofrecemos, desde consultas generales hasta procedimientos especializados, **para** que los clientes conozcan nuestras capacidades. | **Escenario 1: Ver la lista de servicios de la clinica veterinaria.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de gestion de servicios. <br> **Entonces** veo una lista de todos los servicios ofrecidos, incluyendo consultas generales, procedimientos especializados, desparasitaciones y tratamientos de higiene. <br> **Escenario 2: Agregar un nuevo servicio a la lista.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de gestion de servicios y agrego un nuevo servicio. <br> **Entonces** el nuevo servicio se agrega a la lista y se muestra en la seccion de servicios de la clinica. | EP10 |
+|**US022**| Configuracion de servicios | **Como** clínica veterinaria, **quiero** poder configurar la duración y los costos asociados con cada servicio, **para** garantizar una programación y facturación precisas. | **Escenario 1: Configurar la duracion y costos de un servicio.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de configuracion de servicios y selecciono un servicio especifico, configuro la duracion y el costo del servicio. <br> **Entonces** los cambios se guardan exitosamente en el sistema y se reflejan en la programacion y facturacion de la clinica. <br> **Escenario 2: Configurar un servicio no existente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de configuracion de servicios y intento configurar un servicio que no existe en el sistema. <br> **Entonces** el sistema muestra un mensaje de error indicando que el servicio no existe. | EP11 |
 |**US023**| Actualización de estado de servicios | **Como** clínica veterinaria, **quiero** poder configurar la duración y los costos asociados con cada servicio, **para** garantizar una programación y facturación precisas. | **Escenario 1: Actualizar el estado de un servicio no culminado a completado.** <br> **Dado** que personal de la clinica veterinaria <br> **Cuando** accedo a la seccion de registro de servicios, y selecciono un servicio que se ha completado en el sistema y cambio su estado a completado en el sistema. <br> **Entonces** el estado del servicio se actualiza correctamente. <br> **Escenario 2: Actualizar el estado de un servicio no culminado a cancelado.** <br> **Dado** que personal de la clinica veterinaria <br> **Cuando** accedo a la seccion de registro de servicios, y selecciono un servicio que se ha completado en el sistema y cambio su estado a cancelado en el sistema. <br> **Entonces** el estado del servicio se actualiza correctamente. | EP11 |
-|**US024**| Vista de calendario | **Como** clínica veterinaria, **quiero** tener una vista de calendario que muestre todas las citas programadas y la disponibilidad del personal **para** facilitar la programación de la cita. | **Escenario 1: Ver todas las citas programadas en el calendario.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de agenda y calendario. <br> **Entonces** veo todas las citas programadas en el calendario, mostrando fecha, hora y detalles de la cita. | EP15 |
-|**US025**| Notificaciones de nuevas citas | **Como** clínica veterinaria, **quiero** recibir notificaciones cuando se programe una nueva cita **para** poder revisarla y confirmarla en el sistema. | **Escenario 1: Recibir una notificacion de una nueva cita.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se programe una nueva cita en el sistema. <br> **Entonces** recibo una notificacion en tiempo real con los detalles de la cita programada. | EP15 |
-|**US026**| Mensajeria interna | **Como** clínica veterinaria, **quiero** tener una función de mensajería interna que me permita comunicarme con mis pacientes **para** coordinar citas y compartir información relevante. | **Escenario 1: Enviar un mensaje a un paciente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de mensajeria interna y selecciono un paciente. <br> **Entonces** puedo enviar un mensaje al paciente para coordinar citas y compartir información relevante. <br> **Escenario 2: Recibir un mensaje de un paciente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** un paciente me envie un mensaje a traves de la mensajeria interna. <br> **Entonces** recibo una notificacion y puedo responder al mensaje. | EP14 |
-|**US027**| Generacion automatica de facturas | Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación. | **Escenario 1: Generar una factura automáticamente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se complete un servicio en el sistema. <br> **Entonces** se genera automáticamente una factura con los detalles del servicio y se envía al cliente por correo electrónico. | EP16 |
+|**US024**| Vista de calendario | **Como** clínica veterinaria, **quiero** tener una vista de calendario que muestre todas las citas programadas y la disponibilidad del personal **para** facilitar la programación de la cita. | **Escenario 1: Ver todas las citas programadas en el calendario.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de agenda y calendario. <br> **Entonces** veo todas las citas programadas en el calendario, mostrando fecha, hora y detalles de la cita. <br> **Escenario 2: Ver la disponibilidad del personal en el calendario.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** accedo a la seccion de agenda y calendario. <br> **Entonces** veo la disponibilidad del personal en el calendario, mostrando los horarios de trabajo y las citas programadas. | EP11 |
+|**US025**| Notificaciones de nuevas citas | **Como** clínica veterinaria, **quiero** recibir notificaciones cuando se programe una nueva cita **para** poder revisarla y confirmarla en el sistema. | **Escenario 1: Recibir una notificacion de una nueva cita.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se programe una nueva cita en el sistema. <br> **Entonces** recibo una notificacion en tiempo real con los detalles de la cita programada. <br> **Escenario 2: No recibir una notificacion de una nueva cita.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se programe una nueva cita en el sistema y no reciba una notificacion. <br> **Entonces** puedo revisar la agenda de citas manualmente para verificar la cita programada. | EP11 |
+|**US026**| Generacion automatica de facturas | Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación. | **Escenario 1: Generar una factura automáticamente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se complete un servicio en el sistema. <br> **Entonces** se genera automáticamente una factura con los detalles del servicio y se envía al cliente por correo electrónico. <br> **Escenario 2: No generar una factura automáticamente.** <br> **Dado** que soy un administrador de la clinica veterinaria <br> **Cuando** se complete un servicio en el sistema y no se genere una factura automáticamente. <br> **Entonces** puedo generar manualmente la factura y enviarla al cliente por correo electrónico. | EP12 |
+|**TS01**| Post Dueño de Mascota | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** registrar a un nuevo Dueño de mascota mediante una API **para** visualizar los Dueños de mascotas que usan nuestra aplicación. | **Escenario 1: Registro de un nuevo Dueño de Mascota.** <br> **Dado** que tengo acceso a la API de registro de Dueños de mascotas de VetConnect. <br> **Cuando** envie una solicitud POST con los datos del Dueño de Mascota. <br> **Entonces** el Dueño de Mascota es registrado en la base de datos y puedo visualizarlo en la lista de Dueños de mascotas. <br> **Escenario 2: Registro de un Dueño de Mascota con datos incompletos.** <br> **Dado** que tengo acceso a la API de registro de Dueños de mascotas de VetConnect. <br> **Cuando** envie una solicitud POST con datos incompletos del Dueño de Mascota. <br> **Entonces** el Dueño de Mascota no es registrado en la base de datos y recibo un mensaje de error. | EP04 |
+|**TS02**| Post Veterinario | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** registrar a un nuevo Veterinario mediante una API **para** visualizar los Veterinarios que usan nuestra aplicación. | **Escenario 1: Registro de un nuevo Veterinario.** <br> **Dado** que tengo acceso a la API de registro de Veterinarios de VetConnect. <br> **Cuando** envie una solicitud POST con los datos del Veterinario. <br> **Entonces** el Veterinario es registrado en la base de datos y puedo visualizarlo en la lista de Veterinarios. <br> **Escenario 2: Registro de un Veterinario con datos incompletos.** <br> **Dado** que tengo acceso a la API de registro de Veterinarios de VetConnect. <br> **Cuando** envie una solicitud POST con datos incompletos del Veterinario. <br> **Entonces** el Veterinario no es registrado en la base de datos y recibo un mensaje de error. | EP04 |
+|**TS03**| Get Dueño de Mascota | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** obtener los datos de un Dueño de Mascota mediante una API **para** visualizar los datos de un Dueño de Mascota en especifico. | **Escenario 1: Obtener los datos de un Dueño de Mascota.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Dueños de mascotas de VetConnect. <br> **Cuando** envie una solicitud GET con el ID del Dueño de Mascota. <br> **Entonces** recibo los datos del Dueño de Mascota en formato JSON. <br> **Escenario 2: Obtener los datos de un Dueño de Mascota que no existe.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Dueños de mascotas de VetConnect. <br> **Cuando** envie una solicitud GET con el ID de un Dueño de Mascota que no existe. <br> **Entonces** recibo un mensaje de error indicando que el Dueño de Mascota no existe. | EP04 |
+|**TS04**| Get Veterinario | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** obtener los datos de un Veterinario mediante una API **para** visualizar los datos de un Veterinario en especifico. | **Escenario 1: Obtener los datos de un Veterinario.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Veterinarios de VetConnect. <br> **Cuando** envie una solicitud GET con el ID del Veterinario. <br> **Entonces** recibo los datos del Veterinario en formato JSON. <br> **Escenario 2: Obtener los datos de un Veterinario que no existe.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Veterinarios de VetConnect. <br> **Cuando** envie una solicitud GET con el ID de un Veterinario que no existe. <br> **Entonces** recibo un mensaje de error indicando que el Veterinario no existe. | EP04 |
+|**TS05**| Post Cita | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** registrar una nueva Cita mediante una API **para** visualizar las Citas programadas en la aplicación. | **Escenario 1: Registro de una nueva Cita.** <br> **Dado** que tengo acceso a la API de registro de Citas de VetConnect. <br> **Cuando** envie una solicitud POST con los datos de la Cita. <br> **Entonces** la Cita es registrada en la base de datos y puedo visualizarla en la lista de Citas programadas. <br> **Escenario 2: Registro de una Cita con datos incompletos.** <br> **Dado** que tengo acceso a la API de registro de Citas de VetConnect. <br> **Cuando** envie una solicitud POST con datos incompletos de la Cita. <br> **Entonces** la Cita no es registrada en la base de datos y recibo un mensaje de error. | EP05 |
+|**TS06**| Get Cita | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** obtener los datos de una Cita mediante una API **para** visualizar los datos de una Cita en especifico. | **Escenario 1: Obtener los datos de una Cita.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Citas de VetConnect. <br> **Cuando** envie una solicitud GET con el ID de la Cita. <br> **Entonces** recibo los datos de la Cita en formato JSON. <br> **Escenario 2: Obtener los datos de una Cita que no existe.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Citas de VetConnect. <br> **Cuando** envie una solicitud GET con el ID de una Cita que no existe. <br> **Entonces** recibo un mensaje de error indicando que la Cita no existe. | EP05 |
+|**TS07**| Put Cita | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** actualizar los datos de una Cita mediante una API **para** modificar los datos de una Cita en especifico. | **Escenario 1: Actualizar los datos de una Cita.** <br> **Dado** que tengo acceso a la API de actualizacion de datos de Citas de VetConnect. <br> **Cuando** envie una solicitud PUT con el ID de la Cita y los nuevos datos. <br> **Entonces** los datos de la Cita son actualizados en la base de datos y puedo visualizar los cambios en la lista de Citas programadas. <br> **Escenario 2: Actualizar los datos de una Cita que no existe.** <br> **Dado** que tengo acceso a la API de actualizacion de datos de Citas de VetConnect. <br> **Cuando** envie una solicitud PUT con el ID de una Cita que no existe. <br> **Entonces** recibo un mensaje de error indicando que la Cita no existe. | EP05 |
+|**TS08**| Delete Cita | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** eliminar una Cita mediante una API **para** eliminar una Cita en especifico. | **Escenario 1: Eliminar una Cita.** <br> **Dado** que tengo acceso a la API de eliminacion de Citas de VetConnect. <br> **Cuando** envie una solicitud DELETE con el ID de la Cita. <br> **Entonces** la Cita es eliminada de la base de datos y ya no se muestra en la lista de Citas programadas. <br> **Escenario 2: Eliminar una Cita que no existe.** <br> **Dado** que tengo acceso a la API de eliminacion de Citas de VetConnect. <br> **Cuando** envie una solicitud DELETE con el ID de una Cita que no existe. <br> **Entonces** recibo un mensaje de error indicando que la Cita no existe. | EP05 |
+|**TS09**| Post Pagos | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** registrar un nuevo Pago mediante una API **para** visualizar los Pagos realizados en la aplicación. | **Escenario 1: Registro de un nuevo Pago.** <br> **Dado** que tengo acceso a la API de registro de Pagos de VetConnect. <br> **Cuando** envie una solicitud POST con los datos del Pago. <br> **Entonces** el Pago es registrado en la base de datos y puedo visualizarlo en la lista de Pagos realizados. <br> **Escenario 2: Registro de un Pago con datos incompletos.** <br> **Dado** que tengo acceso a la API de registro de Pagos de VetConnect. <br> **Cuando** envie una solicitud POST con datos incompletos del Pago. <br> **Entonces** el Pago no es registrado en la base de datos y recibo un mensaje de error. | EP08 |
+|**TS10**| Get Pagos | **Como** desarrollador de software que esta encargado de la aplicacion de VetConnect, **quiero** obtener los datos de un Pago mediante una API **para** visualizar los datos de un Pago en especifico. | **Escenario 1: Obtener los datos de un Pago.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Pagos de VetConnect. <br> **Cuando** envie una solicitud GET con el ID del Pago. <br> **Entonces** recibo los datos del Pago en formato JSON. <br> **Escenario 2: Obtener los datos de un Pago que no existe.** <br> **Dado** que tengo acceso a la API de obtencion de datos de Pagos de VetConnect. <br> **Cuando** envie una solicitud GET con el ID de un Pago que no existe. <br> **Entonces** recibo un mensaje de error indicando que el Pago no existe. | EP08 |
 
 ### 3.3. Impact Mapping
 
-<img src="https://media.discordapp.net/attachments/1219442976061653025/1226639232253034587/VetConnect.png?ex=66257fce&is=66130ace&hm=8557f143af10df91a0eabeaf75cf0f96863fa9cddd5097f97e61c067c9628b53&=&format=webp&quality=lossless&width=773&height=602"/>
+![VetConnect-veterinario](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/133163553/54354d2b-618e-4bdd-9d25-a247fedf3f71)
+
+![VetConnect-usuario](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/133163553/37426b47-ead8-4cdb-8c3d-a0ee98bc05cb)
 
 ### 3.4. Product Backlog
 
 |#Orden|User Story Id|Titulo|Descripcion|Story Points|
 |---|---|---|---|---|
 |1|US001|Conocer informacion de la aplicacion|Como visitante de la landing page de Vet Connect quiero conocer la misión y visión de la empresa para saber de qué se trata el proyecto.|3|
-|2|US002|Contactar con la empresa|Como visitante de la landing page de Vet Connect quiero tener un formulario de contacto para proporcionar mi correo electrónico y recibir información sobre el servicio.|3|
 |3|US003|Enlace a la aplicacion|Como visitante de la landing page de Vet Connect quiero tener un enlace a la aplicación de manera directa desde la landing page para poder usar la plataforma y usar sus funcinoalidades.|3|
 |4|US004|Registrar Veterinario|Como Veterinario de Vet Connect quiero poder registrarme como Clinica Veterinaria para poder ofrecer mis servicios en la plataforma.|5|
 |5|US005|Registrar Dueño de Mascota|Como Dueño de Mascota de Vet Connect quiero poder registrarme como usuario para poder agendar citas y reservar servicios en la plataforma.|5|
@@ -863,20 +874,7 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 |23|US023|Actualización de estado de servicios|Como clínica veterinaria, quiero poder configurar la duración y los costos asociados con cada servicio, para garantizar una programación y facturación precisas.|5|
 |24|US024|Vista de calendario|Como clínica veterinaria, quiero tener una vista de calendario que muestre todas las citas programadas y la disponibilidad del personal para facilitar la programación de la cita.|5|
 |25|US025|Notificaciones de nuevas citas|Como clínica veterinaria, quiero recibir notificaciones cuando se programe una nueva cita para poder revisarla y confirmarla en el sistema.|5|
-|26|US026|Mensajeria interna|Como clínica veterinaria, quiero tener una función de mensajería interna que me permita comunicarme con mis pacientes para coordinar citas y compartir información relevante.|5|
-|27|US027|Generacion automatica de facturas|Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación.|5|
-
-<br>
-
-- Captura de pantalla del tablero de Trello con las historias de usuario priorizadas.
-
-<tr>
-    <td>
-      <img src="">
-    </td>
-</tr>
-
--  [Link del tablero de Trello - Vet Connect](https://trello.com/b/7Q6Z6Z8v/vet-connect)
+|26|US027|Generacion automatica de facturas|Como clínica veterinaria, quiero poder generar facturas automáticamente para cada servicio realizado y enviarlas a los clientes por correo electrónico para simplificar el proceso de facturación.|5|
 
 
 ## Capítulo 4: Product Design
@@ -979,11 +977,213 @@ En nuestro sistema de etiquetado se han utilizado en encabezados en los textos i
   Los sistemas de navegación tanto nuestra Landing Page como la Web Application se encuentran en los _nav bar_. En ese lugar podrá explorar cada funcionalidad y visualizar nuevos elementos que complementaran la experiencia del usuario. Los _nav bar_ normalmente contienen enlaces, en el caso de la Landing Page, o también _dropdowns_ para filtrar la búsqueda de servicios de los centros veterinarios dentro de la Web Application.
 
 ### 4.3. Landing Page UI Design
+
 #### 4.3.1. Landing Page Wireframe
+
+**Landing Page para Desktop Web Browser**
+
+Se presenta el desarrollo del wireframe creado para la landing page vista desde el desktop web browser. Primero, se plantea el uso de un diseño en forma de Z como jerarquía visual debido a que es el más utilizado actualmente y gran parte de los usuarios están familiarizados con este patrón. Segundo, creamos cuatro diferentes secciones en las que añadiremos diferente información con el objetivo de enganchar a los visitantes. Tercero, será muy común el uso de imágenes amigables con el usuario que permitan una mejor experiencia al usuario. Último, el footer contendrá información relevante y el logo como botón de regreso al inicio de la landing page.
+
+![Landing Page - Wireframe](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc9ee433-6147-48f9-8ced-19900aa1203f)
+
+**Landing Page para Mobile Web Browser**
+
+En este apartado se muestra la vista de la misma landing page pero en version mobile web browser. Se incluyeron las mismas características de la versión desktop web browser para mantener fidelidad al diseño.
+
+![Diagrama en blanco](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e32a6d63-eb5d-4475-83bd-274feaccd695)
+
 #### 4.3.2. Landing Page Mock-up
 
+**Landing Page para Desktop Web Browser**
+
+El desarrollo del Mock Up para nuestra landing page fue muy eficaz debido al buen planteamiento de nuestro wireframe. Se aplicaron los colores principales y secundarios de nuestro startup y se utilizó la tipografía indicada anteriormente. Se creó una versión en inglés y una en español para atraer más visitantes.
+
+**Landing Page para Desktop Web Browser - Español**
+
+![Landing Page - Mock Up - Español](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/40e8597a-9dbb-4af0-b4f1-15f554be7264)
+
+**Landing Page para Desktop Web Browser - Inglés**
+
+![Landing Page - Mock Up - Inglés](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc457988-e857-46a1-ab9d-0d68f8a0fa66)
+
+**Landing Page para Mobile Web Browser**
+
+En este apartado, presentamos la vista de nuestra landing page adaptada para dispositivos móviles. Mantuvimos todas las características de la versión para navegadores de escritorio para garantizar la coherencia y fidelidad del diseño. Este enfoque nos permite ofrecer una experiencia consistente y atractiva, independientemente del dispositivo que utilice el visitante. De igual manera se creó una versión en inglés y una en español para atraer más visitantes.
+
+**Landing Page para Mobile Web Browser - Español**
+
+![Diagrama en blanco (1)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/92e39c4b-b883-4969-ae58-865297caf18e)
+
+**Landing Page para Mobile Web Browser - Inglés**
+
+![Diagrama en blanco (2)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c3450aad-4efd-4605-8606-b2428d69fb0a)
+
 #### 4.4. Web Applications UX/UI Design
+
 #### 4.4.1. Web Applications Wireframes
+
+Link del Figma
+
+**Segmento Cliente**
+
+**Web Application para Desktop Web Browser**
+
+###### **Registrar Nueva Cuenta**
+
+En esta pantalla el usuario podrá registrar sus datos personales para crear una cuenta en VetConnect. Podrá seleccionar entre cliente/empresa. Los datos requeridos para el cliente son name, email, password & confirm password. De igual modo cuenta con su nav bar el cual le permitirá cambiar entre crear cuenta e iniciar sesión.
+
+![Sign In - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/1357db1a-ef3e-4857-beb3-78febb840d39)
+
+###### **Iniciar Sesión**
+
+En esta pantalla el usuario ya con una cuenta creada anteriormente podrá ingresar a nuestra plataforma rellenando sus datos email y contraseña.
+
+![Log In - General](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e62e6692-71c2-45be-ba58-69e5faf20199)
+
+###### **Menú de Inicio**
+
+En este apartado el nav bar cambia para ahora mostrarnos tres nuevas opciones; servicios (en el cual el cliente escogerá el servicio que desea), ubicación (el cliente ingresará su ubicación para ver las clínicas veterinarias más cercanas) y su foto (el cual al darle click nos mostrará un pequeño menú con opciones). En la pantalla de inicio se muestran las clínicas veterinarias cerca a la ubicación del cliente, así como información importante de cada negocio junto con sus horarios disponibles, en la parte de la derecha se mostrará un recuadro promocionando nuestro seguro de mascotas.
+
+![Inicio - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4e8b5150-22c4-459f-b0d5-950867936781)
+
+###### **Opciones al clickear la foto de perfil**
+
+En esta pantalla se muestran cuatro opciones adicionales en las cuales el usuario podrá modificar su perfil, ver las citas que ha realizado, ver los FAQ & Policy Terms y podrá cerrar sesión.
+
+![Desplegable del Perfil](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/9fc16f9a-964e-421c-b9af-e6b387bb7917)
+
+###### **Configuración del Perfil**
+
+En esta pantalla se podrá editar la información personal del cliente junto con su foto.
+
+![Config Perfil](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/879bd6f0-8501-465d-944e-cbf06988d4d1)
+
+###### **FAQ & Policy Terms**
+
+En esta pantalla se muestran las pregutas frecuentes junto con las políticas y términos de nuestra página.
+
+![Inicio - Cliente-1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d457faa6-3f61-4213-8f12-38d60a10ecdc)
+
+###### **Perfil de la Veterionaria**
+
+En esta pantalla se muestra información mucho más detallada del perfil de las veterinarias como; la dirección con más detallas, un mapa en el que se muestre la ubicación en Google Maps de la clínica, un cuadro el cual indique los servicios que brinda la clínica veterinaria, las reseñas de la clínica y un apartado de horarios disponibles.
+
+![Perfil Veterinaria](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/8dd892e2-b838-47e2-9517-487232686a82)
+
+###### **Confirmación de Información antes del Pago**
+
+En esta pantalla se muestra la información principal de la clínica veterinaria junto con el servicio escogido, la hora escogida y un cuadro de comentarios extra para la veterinaria. El usuario verificará y confirmará los datos para proceder al pago.
+
+![Confirmar información antes del pago](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/6b93bc4f-bf29-42f0-b145-0ffc3babf30e)
+
+###### **Pago del Servicio**
+
+En esta pantalla de igual modo se mostrarán la información de la anterior pantalla pero ya no podrá ser editada. Además, cuenta con la sección de pago en el cuál podrá ingresar los datos de su tarjeta de crédito y podrá aceptar lo términos y condiciones de nuestro servicio para proceder con la confirmación del pago.
+
+![Pago Reserva](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/cfa22935-60c7-495f-a902-bf631a81e8c5)
+
+###### **Confirmación de la Reserva**
+
+En esta pantalla se mostrará la confirmación del pago y la reserva del servicio lo cual también será enviada al correo del usuario.
+
+![Confirmación Reserva](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/57f54559-de2b-43c4-be96-357019ff89ae)
+
+**Web Application para Mobile Web Browser**
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (3)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/84a78aba-c380-4fa7-8dc5-587a3faf9bcc)
+
+###### **Menú Principal - Opciones del Perfil - FAQ & Policy Terms - Editar Perfil**
+
+Estas pantallas demuestran el proceso de darle click a la foto de perfil en el menú principal, visualizar la pantalla emergente con nuevas opciones, se visualizan las pantallas FAQ & Policy Terms y Editar Perfil.
+
+![Diagrama en blanco (6)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/606e5cb7-db26-4549-a5f4-cbf58f3b3321)
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (5)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/df451b07-adb4-446f-9264-882521b45c87)
+
+**Segmento Clínica Veterinaria**
+
+###### **Registrar Nueva Cuenta**
+
+En esta pantalla el usuario podrá registrar sus datos personales para crear una cuenta en VetConnect. Podrá seleccionar entre cliente/empresa. Los datos requeridos para la clínica veterinaria son; nombre de la veterinaria, nombre de la persona encargada de registrar la clínica, email, RUC de la clínica, celular de la persona encargada de registrar la clínica, password & confirm password. De igual modo cuenta con su nav bar el cual le permitirá cambiar entre crear cuenta e iniciar sesión.
+
+![Sign In - Empresa](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/6d84d203-0ce9-44b6-a160-ad711a56bb3c)
+
+###### **Iniciar Sesión**
+
+En esta pantalla el usuario ya con una cuenta creada anteriormente podrá ingresar a nuestra plataforma rellenando sus datos email y contraseña.
+
+![Log In - General](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e62e6692-71c2-45be-ba58-69e5faf20199)
+
+###### **Menú de Inicio**
+
+En esta pantalla se encuentra un horario el cual le indica a la clínica veterinaria los servicios que han sido programados. También se muestra el nuevo nav bar que cuenta con el logo de VetConnect y la foto de perfil de la clínica. El usuario podrá organizar su horario dependiendo del tipo de servicio que desee usar como filtro.
+
+![Inicio - Empresa](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/7c6d181d-f6a2-41ff-ba69-13a06c6c3938)
+
+###### **Información detallada del Servicio**
+
+Al momento de dar click en cualquier servicio mostrado en el horario de la pantalla de inicio se mostrará una ventana emergente en la cual se podrá visualizar información más detallada del servicio escogido.
+
+![Inicio - Empresa Seleccionar](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/254ee213-cfd0-4b67-82f6-ce8bb2c71053)
+
+###### **Opciones al clickear la foto de perfil**
+
+En esta pantalla se muestran cuatro opciones adicionales en las cuales el usuario podrá modificar su perfil, ver las transacciones realizadas, ver los FAQ & Policy Terms y podrá cerrar sesión.
+
+![Inicio - Empresa-1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/7cad06e8-11fd-4977-8c33-59a3c8145833)
+
+###### **Configuración del Perfil**
+
+En esta pantalla se podrá editar la información personal del cliente junto con su foto de perfil, se podrán agregar los servicios que brinda junto con el monto que cobra por cada uno, y también podrá añadir fotos para que se logren visualizar en su perfil ampliado que será visto por los clientes.
+
+![Inicio - Config empresa 1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d6b6ac7c-c0c3-4a81-9941-f2eb0c16b79a)
+
+###### **Añadir Servicios**
+
+En esta pantalla se podrán agregar los servicios que realiza la clínica veterinaria junto con su costo.
+
+![Inicio - Add new service](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/aaf5d1c2-22b7-4238-a593-2391f6d35636)
+
+###### **Añadir Multimedia**
+
+En esta pantalla se podrán agregar archivos multimedia que podrán ser vistos en el apartado de perfil amplio de cada clínica veterinaria.
+
+![Inicio - Add new service p2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/de14c9b6-b23c-4297-8af0-152b881d02aa)
+
+###### **Transacciones Realizadas**
+
+En esta pantalla se podrá visualizar el historial de transacciones realizadas mediante nuestra plataforma junto con información detallada de cada uno.
+
+![Inicio - Options](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5b91647b-dd2a-48fe-8f03-ce82e6bf56a9)
+
+**Web Application para Mobile Web Browser**
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (7)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/bdc75a94-8604-4478-9021-90766539bbec)
+
+###### **Menú Principal - Opciones del Perfil - Transacciones - FAQ & Policy Terms - Editar Perfil**
+
+Estas pantallas demuestran el proceso de darle click a la foto de perfil en el menú principal, visualizar la pantalla emergente con nuevas opciones, se visualizan las pantallas transacciones, FAQ & Policy Terms y Editar Perfil.
+
+![Diagrama en blanco (8)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4f23f73b-811c-4418-97c5-f7a7df944576)
+
+###### **Editar Perfil - Añadir Servicios - Añadir Multimedia**
+
+Estas pantallas indican las dos opciones que tenemos en el apartado de editar perfil, se podrá añadir lo servicios que brinde la clínica veterinaria junto a su costo y se podrá añadir multimedia para ser presentada en el perfil extendido de la clínica.
+
+![Diagrama en blanco (9)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c59a723a-58e7-473f-aacf-2544ee60356d)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
   Link del [LucidChart](https://lucid.app/lucidchart/8cecd8b5-4d81-4cad-bea2-d948cb604961/edit?viewport_loc=11725%2C-3850%2C17550%2C19475%2C0_0&invitationId=inv_9f06a887-f3f8-4ca4-a933-ced09750e1aa)
@@ -1045,35 +1245,395 @@ En nuestro sistema de etiquetado se han utilizado en encabezados en los textos i
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
+
+Domain Driven Design (DDD) es una técnica de diseño de software que se centra en el análisis y diseño del dominio del problema. El objetivo es implementar la lógica del dominio en el software, reflejando los conceptos y reglas del negocio. DDD promueve una mejor colaboración entre equipos y facilita la evolución del código. Aunque requiere esfuerzo, su enfoque en el dominio del problema lo hace valioso para crear soluciones efectivas y mantenibles. 
+
 #### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto muestra una vista de las relaciones entre el sistema de software Vet Connect, los usuarios, los veterinarios y el manager system.
+
+<img src="https://cdn.discordapp.com/attachments/1004952348034093067/1227141767795576922/image.png?ex=662753d4&is=6614ded4&hm=63aa5df8a79ac4fba84f124692c3ed1946246ea05443021cd7e5c851356550c2&">
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+El diagrama de contenedores muestra una vista de las relaciones entre el landing page, el web application, el api Gateway y los bounded context que son parte de la ejecución del sistema de software Vet Connect.
+
+<img src="https://cdn.discordapp.com/attachments/1004952348034093067/1227142691419197480/image.png?ex=662754b0&is=6614dfb0&hm=ed163ca2f6eb0e1e7fcb7e97cf13ece12e7d32a318c78737a15a9ed1b49d282f&">
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+
+#### Sing up Bounded Context
+
+
+<img src="https://cdn.discordapp.com/attachments/1004952348034093067/1227142988400951407/image.png?ex=662754f7&is=6614dff7&hm=006fbb68cbb190e7d26bf27dbb267883938f810c8b0c2682c6459c0449f61f95&">
+
+#### Appointment Management Bounded Context
+
+<img src="https://cdn.discordapp.com/attachments/1004952348034093067/1227143364332359730/image.png?ex=66275551&is=6614e051&hm=be7e3ae85a6c77ba6b8238c03aa22311d1e46ed603558435e8529aed2759f05d&">
+
+Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-487d3da7baea
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+
+![VetConnect - Clases](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/7f2bf3a1-ee02-4534-86e8-bb1e06c053f7)
+
 #### 4.7.2. Class Dictionary
+
+- Class User_Pet
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del usuario|
+|name|String|Nombre del usuario|
+|lastName|String|Apellido del usuario|
+|email|String|Correo electronico del usuario|
+|password|String|Contraseña del usuario|
+
+- Class User_veterinarian
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del veterinario|
+|name|String|Nombre del veterinario|
+|lastName|String|Apellido del veterinario|
+|nameClinic|String|Nombre de la clinica veterinaria|
+|email|String|Correo electronico del veterinario|
+|ruc|String|RUC de la clinica veterinaria|
+|phone|String|Numero de telefono del veterinario|
+|password|String|Contraseña del veterinario|
+
+- Class Appointment
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la cita|
+|date|String|Fecha de la cita|
+|hour|String|Hora de la cita|
+|issue|String|Motivo de la cita|
+|price|float|Precio de la cita|
+|clinic|User_veterinarian|Veterinario que atendera la cita|
+
+
+- Class Reservation_booking
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la reserva|
+|start_date|String|Fecha de inicio de la reserva|
+|finish_date|String|Fecha de fin de la reserva|
+|service|String|Servicio reservado|
+|price|float|Precio de la reserva|
+
+- Class Notification_Manager
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de la notificacion|
+|issue|String|Asunto|
+|message|String|Mensaje de la notificacion|
+|author|String|Autor de la notificacion|
+|service|String|Servicio relacionado a la notificacion|
+
+- Class NotificationService
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del servicio de notificacion|
+|User_Pet|User_Pet|Usuario que recibe la notificacion|
+|User_veterinarian|User_veterinarian|Veterinario que envia la notificacion|
+
+- Class PaymentProcess
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador del proceso de pago|
+|paypalClientId|String|ID de cliente de PayPal|
+|paypalClientSecret|String|Clave de cliente de PayPal|
+
+- Class VetConnect
+
+|Atributo|Tipo|Descripción|
+|---|---|---|
+|id|int|Identificador de VetConnect|
+|customers|User_Pet|Usuarios de VetConnect|
+|clinics|User_veterinarian|Veterinarios de VetConnect|
+|appointments|Appointment|Citas de VetConnect|
+|reservations|Reservation_booking|Reservas de VetConnect|
+|notifications|Notification_Manager|Notificaciones de VetConnect|
+
+
+
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
+![DataBase_VetConnect-2024-04-09_23-43](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b56a28cd-418c-4496-a1d7-074c858283f3)
+
 
 ## Capítulo 5: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+
+- Requirements Management:
+  1. **Trello:** Es una herramienta de gestión de proyectos que permite organizar tareas y proyectos de manera eficiente. Además, permite a los equipos de desarrollo colaborar y trabajar de manera conjunta en un mismo proyecto. Ruta de referencia: [Trello](https://trello.com/es)
+
+- **Product UX/UI Design:**
+  1. Figma: Es una herramienta de diseño de interfaces de usuario que permite a los diseñadores crear prototipos y maquetas de manera sencilla y eficiente. Además, Figma permite a los equipos de diseño colaborar en tiempo real en un mismo proyecto. Ruta de referencia: [Figma](https://www.figma.com/)
+
+  2. Lucidchart: Es una herramienta de diagramación en línea que permite a los equipos de diseño crear diagramas de flujo, organigramas y otros tipos de diagramas de manera sencilla y eficiente. Ruta de referencia: [Lucidchart](https://www.lucidchart.com/)
+
+  3. Vertabelo: Es una herramienta de diseño de bases de datos que permite a los desarrolladores crear y gestionar bases de datos de manera eficiente. Vertabelo cuenta con una interfaz gráfica que facilita la creación de tablas, relaciones y otros elementos de una base de datos. Ruta de referencia: [Vertabelo](https://www.vertabelo.com/)
+
+- **Software Development:**
+  1. **Visual Studio Code:** Es un editor de código fuente que permite a los desarrolladores escribir y editar código de manera eficiente. Visual Studio Code cuenta con una amplia variedad de extensiones que facilitan el desarrollo de software. Ruta de referencia: [Visual Studio Code](https://code.visualstudio.com/)
+
+  3. **Intelij IDEA:** Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores escribir, compilar y depurar código de manera eficiente. Intelij IDEA cuenta con una amplia variedad de características y herramientas que facilitan el desarrollo de software. Ruta de referencia: [Intelij IDEA](https://www.jetbrains.com/es-es/idea/)
+
+  5. **WebStorm:** Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores escribir, compilar y depurar código de manera eficiente. WebStorm está diseñado específicamente para el desarrollo de aplicaciones web y cuenta con una amplia variedad de características y herramientas que facilitan el desarrollo de software. Ruta de referencia: [WebStorm](https://www.jetbrains.com/es-es/webstorm/)
+
+  6. **HTML5:** Es un lenguaje de marcado que se utiliza para estructurar y presentar contenido en la web. HTML5 es la última versión de HTML y cuenta con una amplia variedad de características y elementos que facilitan el desarrollo de sitios web y aplicaciones web. Ruta de referencia: [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+
+  7. **CSS3:** Es un lenguaje de hojas de estilo que se utiliza para dar estilo y formato a páginas web y aplicaciones web. CSS3 es la última versión de CSS y cuenta con una amplia variedad de características y propiedades que facilitan el diseño y la maquetación de sitios web y aplicaciones web. Ruta de referencia: [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+
+  8. **JavaScript:** Es un lenguaje de programación que se utiliza para crear interactividad en sitios web y aplicaciones web. JavaScript es un lenguaje de programación de alto nivel que se ejecuta en el navegador y permite a los desarrolladores crear aplicaciones web dinámicas y interactivas. Ruta de referencia: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+  9. **TypeScript:** Es un lenguaje de programación que se basa en JavaScript y agrega características de programación orientada a objetos y tipado estático. TypeScript es un lenguaje de programación de alto nivel que se compila a JavaScript y permite a los desarrolladores escribir código más seguro y mantenible. Ruta de referencia: [TypeScript](https://www.typescriptlang.org/)
+
+  10. **Java:** Es un lenguaje de programación de propósito general que se utiliza para desarrollar aplicaciones de escritorio, aplicaciones web y aplicaciones móviles. Java es un lenguaje de programación de alto nivel que se ejecuta en la máquina virtual de Java (JVM) y permite a los desarrolladores crear aplicaciones seguras y portátiles. Ruta de referencia: [Java](https://www.java.com/es/)
+
+  11. **Spring Boot:** Es un marco de trabajo de desarrollo de aplicaciones que se utiliza para crear aplicaciones web y servicios web de manera eficiente. Spring Boot es un marco de trabajo de desarrollo de aplicaciones que se basa en el marco de trabajo Spring y permite a los desarrolladores crear aplicaciones web y servicios web de manera rápida y sencilla. Ruta de referencia: [Spring Boot](https://spring.io/projects/spring-boot)
+
+- **Software Testing:**
+  1. **Gherkin:** Es un lenguaje de especificación que se utiliza para escribir pruebas de aceptación en un formato legible por humanos. Gherkin permite a los equipos de desarrollo y pruebas colaborar en la creación de pruebas de aceptación y garantizar que las funcionalidades del software cumplan con los requisitos del negocio. Ruta de referencia: [Gherkin](https://cucumber.io/docs/gherkin/)
+
+- **Software Deployment:**
+
+  1. **Git** Es un sistema de control de versiones que permite a los desarrolladores gestionar y controlar las versiones de un proyecto de software. Git facilita la colaboración entre equipos de desarrollo y permite mantener un historial de cambios en el código fuente. Ruta de referencia: [Git](https://git-scm.com/)
+
+- **Software Documentation:**
+  1. **Github:** Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y revisar código, gestionar proyectos y colaborar en el desarrollo de software. Github facilita la colaboración entre equipos de desarrollo y permite mantener un historial de cambios en el código fuente. Ruta de referencia: [Github](https://github.com)
+
 #### 5.1.2. Source Code Management
+
+Para el control de versiones del código fuente del proyecto Vet Connect, se ha utilizado el sistema de control de versiones Git. Ayudandonos de GitFlow, un flujo de trabajo de Git que se centra en la colaboración y la liberación de software. GitFlow define un modelo de ramificación para el desarrollo de software y establece reglas claras sobre cómo se deben fusionar las ramas. De esta manera, aplicamos este flujo de trabajo en los siguientes repositorios:
+
+- [Vet Connect Organization](https://github.com/Veterinaria-OpenSource)
+
+- [Landing Page Repository](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git)
+
+- [Report TF Vet Connect](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria.git)
+
+**Flujo de trabajo GitFlow:**
+A continuacion, se muestra una imagen que representa el flujo de trabajo de GitFlow:
+
+![gitflow](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0e39b55a-67c3-4afa-bd17-37c069691152)
+
+**Estructura de ramas:**
+
+- **Master:** La rama master es la principal del proyecto, el cual contiene el código fuente de producción y se actualiza con cada versión estable del software.
+
+- **Develop:** La rama develop es la rama de desarrollo del proyecto, el cual contiene el código fuente en desarrollo y se actualiza con cada nueva funcionalidad o mejora del software.
+
+- **Feature:** La rama feature es una rama de funcionalidad que se crea a partir de la rama develop y se utiliza para desarrollar una nueva funcionalidad del software.
+
+- **Release:** La rama release es una rama de lanzamiento que se crea a partir de la rama develop y se utiliza para preparar una nueva versión del software para su lanzamiento.
+
+- **Hotfix:** La rama hotfix es una rama de corrección de errores que se crea a partir de la rama master y se utiliza para corregir errores críticos en el software.
+
+**Semantic Versioning:**
+Para la versión del software, se aplicará Semantic Versioning 2.0.0, un sistema de numeración de versiones que se basa en tres números separados por puntos: Major, Minor y Patch.
+
+**Conventional Commits:**
+Para los mensajes de confirmación del código fuente, se aplicará Conventional Commits, un estándar de mensajes de confirmación que se basa en un formato predefinido y permite a los desarrolladores generar automáticamente el historial de cambios del software. La estructura del mensaje será la siguiente:
+
+```
+git commit -m <type>[optional scope]: <description>
+```
+
 #### 5.1.3. Source Code Style Guide & Conventions
+
+Las referencias a utilizar para nombrar objetos y programar en lenguajes de programación serán las siguientes:
+
+- **HTML5:** Para buenas practicas al usar HTML5 y adoptar un estilo de codificación limpio y consistente son las siguientes:
+
+  1. **Indentación:** Se recomienda utilizar una indentación de 2 espacios para mejorar la legibilidad del código.
+
+  2. **Nombres de archivos:** Se recomienda utilizar nombres de archivos descriptivos y en minúsculas, separando las palabras con guiones.
+
+  3. **Cerrar etiquetas:** Se recomienda cerrar todas las etiquetas HTML para garantizar la compatibilidad con los navegadores.
+
+  4. **Comentarios:** Se recomienda utilizar comentarios en el código HTML para documentar el propósito de las secciones de código.
+
+  5. **Uso de comillas:** Se recomienda utilizar comillas dobles para los atributos de las etiquetas HTML.
+
+- **CSS3:** Para CSS se adoptaron las siguientes buenas practicas:
+
+  1. **Usar clases y selectores descriptivos:** Esto permite que otros desarrolladores puedan entender el propósito de los estilos y facilita la mantenibilidad del código.
+
+  2. **Evitar el uso de estilos en línea:** Se recomienda evitar el uso de estilos en línea y utilizar hojas de estilo externas para mantener el código limpio y organizado.
+
+  3. **Usar prefijos de proveedores:** Se recomienda utilizar prefijos de proveedores para garantizar la compatibilidad con los navegadores.
+
+  4. **Comentarios:** Se recomienda utilizar comentarios en el código CSS para documentar el propósito de las reglas de estilo.
+
+- **JavaScript:** Para JavaScript se adoptaron las siguientes buenas practicas:
+
+  1. **Uso de comentarios:** Se recomienda utilizar comentarios en el código JavaScript para documentar el propósito de las funciones y variables.
+
+  2. **Nombres descriptivos:** Se recomienda utilizar nombres descriptivos para las funciones y variables para mejorar la legibilidad del código.
+
+  3. **Evitar el uso de variables globales:** Se recomienda evitar el uso de variables globales y utilizar variables locales para evitar conflictos de nombres.
+
+- **Gherkin:** Es un lenguaje de especificación que se utiliza para escribir pruebas de aceptación en un formato legible por humanos. Gherkin permite a los equipos de desarrollo y pruebas colaborar en la creación de pruebas de aceptación y garantizar que las funcionalidades del software cumplan con los requisitos del negocio.
+
 #### 5.1.4. Software Deployment Configuration
+
+**Landing Page Deployment:**
+
+Para el despliegue de la Landing Page de Vet Connect, se utilizará GitHub Pages, un servicio de alojamiento web estático que permite a los desarrolladores alojar sitios web estáticos de forma gratuita. Los pasos son muy sencillos:
+
+1. Crear un repositorio en GitHub con el código fuente de la Landing Page. Normalmente se recomienda que el repositorio contenga el archivo index.html en la raíz del proyecto.
+
+2. Habilitar GitHub Pages en la configuración del repositorio, seleccionando la rama y la carpeta de despliegue.
+
+3. Seleccionar la rama y la carpeta de despliegue. Normalmente se recomienda seleccionar la rama master y la carpeta raíz del proyecto.
+
+4. Acceder a la URL proporcionada por GitHub Pages para visualizar la Landing Page. Normalmente la URL tiene el siguiente formato: "https://username.github.io/repository"
+
+A continuacion se muestran capturas de como hacerlo.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/d5fad392-7c97-419b-b140-39c0b16548d3)
+
+- [Accede a la Landing Page](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
+
 ##### 5.2.1.1. Sprint Planning 1
+
+
+Para el desarrollo del siguiente proyecto, se ha trabajado dentro del framework de Scrum, el cual es un marco de trabajo que permite trabajar de manera ágil y colaborativa en proyectos de desarrollo de software. Scrum se basa en la división del proyecto en iteraciones llamadas sprints, que tienen una duración de 2 a 4 semanas, en las cuales se desarrollan funcionalidades del producto. Para el Sprint 1, se tiene planeado realizar la documentacion del proyecto y la elaboración del Landing Page de la aplicación, el cual será la primera vista que los usuarios tendrán de la aplicación.
+
+|Sprint #|Date|Time|Location|Prepared by|Attendees|
+|---|---|---|---|---|---|
+|1|19/03/2024|11:00 am|Reunion virtual mediante Discord|Jose Ampudia|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
+
+|Sprint 1 - Review Summary| Sprint 1 - Retrospective Summary|
+|---|---|
+|Se logró desarrollar la documentacion del proyecto y la elaboración del Landing Page de la aplicación VetConnect gracias a las ideas y sugerencias de nuestros entrevistados.|Se logró cumplir con el objetivo del Sprint 1, sin embargo, se debe mejorar la comunicación entre los miembros del equipo para que el desarrollo de las siguientes funcionalidades sea más eficiente.|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|---|---|---|
+|Desarrollar la documentacion del proyecto y la elaboración del Landing Page de la aplicación|5|13|
+
 ##### 5.2.1.2. Sprint Backlog 1
+
+En el Sprint Backlog 1 se encuentran las tareas que se realizarán en el Sprint 1. Para ello el equipo de desarrollo tuvo tareas asignadas para el desarrollo correcto de la Landing Page de la aplicación VetConnect, es por eso que usamos la herramienta de Trello. Esta herramienta nos permite tener un control de las tareas que se deben realizar y el estado en el que se encuentran. A continuación, se muestra el tablero de Trello con las tareas asignadas para el Sprint 1.
+
+![Trello](https://media.discordapp.net/attachments/1219442976061653025/1227043253988360304/image.png?ex=6626f815&is=66148315&hm=f1172e9ce2031cfe8814a063271d65256a8d63223dba0cc003512e6d09b6a2a7&=&format=webp&quality=lossless)
+
+- Acceder a [Trello](https://trello.com/invite/b/V6jPbcPd/ATTIbbf318b43200b3cf626025eb09925f857F6E68D9/sprint-1-vetconect)
+
+|Sprint #|||||||||
+|---|---|---|---|---|---|---|---|---|
+|**User Story**|**Title**|**Work-Item/Task**|
+|**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hours)**|**Assigned To**|**Status (To Do, In Progress, Done)**|
+|US001|Header de la Landing Page|3|Colocar la barra del header enlazadas a secciones|Permitir al usuario hacer click en el header y redirigirlos a las secciones respectivas de la Landing Page|2|Fabricio|Done|
+|US002|Footer de la Landing Page|3|Colocar la barra del footer enlazadas a secciones|Permitir al usuario hacer click en el footer y redirigirlos a las secciones respectivas de la Landing Page|1|Jose Ampudia|Done|
+|US003|Seccion de Mision y Vision|3|Colocar la seccion de Mision y Vision en la Landing Page|Mostrar la mision y vision de la empresa en la Landing Page|3|Luiggi Antonio|Done|
+|US005|Informacion de Seguro de Mascotas|3|Colocar la seccion de Informacion de Seguro de Mascotas en la Landing Page|Mostrar informacion sobre los seguros de mascotas que se ofrecen en la aplicacion|3|Brayan Gamboa|Done|
+|US006|Servicios que se ofrecen|3|Colocar la seccion de Servicios que se ofrecen para los distintos segmentos objetivos en la Landing Page|Mostrar los servicios que se ofrecen en la aplicacion|3|Renzo Ramos|Done|
+|US007|Pagina principal de Landing Page|3|Colocar la pagina principal de la Landing Page|Mostrar la pagina principal de la Landing Page|3|Renzo Ramos|Done|
+
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
+
+Para este Sprint 1, se ha desarrollado la documentación del proyecto y la elaboración del Landing Page de la aplicación VetConnect. En este capitulo se muestran los commits de referencia para el desarrollo de la Landing Page.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|master|b1c4d3a|Initial commit|initial commit|19/03/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/header|a2b3c4d|Add header section|Add header section to the landing page|4/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/about|b3c4d5e|Add about section|Add about section to the landing page|4/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/benefits|c4d5e6f|Add benefits section|Add benefits section to the landing page|4/03/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/business|d5e6f7g|Add business section|Add business section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/footer|e6f7g8h|Add footer section|Add footer section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/hero|f7g8h9i|Add hero section|Add hero section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/insurance|g8h9i0j|Add insurance section|Add insurance section to the landing page|5/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/styles|g8h9i0j|Add styles|Add styles to the landing page|7/04/2024|
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 1, se ha realizado la primera versión del Landing Page de la aplicación VetConnect, la seccion "testing" se centra en la implementación de pruebas de aceptación y pruebas de usabilidad.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|[Veterinaria-OpenSource/VetConnect-LandingPage](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git)| LandingPage/feature| a40acf3| Initial commit| Se creó el proytecto| 06/04/2024|
+
+- Accede al [LandingPage desplegado](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+En este Sprint 1, se ha implementado la primera versión del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las secciones que contiene nuestra Landing Page.
+
+1. Seccion About us:
+    En esta sección se muestra nuestro propósito como empresa y algunos de nuestros beneficios.
+
+![Captura de pantalla 2024-04-11 013902](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/641747e8-bf8a-463c-beaf-12426df5eab5)
+
+2. Seccion Beneficios:
+    En esta sección se muestran los beneficios de utilizar nuestra aplicación.
+
+  ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/07eb64fb-5c8f-4b01-8371-ec02884bf135)
+
+
+3. Seccion Seguro:
+
+    En esta sección se muestra la información sobre los seguros de mascotas que se ofrecen en la aplicación.
+
+  ![Captura de pantalla 2024-04-11 013924](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/87d31576-e92f-4571-9ad8-cbc2125af53a)
+
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este Sprint 1, no se ha desarrollado la documentación de los servicios de la aplicación VetConnect, porque se ha centrado en la elaboración del Landing Page de la aplicación. Sin embargo, se tiene planeado desarrollar la documentación de los servicios en los siguientes sprints.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 1, se ha desplegado la primera version del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las evidencias del despliegue de la Landing Page.
+
+![Captura de pantalla 2024-04-11 013851](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/c41664de-13f2-4a9b-9010-e2e65df15eb6)
+
+![Captura de pantalla 2024-04-11 013917](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f2d97e54-8ae6-4d90-8967-00720245fed6)
+
+![Captura de pantalla 2024-04-11 013911](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/e3cd1c11-b24e-4786-a579-c05bb3b2bac8)
+
+![Captura de pantalla 2024-04-11 013924](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/1f47c9c1-38d0-43ed-8962-23477a76594b)
+
+![Captura de pantalla 2024-04-11 013929](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/4933a749-a59b-4011-9fbe-6a7501a320f2)
+
+
+- [Accede a la Landing Page](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+|---|---|
+|Jose Ampudia| Implementacion del footer de la Landing Page y la seccion de beneficios.|
+|Luiggi Antonio| Implementacion de la seccion de About us.|
+|Brayan Gamboa| Implementacion de la seccion de Seguro de Mascotas.|
+|Renzo Ramos| Implementacion de la seccion Veterinarias.|
+|Fabricio Iparraguirre| Implementacion del header de la Landing Page, y la maqueta del Landing Page.|
+
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/20e64a80-194f-4d33-9a3d-e9f4128460bf)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b6aa557b-a1a0-400f-9e9c-25c056a29dba)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/65d7e0b4-9f4a-4047-b257-baf167a3104d)
+
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
