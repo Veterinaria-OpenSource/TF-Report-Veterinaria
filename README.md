@@ -1406,6 +1406,35 @@ Estas pantallas indican las dos opciones que tenemos en el apartado de editar pe
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+Link del [LucidChart](https://lucid.app/lucidchart/05d49436-cddb-47e3-b2ad-a09f6bc04e98/edit?viewport_loc=-24088%2C-2049%2C7354%2C3451%2C0_0&invitationId=inv_5cd4c45c-18fc-4c61-bdbb-608af4abf4b9)
+
+**User Goal: Crear usuario**
+
+User Persona: Dueños de mascota y veterinario.
+
+  Explicación: Primero el dueño mascota ingresa los datos que solicita el formulario de registro. Una vez llenado todos los campos le dan al botón de "Registrarse". Una vez registrado le aparecerá la página de "Iniciar sesión" y tendrá que llenar los campos. Finalmente le hará click al botón "Ingresar" y lo llevará al menú principal. En caso que no haya haya completado los campos en la interfaz de Registro o ya exista una cuenta con el email ingreasdo, volverá al mismo formulario. En el caso del Inicio de sesión, si es que llena los datos incorrectamente lo redirigirá al formulario correspondiente.
+
+<img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/d3984219-587f-4d11-bd98-b2b00038214b"/>
+
+**User Goal: Agendar una cita**
+
+  User Persona: Dueño de mascota.
+  Explicación: El usuario está en el menú principal, tendrá que hacer click a uni de los centros veterinarios. Después tendrá que elegir un horario disponible. Luego de realizar esta acción el usuario se encontrará en la inferfaz de pago donde tendrá que confirmar lo que ha seleccionado. Después ingresará todos los datos que los campos requieran y hará click en "Pagar". Una vez hecho esto le aparecerá el último _step_ donde confirma que la cita se agendó con éxito. En caso de que el método de pago no tenga fondos, no podrá agendar la cita y mandará al usuario al menu principal.
+
+<img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/169f1492-5f4f-4d57-97c2-192345917754"/>
+
+**User Goal: Agregar Servicio**
+
+  User Persona:
+
+ User Persona: Veterinario.
+  Explicación: El veterinario tendrá que hacer click a su perfil para que le apareza una desplegable de opciones. Tendrá que hacer click a "Configuración de Perfil". Una vez dentro, tentrá que interactuar con el botón "Añadir Servicio".
+  Después le aparecerá una interfaz para indicar el servicio que tenga que añadir y su respectivo precio.
+  Si ha excedido la cantidad máxima de servicios, el proceso no se ejecutará y lo devolverá a la interfaz anterior.
+
+<img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/c02a7cd4-0bff-4ba5-b830-bf4873bbe3a0"/>
+
+
 ### 4.5. Web Applications Prototyping
 
 Para elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser para Vet Connect, se siguieron una serie de criterios fundamentales:
