@@ -1249,6 +1249,22 @@ En este Sprint 1, se ha implementado la primera versión del Landing Page, la cu
 Para este Sprint 1, no se ha desarrollado la documentación de los servicios de la aplicación VetConnect, porque se ha centrado en la elaboración del Landing Page de la aplicación. Sin embargo, se tiene planeado desarrollar la documentación de los servicios en los siguientes sprints.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 1, se ha desplegado la primera version del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las evidencias del despliegue de la Landing Page.
+
+![Captura de pantalla 2024-04-11 013851](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/c41664de-13f2-4a9b-9010-e2e65df15eb6)
+
+![Captura de pantalla 2024-04-11 013917](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f2d97e54-8ae6-4d90-8967-00720245fed6)
+
+![Captura de pantalla 2024-04-11 013911](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/e3cd1c11-b24e-4786-a579-c05bb3b2bac8)
+
+![Captura de pantalla 2024-04-11 013924](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/1f47c9c1-38d0-43ed-8962-23477a76594b)
+
+![Captura de pantalla 2024-04-11 013929](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/4933a749-a59b-4011-9fbe-6a7501a320f2)
+
+
+- [Accede a la Landing Page](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews
