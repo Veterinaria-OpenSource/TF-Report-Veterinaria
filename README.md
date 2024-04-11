@@ -883,14 +883,100 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guideline
+  El "Style Guideline" es una guía en el cual se establece las reglas de diseño que se deben emplear en la creación de contenido. Normalmente contiene los colores, la fuente de letra, los tamaños y otros aspectos estéticos que se deben aplicar de forma estricta en el proyecto.
+
+  En este apartado vamos a describir el Style Guideline que hemos aplicado en este trabajo:
+
+  **Branding:**
+  **Brand Overview:**
+
+  **Brand Name**
+
+  El nombre de nuestro software es "Vet Connect". Eligimos este nombre ya que nuestra solución ayudará a los centros veterinarios a poder comunicarse efectivamente con sus clientes a la hora de agendar citas en línea. Nuestro logo es minimalista ya que la plataforma tiene como objetivo que sea familiar y simple para que sea agradable a la vista para todo público.
+
+  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227034855385075763/image.png?ex=6626f042&is=66147b42&hm=b27122e58dfa3a8d3a5b3704b430fbca109a477e1b690bf96ef2523e61c144d9&">
+
+  <br>
+
+  **Colores:**
+
+  Los colores que hemos elegido para Vet Connect son variaciones de verde y de anaranjado. Hemos elegido estos colores debido a que el verde representa bienestar y salud, mientras que el anaranjado transmite alegría y calidez. Queremos que tanto la landing page como la web application transmitan el sentimiento de confianza para que ofrecer una buena experiencia para el usuario cuando navegue a través de ellas.
+
+  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227036207335215277/image.png?ex=6626f185&is=66147c85&hm=7657b365e30303c53bedfa80eb76295c5b68e41b9773ba530fa066dc682e86e4&">
+
+<br>
+
+  **Tipografía:**
+
+  En cuanto a la tipografía, hemos decidido que "League Spartan" será la fuente de letra principal para implementarlo tanto en el Heading como en el Body de la Landing Page y la Web Application.
+  
+  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227037399486435419/image.png?ex=6626f2a1&is=66147da1&hm=c2e20fda7578f94b73c5e5a94459250ca854b8528169450a11e6abeece578359&">
+
 #### 4.1.2. Web Style Guidelines
 
+La temática de Vet Connect es de ser una aplicación familiar e intuitiva para que los usuarios no se pierdan al navegar dentro de nuestra plataforma web. Se ha priorizado el diseño de los horarios y el menu de inicio. Además, se utilizará componentes de Angular Material para construir la Web Application.
+
+**Cards:**
+
+  Pensamos en utilizar las _cards_ para organizar los centros veterinarios que aparezcan en el menu principal. Esto también ayuda a mostrar los horarios disponibles de cada centro por separado para que el usuario pueda escoger con mayor facilidad que horario y centro le conviene a la hora de agendar una cita. Además el uso de las _cards_ nos ha ayudado en el tema de Responsive Design para que la Web Application, ya que nos permite organizar de diversas maneras como las _cards_ van a estar distribuidas.
+
+**Buttons**
+
+  Estos componentes ayudan al usuario a interactuar con la plataforma web. Normalemente se ubica cuando quiere ejectutar diversos procesos como inciar sesión, confirmar un proceso, o cancelar una reserva. Estan diseñados para que sean simples y agradables a la vista para que el usuario pueda interactuar con ellos sin ningún problema. Además, se ha ajustado el tamaño de estos para que sean visibles en cualquier dispositivo.
+
+**Steppers**
+
+  Gracias a los _steppers_ se pudo implementar la sección de pagos de nuestra aplicación web. Esto nos sirvió para organizar los pasos para realizar una transacción entre el centro veterinario y el dueños de mascota a la hora de realizar una reserva. Cada _step_ se centra en recolectar o confirmar datos que el usuario haya ingresado.
+
+**Tables**
+
+  Se ha utilizado los _tables_ para organizar y mostrar las transacciones que los usuarios realicen con los centros veterinarios. Esto ayudará al segundo segmento objetivo porque necesitan poder visualizar el historial de servicios realizados con sus respectivos pagos. Otra funcionalidad que brinda es el poder organizar los horarios de los centros veterinarios de una forma más limpia.
+
 ### 4.2. Information Architecture
+
+  Vet Connect cuenta con diversas funcionalidades para ayudar tanto a los dueños de mascotas y centros veterinarios. Cada tipo de usuario contará con interfaces únicas y completas para que su experiencia de uso sea la mejor. Cada sección de la Web Application brindará información útil y concisa para no abrumar al usuario durante su navegación.
+
 #### 4.2.1. Organization Systems
+
+  La organización de nuestra Web Application tiene dos perspectivas: la perpectiva del dueño de mascota y la del centro veterinario. Lo unico que comparten es el Inicio de Sesión.
+
+  En primer lugar, el dueño de mascota dispondrá de un menú de inicio donde se mostrará una lista de centros veterinarios con su respectiva descripción de los servicios que este brinda y sus precios. A su vez tendrá la posibilidad de ver una tabla de horarios a la derecha de cada centro que aparezca en el menú. Cuando realiza una reserva, se visualiza un _stepper_ para poder realizar cada paso de la transacción y confirmar los datos que el usuario haya ingresado previamente.
+
+  En el caso del centro veterinario, se mostrará un calendario seccionado mediante pestañas para que solo se muestre las citas por cada servicio. Además contará con un apartado donde se le indica cúal es la cita más próxima con fecha y hora.
+
+  Ambos contienen una sección de configuración de perfiles, pero el centro veterinario contará con más apartados para que pueda subir las imágenes que van a salir en su perfil de presentación en el inicio de los dueños de mascota.
+
+
 #### 4.2.2. Labeling Systems
+
+En nuestro sistema de etiquetado se han utilizado en encabezados en los textos importantes para que denoten más que el resto de contenido. Los enlaces dentro del _nav bar_ están diseñadas para que muestre al usuarios de ambos segmentos el cotenido que este desee. También, se le dio importancia a la organización de los contenidos mediantes _divs_ para que la distribución en el entorno móvil sea más sencilla.
+
 #### 4.2.3. SEO Tags and Meta Tags
+  **Título:**
+
+  Es una etiqueta que sirve para que los motores de búsqueda, ya que suele influir en el algoritmo búsqueda de una manera significativa.
+
+    <title>VetConnect</title>
+
+  **Codificación de carácteres**
+
+  Esta etiqueta nos permite mostrar los caracteres especiales en la web.
+
+    <meta charset="UTF-8" />
+
+  **Viewport**
+
+  En esta etiqueta nos permitirá aplicar ajustes de tamaño en los dispositivos móviles
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 #### 4.2.4. Searching Systems
+
+  La mayor prioridad de nuestra Web Application es que el dueño de mascota logre buscar los servicios junto a un buen centro veterinario. Por ello, se ha implementado un sistema de búsqueda que filtra en base al tipo de servicio que requiera y la ubicación que el usuario ingrese. Realizamos esto con la finalidad de agilizar el proceso de búsqueda que normalmente suele tomar mucho tiempo para el usuario.
+
 #### 4.2.5. Navigation Systems
+
+  Los sistemas de navegación tanto nuestra Landing Page como la Web Application se encuentran en los _nav bar_. En ese lugar podrá explorar cada funcionalidad y visualizar nuevos elementos que complementaran la experiencia del usuario. Los _nav bar_ normalmente contienen enlaces, en el caso de la Landing Page, o también _dropdowns_ para filtrar la búsqueda de servicios de los centros veterinarios dentro de la Web Application.
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
