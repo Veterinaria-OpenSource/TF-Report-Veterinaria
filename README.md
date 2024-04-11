@@ -894,7 +894,7 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
   El nombre de nuestro software es "Vet Connect". Eligimos este nombre ya que nuestra solución ayudará a los centros veterinarios a poder comunicarse efectivamente con sus clientes a la hora de agendar citas en línea. Nuestro logo es minimalista ya que la plataforma tiene como objetivo que sea familiar y simple para que sea agradable a la vista para todo público.
 
-  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227034855385075763/image.png?ex=6626f042&is=66147b42&hm=b27122e58dfa3a8d3a5b3704b430fbca109a477e1b690bf96ef2523e61c144d9&">
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/60e13230-c37f-4943-b6eb-c0ebe538c8b8">
 
   <br>
 
@@ -902,7 +902,7 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
   Los colores que hemos elegido para Vet Connect son variaciones de verde y de anaranjado. Hemos elegido estos colores debido a que el verde representa bienestar y salud, mientras que el anaranjado transmite alegría y calidez. Queremos que tanto la landing page como la web application transmitan el sentimiento de confianza para que ofrecer una buena experiencia para el usuario cuando navegue a través de ellas.
 
-  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227036207335215277/image.png?ex=6626f185&is=66147c85&hm=7657b365e30303c53bedfa80eb76295c5b68e41b9773ba530fa066dc682e86e4&">
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/31f56b5b-95d2-403a-86ac-c5419dc5be5f">
 
 <br>
 
@@ -910,7 +910,7 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
   En cuanto a la tipografía, hemos decidido que "League Spartan" será la fuente de letra principal para implementarlo tanto en el Heading como en el Body de la Landing Page y la Web Application.
   
-  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1227037399486435419/image.png?ex=6626f2a1&is=66147da1&hm=c2e20fda7578f94b73c5e5a94459250ca854b8528169450a11e6abeece578359&">
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/13161f75-3702-44d9-9530-fdd5c7779914">
 
 #### 4.1.2. Web Style Guidelines
 
