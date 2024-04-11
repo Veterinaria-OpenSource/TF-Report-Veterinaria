@@ -1245,6 +1245,9 @@ En este Sprint 1, se ha implementado la primera versión del Landing Page, la cu
 
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este Sprint 1, no se ha desarrollado la documentación de los servicios de la aplicación VetConnect, porque se ha centrado en la elaboración del Landing Page de la aplicación. Sin embargo, se tiene planeado desarrollar la documentación de los servicios en los siguientes sprints.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
