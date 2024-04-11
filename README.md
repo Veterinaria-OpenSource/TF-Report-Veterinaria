@@ -887,7 +887,38 @@ Los User Stories son una técnica de desarrollo ágil que se utiliza para descri
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+Se presenta el desarrollo del wireframe creado para la landing page vista desde el desktop web browser. Primero, se plantea el uso de un diseño en forma de Z como jerarquía visual debido a que es el más utilizado actualmente y gran parte de los usuarios están familiarizados con este patrón. Segundo, creamos cuatro diferentes secciones en las que añadiremos diferente información con el objetivo de enganchar a los visitantes. Tercero, será muy común el uso de imágenes amigables con el usuario que permitan una mejor experiencia al usuario. Último, el footer contendrá información relevante y el logo como botón de regreso al inicio de la landing page.
+
+![Landing Page - Wireframe](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc9ee433-6147-48f9-8ced-19900aa1203f)
+
+**Landing Page para Mobile Web Browser**
+En este apartado se muestra la vista de la misma landing page pero en version mobile web browser. Se incluyeron las mismas características de la versión desktop web browser para mantener fidelidad al diseño.
+
+![Diagrama en blanco](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e32a6d63-eb5d-4475-83bd-274feaccd695)
+
 #### 4.3.2. Landing Page Mock-up
+**Landing Page para Desktop Web Browser**
+El desarrollo del Mock Up para nuestra landing page fue muy eficaz debido al buen planteamiento de nuestro wireframe. Se aplicaron los colores principales y secundarios de nuestro startup y se utilizó la tipografía indicada anteriormente. Se creó una versión en inglés y una en español para atraer más visitantes.
+
+**Landing Page para Desktop Web Browser - Español**
+
+![Landing Page - Mock Up - Español](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/40e8597a-9dbb-4af0-b4f1-15f554be7264)
+
+**Landing Page para Desktop Web Browser - Inglés**
+
+![Landing Page - Mock Up - Inglés](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc457988-e857-46a1-ab9d-0d68f8a0fa66)
+
+**Landing Page para Mobile Web Browser**
+En este apartado, presentamos la vista de nuestra landing page adaptada para dispositivos móviles. Mantuvimos todas las características de la versión para navegadores de escritorio para garantizar la coherencia y fidelidad del diseño. Este enfoque nos permite ofrecer una experiencia consistente y atractiva, independientemente del dispositivo que utilice el visitante. De igual manera se creó una versión en inglés y una en español para atraer más visitantes.
+
+**Landing Page para Mobile Web Browser - Español**
+
+![Diagrama en blanco (1)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/92e39c4b-b883-4969-ae58-865297caf18e)
+
+**Landing Page para Mobile Web Browser - Inglés**
+
+![Diagrama en blanco (2)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c3450aad-4efd-4605-8606-b2428d69fb0a)
 
 #### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
