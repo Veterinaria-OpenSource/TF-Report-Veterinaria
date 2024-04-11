@@ -977,19 +977,25 @@ En nuestro sistema de etiquetado se han utilizado en encabezados en los textos i
   Los sistemas de navegación tanto nuestra Landing Page como la Web Application se encuentran en los _nav bar_. En ese lugar podrá explorar cada funcionalidad y visualizar nuevos elementos que complementaran la experiencia del usuario. Los _nav bar_ normalmente contienen enlaces, en el caso de la Landing Page, o también _dropdowns_ para filtrar la búsqueda de servicios de los centros veterinarios dentro de la Web Application.
 
 ### 4.3. Landing Page UI Design
+
 #### 4.3.1. Landing Page Wireframe
+
 **Landing Page para Desktop Web Browser**
+
 Se presenta el desarrollo del wireframe creado para la landing page vista desde el desktop web browser. Primero, se plantea el uso de un diseño en forma de Z como jerarquía visual debido a que es el más utilizado actualmente y gran parte de los usuarios están familiarizados con este patrón. Segundo, creamos cuatro diferentes secciones en las que añadiremos diferente información con el objetivo de enganchar a los visitantes. Tercero, será muy común el uso de imágenes amigables con el usuario que permitan una mejor experiencia al usuario. Último, el footer contendrá información relevante y el logo como botón de regreso al inicio de la landing page.
 
 ![Landing Page - Wireframe](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc9ee433-6147-48f9-8ced-19900aa1203f)
 
 **Landing Page para Mobile Web Browser**
+
 En este apartado se muestra la vista de la misma landing page pero en version mobile web browser. Se incluyeron las mismas características de la versión desktop web browser para mantener fidelidad al diseño.
 
 ![Diagrama en blanco](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e32a6d63-eb5d-4475-83bd-274feaccd695)
 
 #### 4.3.2. Landing Page Mock-up
+
 **Landing Page para Desktop Web Browser**
+
 El desarrollo del Mock Up para nuestra landing page fue muy eficaz debido al buen planteamiento de nuestro wireframe. Se aplicaron los colores principales y secundarios de nuestro startup y se utilizó la tipografía indicada anteriormente. Se creó una versión en inglés y una en español para atraer más visitantes.
 
 **Landing Page para Desktop Web Browser - Español**
@@ -1001,6 +1007,7 @@ El desarrollo del Mock Up para nuestra landing page fue muy eficaz debido al bue
 ![Landing Page - Mock Up - Inglés](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/dc457988-e857-46a1-ab9d-0d68f8a0fa66)
 
 **Landing Page para Mobile Web Browser**
+
 En este apartado, presentamos la vista de nuestra landing page adaptada para dispositivos móviles. Mantuvimos todas las características de la versión para navegadores de escritorio para garantizar la coherencia y fidelidad del diseño. Este enfoque nos permite ofrecer una experiencia consistente y atractiva, independientemente del dispositivo que utilice el visitante. De igual manera se creó una versión en inglés y una en español para atraer más visitantes.
 
 **Landing Page para Mobile Web Browser - Español**
@@ -1012,7 +1019,171 @@ En este apartado, presentamos la vista de nuestra landing page adaptada para dis
 ![Diagrama en blanco (2)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c3450aad-4efd-4605-8606-b2428d69fb0a)
 
 #### 4.4. Web Applications UX/UI Design
+
 #### 4.4.1. Web Applications Wireframes
+
+Link del Figma
+
+**Segmento Cliente**
+
+**Web Application para Desktop Web Browser**
+
+###### **Registrar Nueva Cuenta**
+
+En esta pantalla el usuario podrá registrar sus datos personales para crear una cuenta en VetConnect. Podrá seleccionar entre cliente/empresa. Los datos requeridos para el cliente son name, email, password & confirm password. De igual modo cuenta con su nav bar el cual le permitirá cambiar entre crear cuenta e iniciar sesión.
+
+![Sign In - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/1357db1a-ef3e-4857-beb3-78febb840d39)
+
+###### **Iniciar Sesión**
+
+En esta pantalla el usuario ya con una cuenta creada anteriormente podrá ingresar a nuestra plataforma rellenando sus datos email y contraseña.
+
+![Log In - General](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e62e6692-71c2-45be-ba58-69e5faf20199)
+
+###### **Menú de Inicio**
+
+En este apartado el nav bar cambia para ahora mostrarnos tres nuevas opciones; servicios (en el cual el cliente escogerá el servicio que desea), ubicación (el cliente ingresará su ubicación para ver las clínicas veterinarias más cercanas) y su foto (el cual al darle click nos mostrará un pequeño menú con opciones). En la pantalla de inicio se muestran las clínicas veterinarias cerca a la ubicación del cliente, así como información importante de cada negocio junto con sus horarios disponibles, en la parte de la derecha se mostrará un recuadro promocionando nuestro seguro de mascotas.
+
+![Inicio - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4e8b5150-22c4-459f-b0d5-950867936781)
+
+###### **Opciones al clickear la foto de perfil**
+
+En esta pantalla se muestran cuatro opciones adicionales en las cuales el usuario podrá modificar su perfil, ver las citas que ha realizado, ver los FAQ & Policy Terms y podrá cerrar sesión.
+
+![Desplegable del Perfil](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/9fc16f9a-964e-421c-b9af-e6b387bb7917)
+
+###### **Configuración del Perfil**
+
+En esta pantalla se podrá editar la información personal del cliente junto con su foto.
+
+![Config Perfil](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/879bd6f0-8501-465d-944e-cbf06988d4d1)
+
+###### **FAQ & Policy Terms**
+
+En esta pantalla se muestran las pregutas frecuentes junto con las políticas y términos de nuestra página.
+
+![Inicio - Cliente-1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d457faa6-3f61-4213-8f12-38d60a10ecdc)
+
+###### **Perfil de la Veterionaria**
+
+En esta pantalla se muestra información mucho más detallada del perfil de las veterinarias como; la dirección con más detallas, un mapa en el que se muestre la ubicación en Google Maps de la clínica, un cuadro el cual indique los servicios que brinda la clínica veterinaria, las reseñas de la clínica y un apartado de horarios disponibles.
+
+![Perfil Veterinaria](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/8dd892e2-b838-47e2-9517-487232686a82)
+
+###### **Confirmación de Información antes del Pago**
+
+En esta pantalla se muestra la información principal de la clínica veterinaria junto con el servicio escogido, la hora escogida y un cuadro de comentarios extra para la veterinaria. El usuario verificará y confirmará los datos para proceder al pago.
+
+![Confirmar información antes del pago](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/6b93bc4f-bf29-42f0-b145-0ffc3babf30e)
+
+###### **Pago del Servicio**
+
+En esta pantalla de igual modo se mostrarán la información de la anterior pantalla pero ya no podrá ser editada. Además, cuenta con la sección de pago en el cuál podrá ingresar los datos de su tarjeta de crédito y podrá aceptar lo términos y condiciones de nuestro servicio para proceder con la confirmación del pago.
+
+![Pago Reserva](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/cfa22935-60c7-495f-a902-bf631a81e8c5)
+
+###### **Confirmación de la Reserva**
+
+En esta pantalla se mostrará la confirmación del pago y la reserva del servicio lo cual también será enviada al correo del usuario.
+
+![Confirmación Reserva](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/57f54559-de2b-43c4-be96-357019ff89ae)
+
+**Web Application para Mobile Web Browser**
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (3)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/84a78aba-c380-4fa7-8dc5-587a3faf9bcc)
+
+###### **Menú Principal - Opciones del Perfil - FAQ & Policy Terms - Editar Perfil**
+
+Estas pantallas demuestran el proceso de darle click a la foto de perfil en el menú principal, visualizar la pantalla emergente con nuevas opciones, se visualizan las pantallas FAQ & Policy Terms y Editar Perfil.
+
+![Diagrama en blanco (6)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/606e5cb7-db26-4549-a5f4-cbf58f3b3321)
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (5)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/df451b07-adb4-446f-9264-882521b45c87)
+
+**Segmento Clínica Veterinaria**
+
+###### **Registrar Nueva Cuenta**
+
+En esta pantalla el usuario podrá registrar sus datos personales para crear una cuenta en VetConnect. Podrá seleccionar entre cliente/empresa. Los datos requeridos para la clínica veterinaria son; nombre de la veterinaria, nombre de la persona encargada de registrar la clínica, email, RUC de la clínica, celular de la persona encargada de registrar la clínica, password & confirm password. De igual modo cuenta con su nav bar el cual le permitirá cambiar entre crear cuenta e iniciar sesión.
+
+![Sign In - Empresa](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/6d84d203-0ce9-44b6-a160-ad711a56bb3c)
+
+###### **Iniciar Sesión**
+
+En esta pantalla el usuario ya con una cuenta creada anteriormente podrá ingresar a nuestra plataforma rellenando sus datos email y contraseña.
+
+![Log In - General](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/e62e6692-71c2-45be-ba58-69e5faf20199)
+
+###### **Menú de Inicio**
+
+En esta pantalla se encuentra un horario el cual le indica a la clínica veterinaria los servicios que han sido programados. También se muestra el nuevo nav bar que cuenta con el logo de VetConnect y la foto de perfil de la clínica. El usuario podrá organizar su horario dependiendo del tipo de servicio que desee usar como filtro.
+
+![Inicio - Empresa](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/7c6d181d-f6a2-41ff-ba69-13a06c6c3938)
+
+###### **Información detallada del Servicio**
+
+Al momento de dar click en cualquier servicio mostrado en el horario de la pantalla de inicio se mostrará una ventana emergente en la cual se podrá visualizar información más detallada del servicio escogido.
+
+![Inicio - Empresa Seleccionar](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/254ee213-cfd0-4b67-82f6-ce8bb2c71053)
+
+###### **Opciones al clickear la foto de perfil**
+
+En esta pantalla se muestran cuatro opciones adicionales en las cuales el usuario podrá modificar su perfil, ver las transacciones realizadas, ver los FAQ & Policy Terms y podrá cerrar sesión.
+
+![Inicio - Empresa-1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/7cad06e8-11fd-4977-8c33-59a3c8145833)
+
+###### **Configuración del Perfil**
+
+En esta pantalla se podrá editar la información personal del cliente junto con su foto de perfil, se podrán agregar los servicios que brinda junto con el monto que cobra por cada uno, y también podrá añadir fotos para que se logren visualizar en su perfil ampliado que será visto por los clientes.
+
+![Inicio - Config empresa 1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d6b6ac7c-c0c3-4a81-9941-f2eb0c16b79a)
+
+###### **Añadir Servicios**
+
+En esta pantalla se podrán agregar los servicios que realiza la clínica veterinaria junto con su costo.
+
+![Inicio - Add new service](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/aaf5d1c2-22b7-4238-a593-2391f6d35636)
+
+###### **Añadir Multimedia**
+
+En esta pantalla se podrán agregar archivos multimedia que podrán ser vistos en el apartado de perfil amplio de cada clínica veterinaria.
+
+![Inicio - Add new service p2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/de14c9b6-b23c-4297-8af0-152b881d02aa)
+
+###### **Transacciones Realizadas**
+
+En esta pantalla se podrá visualizar el historial de transacciones realizadas mediante nuestra plataforma junto con información detallada de cada uno.
+
+![Inicio - Options](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5b91647b-dd2a-48fe-8f03-ce82e6bf56a9)
+
+**Web Application para Mobile Web Browser**
+
+###### **Registrar - Iniciar Sesión - Menú Principal**
+
+Estas pantallas demuestran el proceso de crear una nueva cuenta en VetConnect, ingresar los datos de la cuenta para poder logearse y ser redirigido al menú principal.
+
+![Diagrama en blanco (7)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/bdc75a94-8604-4478-9021-90766539bbec)
+
+###### **Menú Principal - Opciones del Perfil - Transacciones - FAQ & Policy Terms - Editar Perfil**
+
+Estas pantallas demuestran el proceso de darle click a la foto de perfil en el menú principal, visualizar la pantalla emergente con nuevas opciones, se visualizan las pantallas transacciones, FAQ & Policy Terms y Editar Perfil.
+
+![Diagrama en blanco (8)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4f23f73b-811c-4418-97c5-f7a7df944576)
+
+###### **Editar Perfil - Añadir Servicios - Añadir Multimedia**
+
+Estas pantallas indican las dos opciones que tenemos en el apartado de editar perfil, se podrá añadir lo servicios que brinde la clínica veterinaria junto a su costo y se podrá añadir multimedia para ser presentada en el perfil extendido de la clínica.
+
+![Diagrama en blanco (9)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c59a723a-58e7-473f-aacf-2544ee60356d)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
