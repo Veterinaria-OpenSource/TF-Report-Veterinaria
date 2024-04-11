@@ -1267,6 +1267,21 @@ Para la entrega del Sprint 1, se ha desplegado la primera version del Landing Pa
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+|Miembro del Equipo|Actividades Realizadas|
+|---|---|
+|Jose Ampudia| Implementacion del footer de la Landing Page y la seccion de beneficios.|
+|Luiggi Antonio| Implementacion de la seccion de About us.|
+|Brayan Gamboa| Implementacion de la seccion de Seguro de Mascotas.|
+|Renzo Ramos| Implementacion de la seccion Veterinarias.|
+|Fabricio Iparraguirre| Implementacion del header de la Landing Page, y la maqueta del Landing Page.|
+
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/20e64a80-194f-4d33-9a3d-e9f4128460bf)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b6aa557b-a1a0-400f-9e9c-25c056a29dba)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/65d7e0b4-9f4a-4047-b257-baf167a3104d)
+
+
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 #### 5.3.2. Registro de Entrevistas
