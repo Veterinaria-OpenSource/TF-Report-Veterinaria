@@ -1408,7 +1408,21 @@ Estas pantallas indican las dos opciones que tenemos en el apartado de editar pe
 
 ### 4.5. Web Applications Prototyping
 
+Para elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser para Vet Connect, se siguieron una serie de criterios fundamentales:
 
+Claridad y Facilidad: El enfoque principal fue lograr que la navegación en la aplicación sea intuitiva y comprensible para los usuarios. El objetivo es que los dueños de mascotas puedan entender fácilmente cómo reservar citas para los servicios veterinarios que necesitan, ya sea una consulta general, un procedimiento especializado, desparasitaciones o tratamientos de higiene. Además, la visualización de reportes estadísticos relacionados con la salud y bienestar de sus mascotas es fundamental para su comprensión.
+
+Diseño Responsive: Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la plataforma web sea compatible con una variedad de tamaños de pantalla. Esto permitirá que los usuarios accedan a Vet Connect desde cualquier dispositivo, ya sea una computadora de escritorio o un dispositivo móvil, sin perder funcionalidad ni experiencia de usuario.
+
+Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los dueños de mascotas, nuestro segmento objetivo. Esto incluye detalles sobre la disponibilidad de citas en diferentes centros veterinarios, así como reseñas y calificaciones de otros usuarios para garantizar la elección de servicios de alta calidad para sus mascotas.
+
+![Inicio - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/aa0d3bf3-b221-4a28-bbca-185bab4d9253)
+
+Para obtener más detalles sobre el proceso de prototipado de las aplicaciones web de Vet Connect, 
+
+puedes acceder al video de explicación del proyecto aquí
+
+y al flujo del proyecto aquí.
 
 ### 4.6. Domain-Driven Software Architecture
 
