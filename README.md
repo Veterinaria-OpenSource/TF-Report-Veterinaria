@@ -1406,6 +1406,8 @@ Estas pantallas indican las dos opciones que tenemos en el apartado de editar pe
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+Link del [LucidChart](https://lucid.app/lucidchart/05d49436-cddb-47e3-b2ad-a09f6bc04e98/edit?viewport_loc=-24088%2C-2049%2C7354%2C3451%2C0_0&invitationId=inv_5cd4c45c-18fc-4c61-bdbb-608af4abf4b9)
+
 **User Goal: Crear usuario**
 
 User Persona: Dueños de mascota y veterinario.
