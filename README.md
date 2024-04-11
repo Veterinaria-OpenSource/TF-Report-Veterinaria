@@ -646,7 +646,7 @@ En resumen, las entrevistas revelan una clara demanda por parte de los veterinar
 Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
 
 <table> <tr> <th></th>
-<td colspan="2">Trainer</td> <td colspan="2">Cliente</td> </tr> <tr> 
+<td colspan="2">Clínica Veterinaria</td> <td colspan="2">Dueños de Mascotas</td> </tr> <tr> 
 <td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> 
 <td>Registrarse en la plataforma</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr> 
 <td>Crear perfil</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr>
@@ -654,32 +654,32 @@ Se presentan los User Task Matrix que contiene las tareas que los User Persona r
 <td>Recibir notificaciones</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> 
 <td>Actualizar perfil</td> <td>Rarely</td> <td>Medium</td> <td>Rarely</td> <td>Low</td> </tr> <tr> 
 <td>Visualizar reseñas</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
-<td>Seguimiento del progreso</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
+<td>Confirmar citas reservadas</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> 
 <td>Pagos en línea</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>Medium</td> </tr> <tr>  
-<td>Buscar trainers</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
-<td>Reservar sesiones</td> <td>Never</td> <td>Low</td> <td>Never</td> <td>Low</td> </tr> <tr> 
+<td>Buscar clinicas veterinarias disponibles</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
+<td>Reservar citas</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
 <td>Realizar reseñas</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>High</td> </tr> <tr>
-<td>Establecer metas</td> <td>Always</td> <td>Medium</td> <td>Always</td> <td>Medium</td> </tr> <tr>
-<td>Participar en desafios</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Low</td> </tr> <tr>
-<td>Apartado de sesión online</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> </table>
+<td>Eliminacion de cita</td> <td>Rarely</td> <td>Medium</td> <td>Rarely</td> <td>Medium</td> </tr> <tr>
+<td>Filtrar búsqueda</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr>
+<td>Acceder a información de la clínica</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> </table>
 
-**Trainer (Entrenador):**
+**Clínica Veterinaria:**
 
-Las tareas de mayor frecuencia e importancia para los entrenadores son: "registrarse en la plataforma, crear y actualizar su perfil, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Esto destaca la importancia de mantener actualizada la información de su perfil, y estar al tanto de las interacciones con los clientes para destacar entre los demás trainers.
+Las tareas de mayor frecuencia e importancia para las Clínicas Veterinarias son: "registrarse en la plataforma, crear y actualizar su perfil, visualizar reseñas, confirmar citas reservadas ". Esto destaca la importancia de mantener actualizada la información de su perfil, y estar al tanto de las interacciones con los dueños de mascotas para destacar entre las demás clínicas veterinarias.
 
-La gestión de disponibilidad de horarios es una tarea siempre necesaria y de alta importancia para los trainers, ya que les permite una mejor organización de su agenda y aceptar solicitudes de próximas sesiones.
+La gestión de disponibilidad de horarios es una tarea siempre necesaria y de alta importancia para las veterinarias , ya que les permite una mejor organización de su agenda y aceptar solicitudes de próximas citas.
 
-**Cliente:**
+**Dueños de mascotas:**
 
-Las tareas de mayor frecuencia e importancia para los clientes son: "recibir notificaciones, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Estas tareas reflejan la necesidad de los clientes de interactuar con la plataforma de manera continua para elegir al mejor trainer junto con una mejor rutina y asesoría.
+Las tareas de mayor frecuencia e importancia para los dueños de mascotas son: "recibir notificaciones, visualizar reseñas, realizas reseñas, buscar clinicas veterinarias disponibles, acceder a información de la clínica y filtrar búsqueda". Estas tareas reflejan la necesidad de los dueños de mascotas de interactuar con la plataforma de manera continua para elegir a la mejor clínica veterinaria junto con una mejor atención.
 
-La búsqueda de entrenadores y la reserva de sesiones tienen una frecuencia media y alta importancia para los clientes, lo que indica que la elección del entrenador y la programación de sesiones son aspectos importantes en su proceso de uso de la plataforma.
+La búsqueda de clínicas veterinarias y la reserva de citas tienen una frecuencia media y alta importancia para los dueños de mascotas, lo que indica que la elección de la clínica veterinaria y la programación de citas son aspectos importantes en su proceso de uso de la plataforma.
 
 **Coincidencias y Diferencias:**
 
-Ambos segmentos coinciden en la importancia de registrarse en visualizar reseñas y el apartado de sesión online.
+Ambos segmentos coinciden en la importancia de registrarse en visualizar reseñas y el apartado de eliminacion de cita.
 
-La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para los entrenadores pero no tan relevante para los clientes.
+La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para las clínicas veterinarias pero no tan relevante para los dueños de mascotas ya que ellos son los que crearan las solicitudes.
 
 #### 2.3.3. User Journey Mapping
 
