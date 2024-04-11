@@ -1185,6 +1185,60 @@ Estas pantallas indican las dos opciones que tenemos en el apartado de editar pe
 ![Diagrama en blanco (9)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c59a723a-58e7-473f-aacf-2544ee60356d)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+  Link del [LucidChart](https://lucid.app/lucidchart/8cecd8b5-4d81-4cad-bea2-d948cb604961/edit?viewport_loc=11725%2C-3850%2C17550%2C19475%2C0_0&invitationId=inv_9f06a887-f3f8-4ca4-a933-ced09750e1aa)
+
+
+**User Goal: Crear Usuario**
+
+  User Persona: Dueños de mascota y veterinario.
+
+  Explicación: Primero el dueño mascota ingresa los datos: Nombre, Email, Contraseña y después la confirma. Una vez llenado todos los campos le dan al botón de "Registrarse". Una vez registrado le aparecerá la página de "Iniciar sesión" y tendrá que llenar los campos. Finalmente le dará al botón "Ingresar" y lo llevará al menú principal.
+
+  Para el dueños de veterinario es similar pero tendrá que llenar otros datos como: Nombre de clinica, RUC y telefono.
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/00744cb5-903a-4a5a-9079-b3c35872d2a5"/>
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/6d99ed00-51c3-42db-931e-3821650039f2"/>
+
+**User Goal: Cancelar una Cita**
+
+  User Persona: Veterinario. 
+  Explicación: Si el centro veterinario quiere cancelar una cita por "x" motivo tendrá que seleccionar dentro de la lista de "Próximas Citas" y después le aparecerá una pequeña interfaz. En dicha interfaz tendrá que elegir la opción "Anular cita" para cancelarla.
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/52723bf6-a8c1-43a5-b6c3-634bf34b284e"/>
+
+**User Goal: Añadir un servicio**
+
+  User Persona: Veterinario.
+  Explicación: El veterinario tendrá que hacer click a su perfil para que le apareza una desplegable de opciones. Tendrá que hacer click a "Configuración de Perfil". Una vez dentro, tentrá que interactuar con el botón "Añadir Servicio".
+  Después le aparecerá una interfaz para indicar el servicio que tenga que añadir y su respectivo precio.
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/61ef1677-d21a-4422-b3cf-5ce6c7695e5f"/>
+
+
+**User Goal: Acceder a preguntas frecuentes**
+
+  User Persona: Dueño de mascota.
+  Explicación: El usuario tendrá que estar en el menú principal, luego tendrá que interactuar con su foto de perfil para que le aparezca el desplegable con las opciones. Tendrá que clickear "FAQ & Policy Terms" y luego lo llevará al apartado deseado.
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/56b49001-2a36-4b19-8aa5-d141bdb779ee"/>
+
+**User Goal: Configurar Perfil**
+
+ User Persona: Dueños de mascota
+ Explicación: El usuario estará en el menú principal. Luego, tendrá que clickear a su foto de perfil. Luego le aparecerá la opción de "Configuración de Perfil" y tendrá que interactuar con él. Una vez hecho esto lo llevará a la interfaz para que configure su perfil.
+
+ <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/a8abda9c-2c4f-4c7c-9be0-894467eab7c8"/>
+
+
+**User Goal: Agendar una cita**
+
+  User Persona: Dueño de mascota.
+  Explicación: El usuario está en el menú principal, tendrá que hacer click a uni de los centros veterinarios. Después tendrá que elegir un horario disponible. Luego de realizar esta acción el usuario se encontrará en la inferfaz de pago donde tendrá que confirmar lo que ha seleccionado. Después ingresará todos los datos que los campos requieran y hará click en "Pagar". Una vez hecho esto le aparecerá el último _step_ donde confirma que la cita se agendó con éxito.
+
+  <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/64c38b5f-f428-4e79-84ed-47cfd5902306"/>
+  
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
 
