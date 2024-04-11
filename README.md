@@ -40,11 +40,11 @@
 
 | Version | Fecha      | Autor                            | Descripción de modificación               |
 | ------- | ---------- | -------------------------------- | ----------------------------------------- |
-| 1.0     | 2024-06-30 | Jose Carlos Isaac Ampudia Flores | Creación del Informe                      |
-| 1.1     | 2024-07-01 | Luiggi Jeremy Antonio Loayza     | Modificación de la estructura del Informe |
-| 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Modificación de la estructura del Informe |
-| 1.3     | 2024-07-03 | Fabricio Iparraguirre            | Modificación de la estructura del Informe |
-| 1.4     | 2024-07-04 | Renzo Manuel Ramos Ramirez       | Modificación de la estructura del Informe |
+| 1.0     | 25-03-2024 | Jose Carlos Isaac Ampudia Flores | Creación del Informe, Capitulo 5, Class Diagrams, Database Diagram, User Stories                     |
+| 1.1     | 25-03-2024 | Luiggi Jeremy Antonio Loayza     | Tax Matrix, Implementacion de Style Guidelines, Information Architecture, Landing Page, UI Design y Web Application UX/UI design |
+| 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Implementacion de User Stories, Analisis competitivo, Product Backlog, DDD.  |
+| 1.3     | 26-03-2024 | Fabricio Iparraguirre            | Segmentos objetivos, User Personas, Impact Mapping. |
+| 1.4     | 27-03-2024 | Renzo Manuel Ramos Ramirez       | Empathy Map, Implementacion de Style Guidelines, Information Architecture, Landing Page, UI Design y Web Application UX/UI design |
 
 ### Project Report Collaboration Instights
 
@@ -59,11 +59,11 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 
 | Miembro                          | Responsabilidad |
 | -------------------------------- | --------------- |
-| Jose Carlos Isaac Ampudia Flores | Tarea 1         |
-| Luiggi Jeremy Antonio Loayza     | Tarea 2         |
-| Brayan Stiven Gamboa Delgado     | Tarea 3         |
-| Fabricio Iparraguirre            | Tarea 4         |
-| Renzo Manuel Ramos Ramirez       | Tarea 5         |
+| Jose Carlos Isaac Ampudia Flores | Diseño de entrevistas, Implemantacion del Capitulo 5, User Stories, Diagrama de clases, Diagrama de base de datos, User Journey Mapping, Antecedentes y problematicas, As Is Escenario Mapping, mejoras en la Landing Page.         |
+| Luiggi Jeremy Antonio Loayza     | Implemantacion de Descripcion del startup, Lean UX Canvas, User Tax Matrix, To be Scenario Mapping, Desarrollo del capitulo 4, mejoras en la Landing Page.         |
+| Brayan Stiven Gamboa Delgado     | Implementacion del Analisis competitivo, estrategias frente a competidores, User Stories, Product Backlog, Domain Driven Software Architecture.         |
+| Fabricio Iparraguirre            | Implementacion de los segmentos objetivos, User Personas, Impact Mapping, Landing Page.        |
+| Renzo Manuel Ramos Ramirez       | Implementacion de Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Empathy Mapping, desarrollo del capitulo 4, modificaciones en el Landing Page.          |
 
 Es importante mencionar que durante la elaboración del informe se realizaron commits respectivos a cada tarea asignada, con el fin de mantener un control de versiones y colaboración en tiempo real.
 
@@ -78,6 +78,13 @@ Es importante mencionar que durante la elaboración del informe se realizaron co
 Gracias a GitHub, se ha podido llevar un control de versiones y colaboración en tiempo real, permitiendo a los miembros del equipo trabajar de manera asincrónica y sincrónica en el proyecto. Además, gracias a Gitflow, se ha creado varias ramas para el desarrollo de las tareas asignadas, permitiendo a los miembros del equipo trabajar de manera independiente y colaborativa en el proyecto.
 
 La rama **"develop"** se ha utilizado para la integración de las tareas asignadas a cada miembro del equipo, permitiendo la integración de las tareas de manera ordenada y eficiente. La rama **"main"** sirvió para presentar la versión final del proyecto.
+
+- **TB1**
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/a4e57de0-88dd-4b5b-9676-7129c94fd45b)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0c35eaef-2cc4-4f63-90c2-7327a1360e32)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/279b170a-7996-44d1-b80c-2b6f8911f707)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/bd914c2b-4076-46ef-9609-2cb0655417a1)
+
 
 ## Student Outcome
 
@@ -105,7 +112,7 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           <br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
-          Breve texto<br><br>
+          Se realizó los Lean UX Assumptions y el Empathy Map tomando en cuenta las necesidades y problemas de los segmentos objetivos seleccionados.<br><br>
         </td>
         <td>
         Como equipo, logramos establecer medios de comunicación eficientes como Discord, para poder realizar una organización concreta y de tal nabera realizar una entrega de proyecto bueno.<br><br>
@@ -124,10 +131,10 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1</strong><br>
-          Breve texto<br><br>
+          Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1</strong><br>
-         Breve texto<br><br>
+         Se describieron los procesos y flujos importantes de la Web Application, tanto de los Mock ups y Wireframes<br><br>
     </td>
     <td>Como equipo, se logró desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto. El documento realizado es una forma para que las personas puedan conocer más sobre el proyecto, el proceso de desarrollo y las herramientas utilizadas para la realización del mismo.<br><br></td>
     </td><br>
