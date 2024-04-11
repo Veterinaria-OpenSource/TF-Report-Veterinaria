@@ -1224,6 +1224,20 @@ Para el Sprint 1, se ha realizado la primera versión del Landing Page de la apl
 - Accede al [LandingPage desplegado](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+En este Sprint 1, se ha implementado la primera versión del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las secciones que contiene nuestra Landing Page.
+
+1. Seccion About us:
+  En esta sección se muestra nuestro propósito como empresa y algunos de nuestros beneficios.
+
+2. Seccion Beneficios:
+  En esta sección se muestran los beneficios de utilizar nuestra aplicación.
+
+  ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/07eb64fb-5c8f-4b01-8371-ec02884bf135)
+
+
+3. Seccion Seguro: 
+  En esta sección se muestra la información sobre los seguros de mascotas que se ofrecen en la aplicación.
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
