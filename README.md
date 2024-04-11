@@ -1214,6 +1214,15 @@ Para este Sprint 1, se ha desarrollado la documentación del proyecto y la elabo
 |https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git|feature/styles|g8h9i0j|Add styles|Add styles to the landing page|7/04/2024|
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 1, se ha realizado la primera versión del Landing Page de la aplicación VetConnect, la seccion "testing" se centra en la implementación de pruebas de aceptación y pruebas de usabilidad.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|[Veterinaria-OpenSource/VetConnect-LandingPage](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git)| LandingPage/feature| a40acf3| Initial commit| Se creó el proytecto| 06/04/2024|
+
+- Accede al [LandingPage desplegado](https://veterinaria-opensource.github.io/VetConnect-LandingPage/)
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
