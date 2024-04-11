@@ -1022,7 +1022,7 @@ En este apartado, presentamos la vista de nuestra landing page adaptada para dis
 
 #### 4.4.1. Web Applications Wireframes
 
-Link del Figma https://www.figma.com/file/AIqDZU5dF8y1GpgOJvHuFu/App-Web-%26-Prototyping?type=design&node-id=0%3A1&mode=design&t=KO1RcG21x5IWnJC6-1
+Link del Figma https://www.figma.com/proto/AIqDZU5dF8y1GpgOJvHuFu/App-Web-%26-Prototyping?page-id=0%3A1&type=design&node-id=82-792&viewport=973%2C-770%2C0.05&t=vPzhB0ev5RlUYL1B-1&scaling=min-zoom&starting-point-node-id=82%3A792&show-proto-sidebar=1&mode=design
 
 **Segmento Cliente**
 
@@ -1165,6 +1165,8 @@ En esta pantalla se podrá visualizar el historial de transacciones realizadas m
 ![Inicio - Options](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5b91647b-dd2a-48fe-8f03-ce82e6bf56a9)
 
 **Web Application para Mobile Web Browser**
+
+Link del Figma: https://www.figma.com/proto/Hy39XZxFj0pYmOE23mGr9K/App-Mobile-%26-Prototyping?page-id=0%3A1&type=design&node-id=0-1&viewport=2470%2C1271%2C0.17&t=xNgygAyaRWFojRtb-1&scaling=min-zoom&starting-point-node-id=8%3A1017&show-proto-sidebar=1&mode=design****
 
 ###### **Registrar - Iniciar Sesión - Menú Principal**
 
@@ -1447,11 +1449,9 @@ Priorización de Información Relevante: El diseño de la aplicación se enfoca 
 
 ![Inicio - Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/aa0d3bf3-b221-4a28-bbca-185bab4d9253)
 
-Para obtener más detalles sobre el proceso de prototipado de las aplicaciones web de Vet Connect, 
+Exposición Web: https://www.figma.com/proto/Hy39XZxFj0pYmOE23mGr9K/App-Mobile-%26-Prototyping?page-id=0%3A1&type=design&node-id=0-1&viewport=2470%2C1271%2C0.17&t=xNgygAyaRWFojRtb-1&scaling=min-zoom&starting-point-node-id=8%3A1017&show-proto-sidebar=1&mode=design
 
-puedes acceder al video de explicación del proyecto aquí
-
-y al flujo del proyecto aquí.
+Exposición Mobile https://upcedupe-my.sharepoint.com/personal/u202011431_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202011431_upc_edu_pe%2FDocuments%2Fvideo1711872275%201.mp4&referrer=OfficeHome.Web&referrerScenario=UPLOAD
 
 ### 4.6. Domain-Driven Software Architecture
 
