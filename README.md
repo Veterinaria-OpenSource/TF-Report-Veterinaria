@@ -1218,7 +1218,6 @@ Estas pantallas indican las dos opciones que tenemos en el apartado de editar pe
 
   <img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/61ef1677-d21a-4422-b3cf-5ce6c7695e5f"/>
 
-
 **User Goal: Acceder a preguntas frecuentes**
 
   User Persona: Dueño de mascota.
