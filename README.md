@@ -109,6 +109,13 @@ Es importante mencionar que durante la elaboración del Frontend de la aplicacio
 
 A continuación, se muestran evidencia de la colaboración en el proyecto:
 
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/2d754baf-790e-415a-8dd6-2699d256578b)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/468c44f4-8a60-45af-8b0b-104eef063fb7)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/ae202973-d4db-4153-820b-b87df69a0363)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f14e149e-8798-4a0c-99af-ab9a41098f4a)
 
 
 ## Student Outcome
@@ -1964,7 +1971,82 @@ En el Sprint Backlog 2, se encuentran las tareas que se realizarán en el Sprint
 |US014| Proceso de pago|7|Permitir el proceso de pago al Dueño de mascotas|Permitir al usuario realizar el proceso de pago en la aplicacion|3|Renzo Ramos|Done|
 |US016| Visualizar perfil del segmento dueño de mascotas|8|Permitir visualizar el perfil del segmento dueño de mascotas|Permitir al usuario visualizar su perfil en la aplicacion|3|Jose Ampudia|Done|
 
+##### 5.2.2.3. Development Evidence for Sprint Review
 
+Para este Sprint 2, se ha desarrollado la primera versión del Frontend de la aplicación de VetConnect, el cual cuenta con los servicios básicos, en los cuales incluyen, ver la lista de los veterinarios disponibles, aplicando el consumo de una fake API. A continuación, se muestran los commits de referencia para el desarrollo del Frontend de la aplicación.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|master|b1c4d3a|Initial commit|initial commit|21/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/header|a2b3c4d|Add header section|Add header section to the FrontendApp|22/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/login-register|b3c4d5e|Add login and register section|Add login and register section to the FrontendApp|21/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/Home|c4d5e6f|Add Home section|Add Home section to the FrontendApp|21/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/vet-details|d5e6f7g|Add vet details section|Add vet details section to the FrontendApp|24/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/questions-answers|e6f7g8h|Add questions and answers section|Add questions and answers section to the FrontendApp|27/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|fearure/profile-user|f7g8h9i|Add profile user section|Add profile user section to the FrontendApp|25/04/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git|feature/payment|g8h9i0j|Add payment section|Add payment section to the FrontendApp|30/04/2024|
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 2, se ha desarrollado la primera versión del Frontend de la aplicación de VetConnect, la seccion "testing" se centra en la implementación de pruebas de aceptación y pruebas de usabilidad.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|[Veterinaria-OpenSource/VetConnect-Frontend-App-V2](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git)| FrontendApp/feature| a40acf3| Initial commit| Se creó el proytecto| 21/04/2024|
+
+- Accede al [FrontendApp desplegado](https://veterinaria-opensource.github.io/VetConnect-Frontend-App-V2/)
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+Para la entrega del Sprint 2, se ha desarrollado la primera versión del Frontend de la aplicación de VetConnect, el cual cuenta con los servicios básicos, en los cuales incluyen, ver la lista de los veterinarios disponibles, aplicando el consumo de una fake API. A continuación, se muestran las secciones que contiene nuestra Frontend de la aplicación.
+
+1. Seccion Login - Register:
+    En esta sección se muestra el formulario de inicio de sesión y registro de la aplicación.
+
+    ![login](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/8288d611-ec7b-4489-8e6e-821ae7192802)
+
+    ![register](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/85da0681-9cc0-4cd8-abf0-e2b3e4f94c6b)
+
+2. Seccion de pago:
+    En esta sección se muestra el formulario de pago de la aplicación.
+
+    ![payment1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/8c89fe98-7cc1-4e1a-9647-804fa4314090)
+
+    ![payment2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/83c3152c-c77c-47f7-b597-f93c3baf8bd4)
+
+    ![payment3](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0d28a71e-9c66-47af-8587-af2055ee091f)
+
+
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para este Sprint 2, no se logró documentar los servicios de la aplicación VetConnect, debido a que se ha centrado en el desarrollo del Frontend de la aplicación. Sin embargo, se tiene planeado desarrollar la documentación de los servicios en los siguientes sprints.
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 2, se ha desplegado la primera version del Frontend de la aplicación de VetConnect, usando la herramienta de Firebase, la cual permite desplegar aplicaciones web de manera sencilla. A continuación, se muestran las evidencias del despliegue del Frontend de la aplicación.
+
+(PONER CAPTURAS)
+
+- [Accede al FrontendApp desplegado](https://veterinaria-opensource.github.io/VetConnect-Frontend-App-V2/)
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+|---|---|
+|Jose Ampudia| Implementacion de los detalles de la clinica veterinaria.|
+|Luiggi Antonio| Implementacion de la seccion de inicio de sesion.|
+|Brayan Gamboa| Implementacion de la vista de perfiles de Dueño de mascota y preguntas y respuestas.|
+|Renzo Ramos| Implementacion de la seccion de pago.|
+|Fabricio Iparraguirre| Implementacion de la seccion de mostrar las clinicas veterinarias disponibles para el segmento Dueño de mascotas.|
+
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 2:
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/2d754baf-790e-415a-8dd6-2699d256578b)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/468c44f4-8a60-45af-8b0b-104eef063fb7)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/ae202973-d4db-4153-820b-b87df69a0363)
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
