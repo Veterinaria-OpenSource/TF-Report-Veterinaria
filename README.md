@@ -230,6 +230,16 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1867,6 +1877,24 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/20e64a80-194f-4d33-9a3d-e9f4128460bf)
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b6aa557b-a1a0-400f-9e9c-25c056a29dba)
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/65d7e0b4-9f4a-4047-b257-baf167a3104d)
+
+#### 5.2.1. Sprint 2
+
+##### 5.2.1.1. Sprint Planning 2
+
+Para el Sprint 2, se tiene planeado desarrollar la primera versión del Frontend de la aplicación de VetConnect, el cual cuenta con los servicios básicos, en los cuales incluyen, ver la lista de los veterinarios disponibles, aplicando el consumo de una fake API, para las siguientes entregas se tiene pensado implementar el Backend de la aplicación y consumir una API real.
+
+|Sprint #|Date|Time|Location|Prepared by|Attendees|
+|---|---|---|---|---|---|
+|2|21/04/2024|10:00 am|Reunion virtual mediante Discord|Jose Ampudia|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
+
+|Sprint 2 - Review Summary| Sprint 2 - Retrospective Summary|
+|---|---|
+|Se logró desarrollar la primera versión del Frontend de la aplicación de VetConnect, del mismo modo, corrigiendo los errores del Sprint 1.|Para el Sprint 2, se tuvo en cuenta las observaciones de la entrega pasada, lo cual ha ayudado para tener un mejor enfoque en esta entrega y mejorar los aspectos observados.|
+
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
+|---|---|---|
+|- Desarrollar la primera version del Frontend de la aplicación.<br> - Corregir errores del Sprint 1.<br> - Mejora en la redacción de la documentacion. |5|23|
 
 
 ### 5.3. Validation Interviews
