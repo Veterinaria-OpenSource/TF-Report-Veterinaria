@@ -292,8 +292,7 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>U202113930</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/8bd74ae7-63d7-4bcc-8aed-a189642082eb
-"></td>
+    <td><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/9526d23b-a37d-4750-bf0b-fb79b86daa14"></td>
     <td>Mi nombre es Renzo Manuel Ramos Ramirez. Actualmente estoy estudiando la carrera de Ingeniería de Software. Me gusta aportar ideas al equipo y ser de ayuda a mis compañeros. En cuanto a mis experiencias, he aprendido a desarrollar aplicaciones de escritorio y de web empleando tecnologías conocidas (C#, .NET framework, ASP.NET, javascript y python).</td>
     <td>U202113745</td>
   </tr>
