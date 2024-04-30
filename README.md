@@ -45,6 +45,11 @@
 | 1.2     | 2024-07-02 | Brayan Stiven Gamboa Delgado     | Implementacion de User Stories, Analisis competitivo, Product Backlog, DDD.  |
 | 1.3     | 26-03-2024 | Fabricio Iparraguirre            | Segmentos objetivos, User Personas, Impact Mapping. |
 | 1.4     | 27-03-2024 | Renzo Manuel Ramos Ramirez       | Empathy Map, Implementacion de Style Guidelines, Information Architecture, Landing Page, UI Design y Web Application UX/UI design |
+|2.0| 2024-07-02 | Jose Carlos Isaac Ampudia Flores | Implementacion de internacionalización en el proyecto, Toolbar de la aplicación. |
+|2.1| 2024-07-02 | Luiggi Jeremy Antonio Loayza | Implementación de la vista de Sign-in y Register del Frontend de la aplicación. |
+|2.2| 2024-07-02 | Brayan Stiven Gamboa Delgado | Implementación de la vista de preguntas y respuestas en el Frontend de la aplicacion, y el perfil del segmento Dueño de mascota. |
+|2.3| 2024-07-02 | Fabricio Gabriel Iparraguirre Quintero | Implementación del dashboard principal de la aplicación, el consumo del fake API para mostrar el card con las Veterinarias y los horarios disponibles para cada veterinaria. |
+|2.4| 2024-07-02 | Renzo Manuel Ramos Ramirez | Implementacion de la vista del proceso de pago del Dueño de mascota hacia la Clinica veterinaria. |
 
 ### Project Report Collaboration Instights
 
@@ -2006,6 +2011,16 @@ Para la entrega del Sprint 2, se ha desarrollado la primera versión del Fronten
 
     ![register](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/85da0681-9cc0-4cd8-abf0-e2b3e4f94c6b)
 
+2. Seccion Home:
+    En esta sección se muestra la vista principal de la aplicación, en la cual se muestra la lista de veterinarios disponibles.
+
+    ![home1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f012f05c-d776-407f-ae4c-749cef2ad18a)
+
+3. Seccion detalles de la veterinaria:
+    En esta sección se muestra los detalles de la veterinaria seleccionada.
+
+    ![home2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/48617e30-9005-40de-80b0-09a872027e85)
+
 2. Seccion de pago:
     En esta sección se muestra el formulario de pago de la aplicación.
 
@@ -2026,7 +2041,19 @@ Para este Sprint 2, no se logró documentar los servicios de la aplicación VetC
 
 Para la entrega del Sprint 2, se ha desplegado la primera version del Frontend de la aplicación de VetConnect, usando la herramienta de Firebase, la cual permite desplegar aplicaciones web de manera sencilla. A continuación, se muestran las evidencias del despliegue del Frontend de la aplicación.
 
-(PONER CAPTURAS)
+   ![login](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/8288d611-ec7b-4489-8e6e-821ae7192802)
+
+  ![register](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/85da0681-9cc0-4cd8-abf0-e2b3e4f94c6b)
+
+  ![home1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f012f05c-d776-407f-ae4c-749cef2ad18a)
+
+  ![home2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/48617e30-9005-40de-80b0-09a872027e85)
+
+  ![payment1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/8c89fe98-7cc1-4e1a-9647-804fa4314090)
+
+![payment2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/83c3152c-c77c-47f7-b597-f93c3baf8bd4)
+
+![payment3](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0d28a71e-9c66-47af-8587-af2055ee091f)
 
 - [Accede al FrontendApp desplegado](https://veterinaria-opensource.github.io/VetConnect-Frontend-App-V2/)
 
@@ -2047,6 +2074,8 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/468c44f4-8a60-45af-8b0b-104eef063fb7)
 
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/ae202973-d4db-4153-820b-b87df69a0363)
+
+
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
