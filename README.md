@@ -85,6 +85,31 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/279b170a-7996-44d1-b80c-2b6f8911f707)
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/bd914c2b-4076-46ef-9609-2cb0655417a1)
 
+**TP1**
+
+Para la entrega del TP1 se designó tareas a cada integrente, el cual se podrá visualizar a continuación:
+
+| Miembro                          | Responsabilidad |
+| -------------------------------- | --------------- |
+| Jose Carlos Isaac Ampudia Flores | Mejora continua de la documentación, creacion del proyecto y repositorio del Frontend de la aplicación, implementación de internacionalización en el proyecto, Toolbar de la aplicación.         |
+| Luiggi Jeremy Antonio Loayza     | Implementación de la vista de Sign-in y Register del Frontend de la aplicación. Aplica mejora continua en la documentación del proyecto, mejora en los diseños de la LandingPage.         |
+| Brayan Stiven Gamboa Delgado     | Implementación de la vista de preguntas y respuestas en el Frontend de la aplicacion, y el perfil del segmento Dueño de mascota, aplica mejora continua en la documentacion del proyecto         |
+| Fabricio Gabriel Iparraguirre Quintero   | Implementación del dashboard principal de la aplicación, el consumo del fake API para mostrar el card con las Veterinarias y los horarios disponibles para cada veterinaria. Además, aplica mejora continua en la documentacion del proyecto       |
+| Renzo Manuel Ramos Ramirez       | Implementacion de la vista del proceso de pago del Dueño de mascota hacia la Clinica veterinaria y aplica mejora continua en la documentacion del proyecto.         |
+
+Es importante mencionar que durante la elaboración del Frontend de la aplicacion, también se aplicaron conventional commits, con el fin de mantener un control de versiones y colaboración con mayor orden.
+
+**Miembros**
+
+- José Ampudia (IsaacAmp24)
+- Luiggi Jeremy Antonio Loayza (JeremyAntonio)
+- Brayan Stiven Gamboa Delgado (GamboaBrayan)
+- Fabricio Iparraguirre (fabriciodev26)
+- Renzo Ramos (RenzoRamosR)
+
+A continuación, se muestran evidencia de la colaboración en el proyecto:
+
+
 
 ## Student Outcome
 
@@ -99,20 +124,31 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
           <td><strong>Ampudia, José</strong><br>
           <strong>TB1:</strong><br>
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
+          <strong>TP1:</strong><br>
+          Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, el cual se mantuvo una comunicación activa entre todos los miembros del equipo para la elaboración de un buen proyecto.<br><br>
           <strong>Jeremy, Antonio</strong><br>
           <strong>TB1:</strong><br>
           Se planteó el desarrollo del startup junto al Lean UX Canvas, entrevistas/análisis, User Task Matrix  y To-Be Scenario Mapping.
           <br><br>
+          <strong>TP1:</strong><br>
+          Se presentó la implementación de la vista de Sign-in y Register del Frontend de la aplicación, además, la comunicación entre los miembros del equipo fue eficiente para la realización del proyecto.<br><br>
+          <br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
+          <strong>TP1:</strong><br>
+          Para la entrega del Sprint 2, se uso la vista de preguntas y respuestas en el Frontend de la aplicacion, además, se hicieron preguntas entre grupo en una reunion para la el mejor entendimiento del proyecto.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Se ha realizó un análisis detallado de los segmentos objetivos, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.
           <br><br>
+          <strong>TP1:</strong><br>
+          Se presentó la implementación del dashboard principal de la aplicación, realizmos reuniones constantes para resolver cualquier duda de alguno de los miembros del equipo.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
           Se realizó los Lean UX Assumptions y el Empathy Map tomando en cuenta las necesidades y problemas de los segmentos objetivos seleccionados.<br><br>
+          <strong>TP1:</strong><br>
+          Para la entrega del Sprint 2, presenté mis primeros avances a un pequeño grupo de personas cercanas para obtener feedback y mejorar el proyecto.<br><br>
         </td>
         <td>
         Como equipo, logramos establecer medios de comunicación eficientes como Discord, para poder realizar una organización concreta y de tal nabera realizar una entrega de proyecto bueno.<br><br>
@@ -123,18 +159,28 @@ La rama **"develop"** se ha utilizado para la integración de las tareas asignad
     <td><strong>Ampudia, José</strong><br>
     <strong>TB1:</strong><br>
           Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
+          <strong>TP1:</strong><br>
+          Para la entrega del Trabajo parcial, se mantuvo una comunicacion constante para corregir las observaciones realizadas por el docente, de tal forma que se pueda mejorar el proyecto.<br><br>
           <strong>Jeremy, Antonio </strong><br>
           <strong>TB1</strong><br>
           Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, se realizó la entrevista junto a su análisis, desarrollo User Task Matrix  y To-Be Scenario Mapping.<br><br>
+          <strong>TP1</strong><br>
+          Se implementaron correcciones en la documentacion del proyecto de acuerdo a las observaciones realizadas por el docente, la comunicacion por WhatsApp y Discord fue eficiente para la realización del proyecto.<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
+          <strong>TP1</strong><br>
+          Para esta entrega de Sprint 2, se mantuvo comunicacion constante para las correcciones de las secciones debiles del proyecto, por ello se realizó una mejora en la documentación del proyecto.<br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1</strong><br>
           Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
+          <strong>TP1</strong><br>
+          Se aplicaron mejoras continuas en la documentación del proyecto, los mapas de empatía y las mejoras en la Landing Page, se mantuvo una comunicación constante para la realización del proyecto.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1</strong><br>
          Se describieron los procesos y flujos importantes de la Web Application, tanto de los Mock ups y Wireframes<br><br>
+         <strong>TP1</strong><br>
+         Se realizaron mejoras en la redaccion de la documentacion, de tal modo que los stakeholders puedan entender de manera clara el proyecto, se mantuvo una comunicación constante para la realización del proyecto.<br><br>
     </td>
     <td>Como equipo, se logró desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto. El documento realizado es una forma para que las personas puedan conocer más sobre el proyecto, el proceso de desarrollo y las herramientas utilizadas para la realización del mismo.<br><br></td>
     </td><br>
@@ -1878,9 +1924,9 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b6aa557b-a1a0-400f-9e9c-25c056a29dba)
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/65d7e0b4-9f4a-4047-b257-baf167a3104d)
 
-#### 5.2.1. Sprint 2
+#### 5.2.2. Sprint 2
 
-##### 5.2.1.1. Sprint Planning 2
+##### 5.2.2.1. Sprint Planning 2
 
 Para el Sprint 2, se tiene planeado desarrollar la primera versión del Frontend de la aplicación de VetConnect, el cual cuenta con los servicios básicos, en los cuales incluyen, ver la lista de los veterinarios disponibles, aplicando el consumo de una fake API, para las siguientes entregas se tiene pensado implementar el Backend de la aplicación y consumir una API real.
 
@@ -1895,6 +1941,29 @@ Para el Sprint 2, se tiene planeado desarrollar la primera versión del Frontend
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |---|---|---|
 |- Desarrollar la primera version del Frontend de la aplicación.<br> - Corregir errores del Sprint 1.<br> - Mejora en la redacción de la documentacion. |5|23|
+
+##### 5.2.2.2. Sprint Backlog 2
+
+En el Sprint Backlog 2, se encuentran las tareas que se realizarán en el Sprint 2. Para ello el equipo de desarrollo tuvo tareas asignadas para el desarrollo correcto del Frontend de la aplicación VetConnect, es por eso que usamos la herramienta de Trello. Esta herramienta nos permite tener un control de las tareas que se deben realizar y el estado en el que se encuentran. A continuación, se muestra el tablero de Trello con las tareas asignadas para el Sprint 2.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f87d4b3d-6501-4915-afeb-fe6bc23b899e)
+
+
+- Acceder a [Trello](https://trello.com/invite/b/7XgrWUB9/ATTIbad8d4c1dc339c953da7c7fc98bee3bc3BCE55E0/sprint-2-vetconnect)
+
+|Sprint #|||||||||
+|---|---|---|---|---|---|---|---|---|
+|**User Story**|**Title**|**Work-Item/Task**|
+|**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hours)**|**Assigned To**|**Status (To Do, In Progress, Done)**|
+|US007| Ver perfiles de veterinarias|1|Mostrar la lista de veterinarias disponibles|Permitir al usuario ver la lista de veterinarias disponibles en la aplicacion|3|Jose Ampudia|In process|
+|US001| Conocer la informacion de la aplicacion|2|Mostrar la informacion de la aplicacion|Permitir al usuario ver la informacion de la aplicacion|3|Jose Ampudia|Done|
+|US002| Enlace a la aplicacion|3|Enlazar la aplicacion|Permitir al usuario enlazar la aplicacion|3|Jose Ampudia|Done|
+|US005| Inicio de sesion para el segmento Dueño de mascotas|4|Permitir el inicio de sesion para el segmento Dueño de mascotas|Permitir al usuario iniciar sesion en la aplicacion|3|Luiggi Antonio|Done|
+|US006| Busqueda de veterinarias por ubicacion|5|Permitir la busqueda de veterinarias por ubicacion|Permitir al usuario buscar veterinarias por ubicacion|3|Brayan Gamboa|Done|
+|US008| Seleccion de fecha y hora para agendar cita|6|Permitir la seleccion de fecha y hora para agendar cita|Permitir al usuario seleccionar la fecha y hora para agendar una cita|3|Fabricio Iparraguirre|Done|
+|US014| Proceso de pago|7|Permitir el proceso de pago al Dueño de mascotas|Permitir al usuario realizar el proceso de pago en la aplicacion|3|Renzo Ramos|Done|
+|US016| Visualizar perfil del segmento dueño de mascotas|8|Permitir visualizar el perfil del segmento dueño de mascotas|Permitir al usuario visualizar su perfil en la aplicacion|3|Jose Ampudia|Done|
+
 
 
 ### 5.3. Validation Interviews
