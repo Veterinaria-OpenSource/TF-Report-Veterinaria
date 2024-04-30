@@ -641,20 +641,14 @@ En resumen, las entrevistas revelan una clara demanda por parte de los veterinar
 
 - **User Persona Dueño de Mascota**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075238710775808/John_Smith.png?ex=6623728c&is=6610fd8c&hm=3ade64ef50c410355b53c29a0b251bac94de5553bdf0226705288c326e2a51f2&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![John Smith](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/9279285d-ccbd-4596-ada5-2490670fd4dc)
+
 
 
 - **User Persona Veterinario**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226075294297755658/Alana_Cohen.png?ex=66237299&is=6610fd99&hm=9659134c4d7485cb4a05b8340196c857f927d38def41ec66a5afa6d0efa21240&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![Alana Cohen](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/44ce94be-e6fb-4740-8dea-67237b5f4b2d)
+
 
 
 #### 2.3.2. User Task Matrix
@@ -701,20 +695,13 @@ En este apartado, se muestra el end-to-end journey de la aplicacion VetConnect. 
 
 - **User Journey Mapping Dueño de Mascota**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226249566513401876/Journey_Map_Dueno_de_Mascota.png?ex=662414e7&is=66119fe7&hm=926d1414e7847e784ef71a63343927c822afec94e7a8ea6666bd391a38f1fb37&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![Journey Map Dueño de Mascota](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/4a4ce486-0a68-45b8-b3b7-cb2e1044c7ac)
 
 
 - **User Journey Mapping Veterinario**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226249598948085790/Alana_Cohen.png?ex=662414ef&is=66119fef&hm=9d5fc91dc2492662354b10d8b3234c11837c2c8d42b829087a2f47c5fc7d9a1c&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![Alana Cohen](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/969d9cb9-ca37-4fba-85ce-92ba79c19cdd)
+
 
 #### 2.3.4. Empathy Mapping
 - **Dueño de Mascota**
@@ -732,19 +719,13 @@ Para realizar el As-Is Scenario Mapping, es importante mencionar que se ha reali
 
 - **Dueño de Mascota:**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226299985121775696/image.png?ex=662443dc&is=6611cedc&hm=4108cfd1bfa210b383cecd1a4398e780d5bd339343fed7eb32dbbbbcc0e5c2bb&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![as-is-mascota](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b715b50c-114d-467b-a94d-2f540f76c694)
+
 
 - **Veterinario:**
 
-<tr>
-    <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1226403640571592776/image.png?ex=6624a465&is=66122f65&hm=12a2b93e4bf8f9a6cfa47c4009ba325c3696db4760eab107f7c5352daf7f257c&=&format=webp&quality=lossless">
-    </td>
-</tr>
+![as-is-veterinaria](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/91788cf4-fe65-4bc2-b6b5-eba74d62ad55)
+
 
 ### 2.4. Ubiquitous Language
 
