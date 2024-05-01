@@ -356,12 +356,12 @@ Nuestra visión es ser la principal plataforma en línea para la gestión de la 
     <td>u202011431</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
+    <td><img src="https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/118092973/1d0f618c-8c1d-4a07-8a15-53b5ab105fb3"></td>
     <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC.  Soy puntual y comprometido con los trabajos, también tengo manejo en python.</td>
     <td>u202112655</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/994490616895508562/1223874821390340118/404238912_1314618935891178_4571362781138523450_n.png?ex=661b713f&is=6608fc3f&hm=9e40278aecac7006c0b585898390889c4571314c6d3bbab8a3890e4c2ae0c2dc&=&format=webp&quality=lossless&width=622&height=622"></td>
+    <td><img src="https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/f44a664f-c989-4197-a835-eb109b0d52f5"></td>
     <td>Mi nombre es Fabricio Gabriel Iparraguirre Quintero,  estudiante de Ingeniería de Software. Poseo habilidades técnicas sólidas en el desarrollo web, incluyendo HTML5, CSS3, JavaScript, Typescript, React y Python. Además, tengo experiencia trabajando con frameworks de UI como Bootstrap y Tailwind CSS. Me considero una persona proactiva y altamente comprometida con mis proyectos. Siempre busco mejorar mis habilidades y aprender nuevas tecnologías.</td>
     <td>U202113930</td>
   </tr>
@@ -805,12 +805,14 @@ En este apartado, se muestra el end-to-end journey de la aplicacion VetConnect. 
 #### 2.3.4. Empathy Mapping
 - **Dueño de Mascota**
 
-  <img src= "https://cdn.discordapp.com/attachments/737081411416227973/1226409322020601887/Screenshot_1.png?ex=6624a9af&is=661234af&hm=aaecf06bfdd9906d3e2fc583f648d8fd420283acf19b78934994876c4984c2e8&">
+  ![dueño](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/ed522760-f131-4402-b22e-bf97fb13ee60)
+
 
 
 - **Veterinario:**
 
-  <img src="https://cdn.discordapp.com/attachments/737081411416227973/1226427169169997916/image.png?ex=6624ba4f&is=6612454f&hm=56a8ab5a255006d09957d82104def3534c19f9523e4e5caec3c6b4fb168a0afd&">
+  ![vet](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/05f905fd-e6eb-47ab-a228-2a48782e85ad)
+
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -873,11 +875,11 @@ El To-Be Scenario Mapping describe el flujo de trabajo ideal para los usuarios d
 
 **Segmento Clientes**
 
-<img src="https://media.discordapp.net/attachments/1025767455454412901/1225695565547831347/image.png?ex=662210f3&is=660f9bf3&hm=79b9aa4fdd29056c86021a01b163eac881ad4eaf47722d777b63d9283dfa49b1&=&format=webp&quality=lossless&width=903&height=478">
+![image](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/89022092/e6de528f-139b-44ad-9f91-4fa42dbaf9f1)
 
 **Segmento Veterinarias**
 
-<img src="https://media.discordapp.net/attachments/1025767455454412901/1225697558249209866/image.png?ex=662212ce&is=660f9dce&hm=c6ba24d62ba481e105cbc6bfd4f7dc1d1fabe20cda140890008b3267cde47553&=&format=webp&quality=lossless&width=906&height=478">
+![image](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/89022092/c1004eea-8c59-4241-aa4d-cae9586fc8b5)
 
 ### 3.2. User Stories
 Los User Stories son una técnica de desarrollo ágil que se utiliza para describir las funcionalidades de un sistema desde el punto de vista del usuario. Cada User Story describe una funcionalidad específica que el usuario necesita para cumplir un objetivo. Las User Stories se escriben en un lenguaje sencillo y se centran en las necesidades del usuario. A continuación, se presentan algunas User Stories para Vet Connect:
