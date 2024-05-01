@@ -2140,3 +2140,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 IPSOS. (2016). Mascotas 2016. Recuperado de https://www.ipsos.com/es-pe/mascotas-2016
 
 ### Anexos
+
+Video de Exposicion TP:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVey5Jhxq_VIrEGMzMpxhQsBRl7ADZ5264gTzugT6HW6kg?e=45If4y
