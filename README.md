@@ -1999,7 +1999,7 @@ Para el Sprint 2, se ha desarrollado la primera versión del Frontend de la apli
 |---|---|---|---|---|---|
 |[Veterinaria-OpenSource/VetConnect-Frontend-App-V2](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2.git)| FrontendApp/feature| a40acf3| Initial commit| Se creó el proytecto| 21/04/2024|
 
-- Accede al [FrontendApp desplegado](https://veterinaria-opensource.github.io/VetConnect-Frontend-App-V2/)
+- Accede al [FrontendApp desplegado](https://vetconnect-383e0.web.app/login)
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 Para la entrega del Sprint 2, se ha desarrollado la primera versión del Frontend de la aplicación de VetConnect, el cual cuenta con los servicios básicos, en los cuales incluyen, ver la lista de los veterinarios disponibles, aplicando el consumo de una fake API. A continuación, se muestran las secciones que contiene nuestra Frontend de la aplicación.
@@ -2055,7 +2055,7 @@ Para la entrega del Sprint 2, se ha desplegado la primera version del Frontend d
 
 ![payment3](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/0d28a71e-9c66-47af-8587-af2055ee091f)
 
-- [Accede al FrontendApp desplegado](https://veterinaria-opensource.github.io/VetConnect-Frontend-App-V2/)
+- [Accede al FrontendApp desplegado](https://vetconnect-383e0.web.app/login)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
