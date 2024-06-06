@@ -1998,7 +1998,7 @@ En el Sprint Backlog 2, se encuentran las tareas que se realizarán en el Sprint
 
 - Acceder a [Trello](https://trello.com/invite/b/7XgrWUB9/ATTIbad8d4c1dc339c953da7c7fc98bee3bc3BCE55E0/sprint-2-vetconnect)
 
-|Sprint #|||||||||
+|Sprint #2|||||||||
 |---|---|---|---|---|---|---|---|---|
 |**User Story**|**Title**|**Work-Item/Task**|
 |**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hours)**|**Assigned To**|**Status (To Do, In Progress, Done)**|
@@ -2110,12 +2110,458 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/ae202973-d4db-4153-820b-b87df69a0363)
 
+#### 5.2.2. Sprint 3
+
+##### 5.2.2.1. Sprint Planning 3
+
+Para el Sprint 3, se tiene planeado desarrollar el Backend de la aplicación de VetConnect, el cual se encargará de gestionar la información de los Dueños de mascotas, veterinarios, reviews y citas. Por otro lado, el desarrollo del Frontend ha tenido ciertas mejoras con respecto a la versión anterior, el cual se podrá ver en el Sprint actual.
+
+|Sprint #|Date|Time|Location|Prepared by|Attendees|
+|---|---|---|---|---|---|
+|3|25/05/2024|11:00 am|Reunion virtual mediante Discord|Jose Ampudia|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
+
+|Sprint 3 - Review Summary| Sprint 3 - Retrospective Summary|
+|---|---|
+|Se logró desarrollar la primera version del Backend de la aplicacion de VetConnect, del mismo modo se mejoraron los aspectos revisados en el Sprint 2. |Para el Sprint 3, se tuvo en cuenta las observaciones de la entrega anterior, lo cual nos ha permitido mejorar nuestro enfoque y características a priorizar en la siguiente entrega.|
+
+|Sprint 3 Goal|Sprint 3 Velocity|Sum of Story Points|
+|---|---|---|
+|- Desarrollar la primera version del Backend de la aplicación.<br> - Corregir errores del Sprint 2.<br> - Mejora en la redacción de la documentacion.<br> - Mejora continua en el Frontend de la aplicación.<br> - Mejora continua en el Landing Page de la aplicación, respetando los 2 CTA. |8|31|
+
+##### 5.2.2.2. Sprint Backlog 3
+
+En el Sprint Backlog 3, podemos observar las tareas que se implementarán a lo largo del Sprint 3. Para ello, el equipo de desarrollo tuvo tareas asignadas para el desarrollo correcto del Backend de la aplicación VetConnect, además, mejorar la interfaz de usuario, como es el Landing Page y el Frontend de la aplicacion de VetConnect. Es por eso que usamos la herramienta de Trello. Esta herramienta nos permite tener un control de las tareas que se deben realizar y el estado en el que se encuentran. A continuación, se muestra el tablero de Trello con las tareas asignadas para el Sprint 3.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/ae1eb95f-e3d1-48ad-95ec-849d2065d6c5)
+
+
+- Acceder a [Trello](https://trello.com/invite/b/6iu19i8c/ATTIba60d5dcaff12dc8c54b162dcc36020fC689F716/sprint-3-vetconnect)
+
+|Sprint #3|||||||||
+|---|---|---|---|---|---|---|---|---|
+|**User Story**|**Title**|**Work-Item/Task**|
+|**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hours)**|**Assigned To**|**Status (To Do, In Progress, Done)**|
+|US024| Ver calendario de citas|1|Mostrar calendario de citas|Permitir ver el calendario que contiene las citas reservadas por los clientes en la vista del veterinario|3|Fabricio Iparraguirre|Done|
+|US015| Metodos de pago alternativos |2|Permitir otros metodos de pago como tarjetas|Permitir al usuario tener la capacidad de elegir otros metodos de pago|3|Renzo Ramos|Done|
+|US002| Enlace a la aplicacion|3|Enlazar la aplicacion|Permitir al usuario enlazar la aplicacion|3|Jose Ampudia|Done|
+|US007| Ver perfiles de Veterinarias	|4|Permitir ver los perfiles de veterinarias con sus respectivas reseñas|Observar una respectiva veterinaria|3|Fabricio Iparraguirre|Done|
+|US006| Busqueda de veterinarias por ubicacion|5|Permitir la busqueda de veterinarias por ubicacion|Permitir al usuario buscar veterinarias por ubicacion|4|Brayan Gamboa|To-do|
+|US008| Seleccion de fecha y hora para agendar cita|6|Permitir la seleccion de fecha y hora para agendar cita|Permitir al usuario seleccionar la fecha y hora para agendar una cita|3|Fabricio Iparraguirre|Done|
+|US014| Proceso de pago|7|Permitir el proceso de pago al Dueño de mascotas|Permitir al usuario realizar el proceso de pago en la aplicacion|3|Renzo Ramos|Done|
+|US016| Visualizar perfil del segmento dueño de mascotas|8|Permitir visualizar el perfil del segmento dueño de mascotas|Permitir al usuario visualizar su perfil en la aplicacion|3|Jose Ampudia|In-Process|
+|US004| Registrar Dueño de Mascota|9|Permitir al dueño de mascota registrarse|El dueño de mascota tiene la capacidad de registrarse con exito en la aplicacion|3|Jeremy Antonio|Done|
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+Para el siguiente Sprint 3, se ha desarrollado la primera versión del Backend de la aplicación de VetConnect, el cual se encargará de gestionar la información de los Dueños de mascotas, veterinarios, reviews y citas. El cual el trabajo desarrollado se puede ver en el siguiente recuadro.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|master|c682547|Initial commit||25/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|develop|a2b3c4d|feat: Add packages||26/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|b3c4d5e|feat(profiles): Add aggregates in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|c4d5e6f|feat(profiles): Add aggregates in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|d5e6f7g|feat(profiles): Add commands in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|e6f7g8h|feat(profiles): Add commands in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|f7g8h9i|feat(profiles): Add queries in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|g8h9i0j|feat(profiles): Add queries in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|h9i0j1k|feat(profiles): Add value objects in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|i0j1k2l|feat(profiles): Add value objects in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|j1k2l3m|feat(profiles): Add services in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|k2l3m4n|feat(profiles): Add services in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|l3m4n5o|feat(profiles): Add repositories in PetOwner profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|m4n5o6p|feat(profiles): Add repositories in Vet profiles||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|n5o6p7q|feat(profiles): Resources in PetOwner profiles implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|o6p7q8r|feat(profiles): Resources in Vet profiles implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|p7q8r9s|feat(profiles): transforms in PetOwner profiles implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|q8r9s0t|feat(profiles): transforms in Vet profiles implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|r9s0t1u|feat(profiles): Implementation of commandServices for PetOwner profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|s0t1u2v|feat(profiles): Implementation of commandServices for Vet profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|t1u2v3w|feat(profiles): Implementation of queryServices for PetOwner profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|u2v3w4x|feat(profiles): Implementation of queryServices for Vet profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|v3w4x5y|feat(profiles): Implementation of Controller for PetOwner profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|w4x5y6z|feat(profiles): Implementation of Controller for Vet profiles added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|4x5y6z7a|feat(reviews): Add aggregates in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|5y6z7a8b|feat(reviews): Add commands in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|6z7a8b9c|feat(reviews): Add queries in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|7a8b9c0d|feat(reviews): Add value objects in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|8b9c0d1e|feat(reviews): Add services in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|9c0d1e2f|feat(reviews): Add repositories in reviews||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|0d1e2f3g|feat(reviews): Resources in reviews implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|1e2f3g4h|feat(reviews): transforms in reviews implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|2f3g4h5i|feat(reviews): Implementation of commandServices for reviews added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|3g4h5i6j|feat(reviews): Implementation of queryServices for reviews added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/reviews|4h5i6j7k|feat(reviews): Implementation of Controller for reviews added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|5i6j7k8l|feat(appointments): Add aggregates in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|6j7k8l9m|feat(appointments): Add commands in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|7k8l9m0n|feat(appointments): Add queries in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|8l9m0n1o|feat(appointments): Add value objects in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|9m0n1o2p|feat(appointments): Add services in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|0n1o2p3q|feat(appointments): Add repositories in appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|1o2p3q4r|feat(appointments): Resources in appointments implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|2p3q4r5s|feat(appointments): transforms in appointments implemented||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|3q4r5s6t|feat(appointments): Implementation of commandServices for appointments added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|4r5s6t7u|feat(appointments): Implementation of queryServices for appointments added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|5s6t7u8v|feat(appointments): Implementation of Controller for appointments added||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|6t7u8v9w|refactor(appointments): Refactor appointments services because of the new requirements||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|7u8v9w0x|chore(appointments): Add new requirements for appointments||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|8v9w0xa|fix(reviews): Fix reviews services because of the new requirements||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/appointments|9w0xa1b|refactor(profiles): Refactor profiles services because of the new requirements||27/05/2024|
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 3, se ha desarrollado la primera versión del Backend de la aplicación de VetConnect, la seccion "testing" se centra en la implementación de pruebas de aceptación y pruebas de usabilidad.
+
+- API Documentation Deployed: https://vetconnect.azurewebsites.net/swagger-ui/index.html#/
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+|---|---|---|---|---|---|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|master|c682547|Initial commit||25/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|develop|a2b3c4d|feat: Add packages||26/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|b3c4d5e|feat(profiles): Add test, validate that the profile is created correctly||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|c4d5e6f|feat(profiles): Add test, validate that the profile is updated correctly||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/profiles|d5e6f7g|feat(reviews): Add test, validate that the review is relationship with the profile and the vet correctly||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/bookings|e6f7g8h|feat(bookings): Add test for validate that the booking is created correctly||27/05/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/bookings|f7g8h9i|feat(bookings): Add test for validate that the booking get the correct vet||27/05/2024|
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+Para la entrega del Sprint 3, se completó con exito la primera version del Backend de la aplicación de VetConnect y la version mejorada del Frontend de la aplicacion. 
+
+- US002: Enlace a la aplicacion
+    En esta sección se muestra el enlace a la aplicación de VetConnect desde la Landing Page.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/b441425f-d0af-4310-bedd-4aa5c842ad79)
+
+
+- US004: Registrar Dueño de Mascota
+    En esta sección se muestra el formulario de registro de dueño de mascota.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/e016cd9e-f259-4b38-bcb9-3bc76845b3b2)
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/14cada8f-345b-4bff-9acf-5e21085d5764)
+
+- US024:	Ver calendario de citas
+    En esta sección se muestra el calendario de citas. accediendo desde la ruta **/calendar-platform**
+
+    - Chequeos:
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/a91042d6-4445-4877-97f3-717005109c17)
+
+    - Baños:
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/f3eceb0a-6219-4639-92fc-d8f4565f049b)
+
+    - Vacunas:
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/7a68561c-3dfe-4e27-b562-a0c98c216589)
+
+- US015:	Metodos de pago alternativos
+    En esta sección se muestra la vista principal de la aplicación, en la cual se muestra la lista de veterinarios disponibles.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/8c7b47b1-40c4-4c68-814d-4aecb0724fea)
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/548a22ba-8079-46b9-bede-4f4308769a90)
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/252680df-cc89-4364-8b2f-e761a90def03)
+
+- US007:	Ver perfiles de Veterinarias
+    En esta sección se muestra los perfiles de las veterinarias con sus respectivas reseñas.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/a0ed580f-3260-4a9b-ba53-45f8111de356)
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/94e65920-a75d-4d9e-a28e-c3db49bc03d4)
+
+- US008:	Seleccion de fecha y hora para agendar cita
+    En esta sección se muestra el formulario para seleccionar la fecha y hora para agendar una cita.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/4bf97d31-2faa-43b9-8d93-82c94f2cf7a3)
+
+- US030: Visualizar desde el punto de vista de Clinicas veterinarias las transacciones realizadas
+    En esta sección se muestra las transacciones realizadas por las clinicas veterinarias.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/74ec2609-e08e-47fe-a195-b4afcc0f4135)
+    
+- US031: Visualizar preguntas frecuentes
+    En esta sección se muestra las preguntas frecuentes de la aplicación.
+
+    ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/23c9f016-7cc9-450a-bf4f-6895868f4d32)
+
+    <br>
+
+Web Services:
+
+- TS01: Post Pet Owner
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/da19a846-6514-4137-9d79-b37440152211)
+
+- TS02: Post Vet Center
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/d41896ba-850b-4161-80ae-4805dedd3dd3)
+
+- TS03: Post Review
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/38554d60-b833-4504-9170-8db9e4548990)
+
+- TS04: Post Booking
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/496d38a3-1aeb-4fc5-9517-c572a9f6f336)
+
+- TS05: Get Pet Owners by ID
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/a3002200-c763-4ab1-a51b-d482159c8825)
+
+- TS06: Get All Pet Owners
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/f623e22c-7421-436e-b9de-272f6f6922b1)
+
+- TS07: Get Vet Center by ID
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/061d7583-eaf8-45b4-95c5-04304a453450)
+
+- TS08: Get All Vet Centers
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/05304d41-5385-4cf7-9ea9-c8ddaa7bf5bf)
+
+- TS09: Get Vet Centers by name
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/46b312b9-1223-4f79-bbfa-a0f50fa1317a)
+
+- TS10: Put Vet Center
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/05452f84-1710-48a1-b4e3-94662cfe5cae)
+
+- TS11: Put Pet Owner
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/048bcedc-4435-4152-ba75-7f92e28df17c)
+
+- TS12: Get Booking by ID
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/7c32e302-01bf-4256-bb2a-bc285af9cce8)
+
+- TS13: Get Booking by Type of Service in a Date Range
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/7604e177-faa6-4db9-afff-585b31d6b0ba)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/aa159a5b-e560-40d5-9bcf-cb9245b6d59e)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se muestra la documentación de los servicios de la aplicación VetConnect, la cual se ha desarrollado en el Sprint 3. En el cual nuestro Frontend podrá consumir de manera correcta los servicios del Backend.
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/cd8c0287-a512-49dd-a5b1-53aa8b2af248)
+
+|Service|Evidence|Description|
+|---|---|---|
+|Pet Owner|![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/fa66f9f2-e70e-49dc-a550-a28797b6370d)|Este servicio permite registrar, editar un dueño de mascota en la aplicación VetConnect y obtener todos los dueños de mascotas.|
+|Vet Center|![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/50c37867-c038-46db-86af-180a71b0e34b)| Este servicio permite registrar, editar una clinica veterinaria en la aplicación VetConnect y obtener todas las clinicas veterinarias.|
+|Booking|![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/5a168c75-a5c5-4c23-8a45-e259014ac966)|Este servicio permite agregar una cita, obtener una cita por Id, y obtener citas por el tipo de servicio en un rango de fecha (una semana).|
+|Review|![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/f6a0e174-e97e-4179-b7d9-d4f401ad89a4)|Este servicio permite que un usuario en especifico realice una reseña a una veterinaria en particular y obtener todas las reseñas de una respectiva veterinaria, las cuales serán mostradas en el perfil de la veterinaria.|
+
+|Endpoint|Method|Parameters|URL|
+|---|---|---|---|
+|Pet Owner|POST||/api/v1/pet-owners|
+|Pet Owner|GET|PetOwner|/api/v1/pet-owners|
+|Pet Owner|GET|PetOwner/{petOwnerId}|/api/v1/pet-owners/{petOwnerId}|
+|Pet Owner|PUT|PetOwner/{petOwnerId}|/api/v1/pet-owners/{petOwnerId}|
+|Vet Center|POST||/api/v1/vet-centers|
+|Vet Center|GET|VetCenter|/api/v1/vet-centers|
+|Vet Center|GET|VetCenter/{vetCenterId}|/api/v1/vet-centers/{vetCenterId}|
+|Vet Center|PUT|VetCenter/{vetCenterId}|/api/v1/vet-centers/{vetCenterId}|
+|Booking|POST||/api/v1/bookings|
+|Booking|GET|Booking/{bookingId}|/api/v1/bookings/{bookingId}|
+|Booking|GET|Booking/{typeService}/week|/api/v1/bookings/{typeService}/week|
+|Review|POST||/api/v1/reviews|
+|Review|GET|Review/vet-center/{vetCenterId}|/api/v1/reviews/vet-center/{vetCenterId}|
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 3, se hicieron 2 despliegues, en el cual se encuentran la version mejorada del Frontend de la aplicacion y la primera version del Backend de la aplicacion VetConnect.
+
+- Para el Frontend:
+
+Nuestro equipo se apoyó en la herramienta de Firebase Hosting para el despliegue de la aplicación VetConnect. A continuación, se muestra el enlace de la aplicación desplegada en Firebase Hosting.
+
+- Acceder a [Frontend](https://vetconnect-383e0.web.app/login)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/d717898f-fe18-42df-a76e-ab21f22794cc)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/6dcc701f-9667-48b7-865f-d59cb7b4cec2)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/da6fcc24-d175-4725-a541-a4e64df809ae)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/e016cd9e-f259-4b38-bcb9-3bc76845b3b2)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/14cada8f-345b-4bff-9acf-5e21085d5764)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/a91042d6-4445-4877-97f3-717005109c17)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/f3eceb0a-6219-4639-92fc-d8f4565f049b)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/7a68561c-3dfe-4e27-b562-a0c98c216589)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/a0ed580f-3260-4a9b-ba53-45f8111de356)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/94e65920-a75d-4d9e-a28e-c3db49bc03d4)
+  
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/8c7b47b1-40c4-4c68-814d-4aecb0724fea)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/548a22ba-8079-46b9-bede-4f4308769a90)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/252680df-cc89-4364-8b2f-e761a90def03)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/74ec2609-e08e-47fe-a195-b4afcc0f4135)
+
+  ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/23c9f016-7cc9-450a-bf4f-6895868f4d32)
+
+- Para el Backend:
+
+Nuestro equipo se apoyó en la herramienta de Azure para el despliegue de la aplicación VetConnect. El despliegue de tanto la base de datos como el Backend se realizó de manera exitosa. A continuación, se muestra el enlace de la documentación de la API desplegada en Azure.
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/3639929d-2c53-4150-b8ac-43b3e1824df2)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/89f8ecbe-296d-4bbd-a246-cfc134f3ae02)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/225070bd-6602-42f1-b949-5896d6cc5036)
+
+![Captura de pantalla 2024-06-06 054151](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/cf1b13c3-81cc-4174-938d-d261e6f99fa6)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/2a59846b-ceaa-4587-9656-a249222ec48a)
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+|---|---|
+|Jose Ampudia| Implementacion de la primera version del Backend de la aplicación, despliegue, mejora continua del Frontend de la aplicacion **(Vista VetCenter Details)**, desarrollo de documentación del Sprint 3.|
+|Luiggi Antonio| Mejora continua en el Frontend de la aplicacion **(Vista Login y Register)** e implementación de heuristicas.|
+|Brayan Gamboa| Mejora de estilos en el Frontend de la aplicación y desarrollo de heurísticas.|
+|Renzo Ramos| Implementacion de la seccion de calendario y mejoras del Frontend de la aplicación y mejora continua de la documentacion.|
+|Fabricio Iparraguirre| Implementacion de Responsive Web Design en el Frontend, calendario y mejora de estilos en el Frontend de la aplicación.|
+
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 3, tanto para el frontend y backend:
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/604a5606-504f-462b-8256-f3aadbe5b092)
+
+![image](https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2/assets/116921103/0f07f53a-d3a9-41ba-8f56-c1f66af69f5e)
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/c4eb3ab1-9c4e-4ffb-bf6c-e7ec7b522f13)
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/68e0cf1a-544d-41e2-a781-df78d69b5659)
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/b56a2ead-b72c-4703-b2da-195708c9a6b2)
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/9c052f97-12df-472b-ac23-88a26066c747)
 
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 #### 5.3.2. Registro de Entrevistas
+
 #### 5.3.3. Evaluaciones según heurísticas
+
+##### UX Heuristics & Principles Evaluation
+##### Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** SV55  
+**PROFESORES:** Todos  
+**AUDITOR:** Grupo 2  
+**CLIENTE(S):** Grupo 3  
+
+##### SITE O APP A EVALUAR:
+Vet Connect
+
+##### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de los siguientes apartados:
+1. Registro de usuario nuevo
+2. Inicio de sesión
+3. Visualización de datos
+4. Sección Payment
+5. Sección “See More”
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| NIVEL | DESCRIPCIÓN |
+| ----- | ----------- |
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de las herramientas. Es imperativo que sea corregido antes del lanzamiento. |
+
+##### TABLA RESUMEN:
+
+| # | PROBLEMA | ESCALA DE SEVERIDAD | HEURÍSTICA/PRINCIPIO VIOLADO(A) |
+| - | -------- | ------------------- | ------------------------------- |
+| 1 | No hay botón para regresar a la página principal. | 3 | Usability: Control y libertad para el usuario. |
+| 2 | No funciona el icono superior derecho. | 3 | Information Architecture: Is It Usable? |
+| 3 | No muestra la selección de algún botón en horarios. | 2 | Usability: Visibilidad del estatus. |
+| 4 | No tiene sentido el botón payment dentro de su sección, redundante. | 2 | Information Architecture: Is It Usable? |
+| 5 | Uso de imágenes similares. | 2 | Usability: Reconocimiento antes que reacción. |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+###### PROBLEMA #1: No hay un botón para regresar a la página principal.
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Control y libertad para el usuario
+
+**Problema:**  
+Al momento de continuar con el procedimiento de compra, si en cierto caso el usuario quiere regresar a la página de principio, no tiene un camino claro, o un botón simple para regresar.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/705683b6-4aad-46ba-be59-c684e73c133a)
+
+**Recomendación:**  
+Se recomienda usar la palabra Vet Connect como botón para regresar a la página principal.
+
+###### PROBLEMA #2: No funciona el icono superior derecho.
+**Severidad:** 3  
+**Heurística violada:** Information Architecture – Is it Usable?
+
+**Problema:**  
+Al momento de presionar el botón, este no tiene ninguna funcionalidad.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/550c4b9a-b1e2-4b53-8f4c-3d7b608052c8)
+
+**Recomendación:**  
+Se recomienda usarlo para o regresar al principio o agregar funcionalidades.
+
+###### PROBLEMA #3: No muestra la selección de algún botón en horarios.
+**Severidad:** 2  
+**Heurística violada:** Usabilidad – Visibilidad del estatus
+
+**Problema:**  
+Al momento de presionar algún horario no muestra nada, siendo esto confuso para el usuario.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/6104c398-c0e0-4a2d-b98e-ea88f9b7b6a9)
+
+**Recomendación:**  
+Se podría agregar un botón de dejar seleccionado o por defecto mostrar la selección en el apartado de pago.
+
+###### PROBLEMA #4: No tiene sentido el botón payment dentro de su sección, redundante.
+**Severidad:** 2  
+**Heurística violada:** Information Architecture – Is it Usable?
+
+**Problema:**  
+Dentro de la sección Payment, nuevamente se agrega el botón Payment pero no tiene ningún sentido, no realiza ninguna acción.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/04e94050-ed49-48b3-a2ce-3736466274a6)
+
+**Recomendación:**  
+Quitar el botón de payment.
+
+###### PROBLEMA #5: Uso de imágenes similares.
+**Severidad:** 2  
+**Heurística violada:** Usability: Reconocimiento antes que reacción
+
+**Problema:**  
+Dentro de la página principal, aparecen imágenes repetitivas, no dejando bien en claro a los usuarios que ofrece cada opción.
+
+![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/b599906b-b6c8-486f-8cc5-cd41ecebdd98)
+
+**Recomendación:**  
+A cada apartado destinar distintas imágenes, según lo que corresponda.
+
 
 ### 5.4. Video About-the-Product
 
