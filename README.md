@@ -2567,7 +2567,7 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
 
 ## Conclusiones
 
-### Conclusiones y recomendacinoes
+### Conclusiones y recomendaciones
 
   - El equipo de desarrollo ha establecido un control de versiones del código fuente del proyecto Vet Connect utilizando el sistema de control de versiones Git y el flujo de trabajo GitFlow, lo que ha permitido gestionar y controlar las versiones del proyecto de manera eficiente.
 
