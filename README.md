@@ -2609,6 +2609,10 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
 
   - Gracias al desarrollo de entrevistas a ambos segmentos objetivos, se ha tenido en cuenta las opiniones y sugerencias de los usuarios, lo que ha permitido mejorar el enfoque que se le dará a la aplicación.
 
+  - Se han aplicado las correcciones correspondientes de la Landing Page y el Front-End en este Sprint 3. Además de añadieron nuevas vistas enfocados al segundo segmento objetivo.
+
+  - Se desplegó la primera versión del Back-end gracias a Microsoft Azure. Ahora nuestros endpoints pueden ser utilizados por nuestro Front-end. 
+
 ### Video About-the-Team
 
 ### Bibliografía
