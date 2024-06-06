@@ -138,29 +138,43 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
           <strong>TP1:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, el cual se mantuvo una comunicación activa entre todos los miembros del equipo para la elaboración de un buen proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Para la entrega de este Sprint 3, se organizó en grupo las partes que debíamos mejorar en base al feedback de la entrega anterior.
+          <br><br>
           <strong>Jeremy, Antonio</strong><br>
           <strong>TB1:</strong><br>
           Se planteó el desarrollo del startup junto al Lean UX Canvas, entrevistas/análisis, User Task Matrix  y To-Be Scenario Mapping.
           <br><br>
           <strong>TP1:</strong><br>
-          Se presentó la implementación de la vista de Sign-in y Register del Frontend de la aplicación, además, la comunicación entre los miembros del equipo fue eficiente para la realización del proyecto.<br><br>
+          Se presentó la implementación de la vista de Sign-in y Register del Frontend de la aplicación, además, la comunicación entre los miembros del equipo fue eficiente para la realización del proyecto.
+          <br><br>
+          <strong>TB2:</strong><br>
+          Implementé interfaces de usuario mejoradas: Desarrollé un login y registro utilizando Angular Material y Tailwind, aplicando principios de diseño de experiencia de usuario (UX) y usabilidad para crear interfaces intuitivas y atractivas.
           <br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>TP1:</strong><br>
           Para la entrega del Sprint 2, se uso la vista de preguntas y respuestas en el Frontend de la aplicacion, además, se hicieron preguntas entre grupo en una reunion para la el mejor entendimiento del proyecto.<br><br>
+          <strong>TB2:</strong><br>
+           Para esta entrega, investigué como mejorar el frontend del FAQ y también la heuristica del grupo 02 dejando recomendaciones a mejoras
+          <br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Se ha realizó un análisis detallado de los segmentos objetivos, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.
           <br><br>
           <strong>TP1:</strong><br>
           Se presentó la implementación del dashboard principal de la aplicación, realizmos reuniones constantes para resolver cualquier duda de alguno de los miembros del equipo.<br><br>
+          <strong>TB2:</strong><br>
+          Me comuniqué con mis compañeros de equipo para realizar los cambios correspondientes de esta entrega.
+          <br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
           Se realizó los Lean UX Assumptions y el Empathy Map tomando en cuenta las necesidades y problemas de los segmentos objetivos seleccionados.<br><br>
           <strong>TP1:</strong><br>
           Para la entrega del Sprint 2, presenté mis primeros avances a un pequeño grupo de personas cercanas para obtener feedback y mejorar el proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Para la entrega del Sprint 3 realicé las mejoras tomando en cuenta el feedback brindado por el profesor. Añadi modals y la vista de Transactions.<br><br>
         </td>
         <td>
         Como equipo, logramos establecer medios de comunicación eficientes como Discord, para poder realizar una organización concreta y de tal nabera realizar una entrega de proyecto bueno.<br><br>
@@ -173,26 +187,40 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
           <strong>TP1:</strong><br>
           Para la entrega del Trabajo parcial, se mantuvo una comunicacion constante para corregir las observaciones realizadas por el docente, de tal forma que se pueda mejorar el proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Se documentó los endpoints del backend mediante el uso de Swagger para poder visualizar los métodos Http de nuestra API Rest.
+          <br><br>
           <strong>Jeremy, Antonio </strong><br>
-          <strong>TB1</strong><br>
+          <strong>TB1:</strong><br>
           Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, se realizó la entrevista junto a su análisis, desarrollo User Task Matrix  y To-Be Scenario Mapping.<br><br>
-          <strong>TP1</strong><br>
+          <strong>TP1:</strong><br>
           Se implementaron correcciones en la documentacion del proyecto de acuerdo a las observaciones realizadas por el docente, la comunicacion por WhatsApp y Discord fue eficiente para la realización del proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Personalicé estilos con Tailwind: Utilicé Tailwind CSS para personalizar y extender los estilos de los componentes de Angular Material, logrando una apariencia cohesiva y moderna en las interfaces de usuario del login y registro.
+          <br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
           <strong>TP1</strong><br>
           Para esta entrega de Sprint 2, se mantuvo comunicacion constante para las correcciones de las secciones debiles del proyecto, por ello se realizó una mejora en la documentación del proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Para esta entrega, realicé la mejora del frontend en el FAQ y también la revision de la heuristica del grupo 02 dejando recomendaciones a mejoras.
+          <br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
-          <strong>TB1</strong><br>
+          <strong>TB1:</strong><br>
           Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
-          <strong>TP1</strong><br>
+          <strong>TP1:</strong><br>
           Se aplicaron mejoras continuas en la documentación del proyecto, los mapas de empatía y las mejoras en la Landing Page, se mantuvo una comunicación constante para la realización del proyecto.<br><br>
+          <strong>TB2:</strong><br>
+          Se aplicaron correciones a los estilos y estructuras html para arreglar la presentación del front-end.
+          <br><br>
           <strong>Ramos, Renzo</strong><br>
-          <strong>TB1</strong><br>
+          <strong>TB1:</strong><br>
          Se describieron los procesos y flujos importantes de la Web Application, tanto de los Mock ups y Wireframes<br><br>
-         <strong>TP1</strong><br>
+         <strong>TP1:</strong><br>
          Se realizaron mejoras en la redaccion de la documentacion, de tal modo que los stakeholders puedan entender de manera clara el proyecto, se mantuvo una comunicación constante para la realización del proyecto.<br><br>
+         <strong>TB2:</strong><br>
+         Se realizó mejoras en la documentación y la estructura del informe para el Sprint 3.
     </td>
     <td>Como equipo, se logró desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto. El documento realizado es una forma para que las personas puedan conocer más sobre el proyecto, el proceso de desarrollo y las herramientas utilizadas para la realización del mismo.<br><br></td>
     </td><br>
@@ -2580,6 +2608,10 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
   - Gracias a la implementación de pruebas de aceptación y pruebas de usabilidad, se ha validado la funcionalidad y usabilidad de la primera versión del Landing Page de la aplicación Vet Connect.
 
   - Gracias al desarrollo de entrevistas a ambos segmentos objetivos, se ha tenido en cuenta las opiniones y sugerencias de los usuarios, lo que ha permitido mejorar el enfoque que se le dará a la aplicación.
+
+  - Se han aplicado las correcciones correspondientes de la Landing Page y el Front-End en este Sprint 3. Además de añadieron nuevas vistas enfocados al segundo segmento objetivo.
+
+  - Se desplegó la primera versión del Back-end gracias a Microsoft Azure. Ahora nuestros endpoints pueden ser utilizados por nuestro Front-end. 
 
 ### Video About-the-Team
 
