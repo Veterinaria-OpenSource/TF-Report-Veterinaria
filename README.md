@@ -2409,7 +2409,7 @@ Para la entrega del Sprint 3, se hicieron 2 despliegues, en el cual se encuentra
 
 Nuestro equipo se apoyó en la herramienta de Firebase Hosting para el despliegue de la aplicación VetConnect. A continuación, se muestra el enlace de la aplicación desplegada en Firebase Hosting.
 
-- Acceder a [Frontend](https://vetconnect-383e0.web.app/login)
+- Acceder a [Frontend](https://vet-connect.netlify.app/login)
 
 ![image](https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage/assets/116921103/d717898f-fe18-42df-a76e-ab21f22794cc)
 
@@ -2621,6 +2621,6 @@ IPSOS. (2016). Mascotas 2016. Recuperado de https://www.ipsos.com/es-pe/mascotas
 
 ### Anexos
 
-Video de Exposicion TP:
+Video de Exposicion TB2:
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVey5Jhxq_VIrEGMzMpxhQsBRl7ADZ5264gTzugT6HW6kg?e=45If4y
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVw3WnTeD9tHhglPdmxuDdgBSmQmm40XjHJ3rxnv4XiteA?e=JzGYLk
