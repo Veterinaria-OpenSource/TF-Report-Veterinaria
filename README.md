@@ -1733,7 +1733,8 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
-![DataBase_VetConnect-2024-04-09_23-43](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/b56a28cd-418c-4496-a1d7-074c858283f3)
+![database](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/e8438149-d6a1-4b6d-880e-02b67de5c9d2)
+
 
 
 ## Capítulo 5: Product Implementation, Validation & Deployment
@@ -2483,7 +2484,91 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
+
+A continuación, presentaremos algunas de las preguntas que se realizarán en las entrevistas a los clientes que poseen mascotas en casa.
+
+- Preguntas para los clientes dueños de mascotas:
+
+\- ¿Cuál fue tu primera impresión al ver la página de inicio?
+
+\- ¿Crees que la navegación es intuitiva?
+
+\- ¿La información proporcionada es clara y comprensible?
+
+\- ¿Qué mejorarías en el proceso de reservación con las clínicas?
+
+\- ¿Hubo algún elemento visual que te haya molestado o distraído?
+
+\- ¿Recomendarías esta página a otros dueños de mascotas? ¿Por qué?
+
+- Preguntas para los veterinarios:
+
+\- ¿Cuál fue tu primera impresión al ver la página de inicio?
+
+\- ¿Cómo describirías tu experiencia de navegación por la página?
+
+\- ¿La información proporcionada es clara y relevante para tu clínica?
+
+\- ¿Qué mejorarías en el proceso de registro?
+
+\- ¿Sientes que tu clínica está bien representada en la plataforma?
+
+\- ¿Recomendarías esta plataforma a otras clínicas veterinarias? ¿Por qué?
+
 #### 5.3.2. Registro de Entrevistas
+
+- Entrevistas realizadas a dueños de mascotas:
+
+|Entrevista 1|Moises Echevarria|
+| :- | :- |
+|Edad|21 años|
+|Distrito|Magdalena del Mar|
+|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/53e9cd73-fd8a-449f-8f43-19e35caf5704)|Durante la entrevista de Moises interactúa con el Landing Page y el Frontend mientras comenta que le gusta y que no. Comienza por el Landing Page diciendo que le gusta el diseño de las patas y que si hay sobrecarga de información en cada card. Por parte del Frontend, le gusta el diseño mencionando que se parece a una página llamada Trivago pero para dueños de mascotas, tmb añade que la navegación es sencilla pero no intuitiva ya que hay un poco de información no relevante pero que si lo recomendara a sus amigos para una reservación rápida de citas.|
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|0:00 – 6:35|
+
+|Entrevista 2|Hiro Cárdenas|
+| :- | :- |
+|Edad|21 años|
+|Distrito|Magdalena del Mar|
+|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/50cee881-43f7-41a3-8c4b-929c552b8cc0)|Durante la entrevista de Hiro navega por el Landing Page y el Frontend mientras comenta que le gusta y que no. Comienza por el Frontend diciendo que le gustaría que en la descripción de la veterinaria haya información sobre sus empleados o certificaciones. Por parte del Landing Page, le gusta el diseño y la animación del fondo pero puede confundir ya que es el mismo color que la letra pero por lo demás si es clara la información y dice que tiene una navegación intuitiva.|
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|6:36 – 12:56|
+
+|Entrevista 3|Adriana Valdivia|
+| :- | :- |
+|Edad|21 años|
+|Distrito|Cercado de Lima|
+|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/c6951885-0136-47e5-abf4-1f638d0d8faf)|Durante la entrevista Adriana navega por el Landing Page y el Frontend mientras que hace algunas observaciones. Menciona que hay mucho texto y las letras de color naranja le saturan en el Landing Page pero los colores generales le agradan. Por parte del Frontend le agrada poder agregar información adicional al momento de hacer la reservación ya que puedes especificar cosas a la clínica veterinaria, que le parece fácil navegar y poder reservar una cita. |
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|12:58 – 22:39|
+
+- Entrevistas realizadas a veterinarios:
+
+|Entrevista 1|Piero Echevarría|
+| :- | :- |
+|Edad|25 años|
+|Distrito|Breña|
+|![image](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/89022092/f4730ba9-50e9-410f-a74f-54ef21622357)|Durante la entrevista Piero se mostró muy cooperativo y asertivo con la exploración en el Landing Page y la App Web. Piero nos indica que le gusta mucho la paleta de colores, le agradan los iconos utilizados y recalca que la experiencia es agradable ya que resulta fácil de entender y actuar.|
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|22:40 – 29:26|
+
+|Entrevista 2|Jorge Miranda|
+| :- | :- |
+|Edad|23 años|
+|Distrito|Cercado de Lima|
+|![image](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/89022092/2ec6971f-b64b-42ab-83f2-d61cf8a8c13e)|Similar a la entrevista anterior, Jorge se mostró muy interesado en la landing page y app web debido a que son fáciles de entender y usar. Jorge nos menciona que lo único que cambiaría sería el tamaño de los recuadros del landing page ya que no son proporcionales en pantallas pequeñas|
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|29:28 – 37:35|
+
+|Entrevista 3|Mario Roncallo|
+| :- | :- |
+|Edad|23|
+|Distrito|Breña|
+|![image](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/89022092/3d5a1ed2-c31a-472f-828e-afe3a5506ec9)|Mario nos indica su apoyo hacia la elección de la paleta de colores de las dos páginas. Le gusta mucho el desarrollo de los iconos, cuadros e imágenes de la aplicación web, pero recalca en mejorar la tipografía del Login y Registe debido a que no logra resaltar.|
+|URL de la grabación|<p><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG></p><p></p>|
+|Timming|37:36 – 44:18|
+
 
 #### 5.3.3. Evaluaciones según heurísticas
 
