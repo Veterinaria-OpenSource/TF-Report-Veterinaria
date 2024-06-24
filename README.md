@@ -1641,7 +1641,7 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-![VetConnect - Clases](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/7f2bf3a1-ee02-4534-86e8-bb1e06c053f7)
+![DiagramVetConnect](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/0b225cc5-80ec-4da1-946b-3f07ee31e448)
 
 #### 4.7.2. Class Dictionary
 
