@@ -2605,10 +2605,14 @@ A continuación, se muestra la documentación de los servicios de la aplicación
 
 |Service|Evidence|Description|
 | :- | :- | :- |
-|Pet Owner|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/3c7b9275-3afd-448a-ae2f-68bb627d7fdf)|Este servicio permite registrar, editar un dueño de mascota en la aplicación VetConnect y obtener todos los dueños de mascotas.|
-|Vet Center|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/cbfe07e0-8e78-493e-b045-c704a036cc9e)|Los endpoints de gestión de centros veterinarios permiten realizar diversas operaciones: obtener información de un centro específico , actualizar detalles de un centro, listar todos los centros disponibles , agregar un nuevo centro , obtener y añadir imágenes asociadas a un centro, y buscar centros por nombre.|
-|Booking|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/0ab6d278-6bb6-4d59-9bb0-47cde66a411c)|Este servicio permite agregar una cita, obtener una cita por Id, y obtener citas por el tipo de servicio en un rango de fecha (una semana).|
-|Review|<p>![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/47405eaf-c509-4ef4-8fdd-1271af41af10)</p><p></p>|Este servicio permite que un usuario en específico realice una reseña a una veterinaria en particular y obtener todas las reseñas de una respectiva veterinaria, las cuales serán mostradas en el perfil de la veterinaria.|
+|Authentication|<p>![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/526d232c-1351-466c-85f2-59d2fdfdf9c4)</p><p></p>|Los endpoints de autenticación permiten a los usuarios registrarse y autenticarse en el sistema. El endpoint POST /api/v1/authentication/sign-up se utiliza para registrar un nuevo usuario, mientras que el endpoint POST /api/v1/authentication/sign-in se utiliza para iniciar sesión.|
+|Reviews|<p>![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4f52521e-6683-4cc8-812b-d3fa96ae5efc)</p><p></p>|Los endpoints de gestión de reseñas permiten a los usuarios crear y obtener reseñas de los centros veterinarios. El endpoint POST /api/v1/reviews permite crear una nueva reseña, y el endpoint GET /api/v1/reviews/vet-center/{vetCenterId} recupera las reseñas de un centro veterinario específico basado en el ID del centro.|
+|Pet Owner|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5ed372de-3a76-4fd2-89ec-98545e1006e7)|Los endpoints de gestión de propietarios de mascotas permiten crear, obtener y actualizar información sobre los propietarios de mascotas. El endpoint POST /api/v1/pet-owners se utiliza para crear un nuevo propietario de mascotas. Los endpoints GET /api/v1/pet-owners y /api/v1/pet-owners/{petOwnerId} se utilizan para obtener información de todos los propietarios o de uno específico, respectivamente. El endpoint PUT /api/v1/pet-owners/{petOwnerId} se utiliza para actualizar la información de un propietario existente.|
+|Roles|<p>![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/576569fe-2288-4bdf-982f-a485d3801fd1)</p><p></p>|El endpoint GET /api/v1/roles permite obtener información sobre todos los roles disponibles en el sistema, facilitando la gestión de permisos y accesos para los usuarios.|
+|Bookings|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/20e377fe-1372-4683-af56-220642e4b03d)|Los endpoints de gestión de reservas permiten crear y obtener información sobre las reservas de servicios veterinarios. El endpoint POST /api/v1/bookings se utiliza para crear una nueva reserva. Los endpoints GET /api/v1/bookings/{bookingId} y /api/v1/bookings/type-service/{typeService}/week permiten obtener información de una reserva específica o de las reservas basadas en el tipo de servicio y la semana, respectivamente.|
+|Users|<p>![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/98ff67e4-a381-4baf-a337-79e0fb4b4cdb)</p><p></p>|Los endpoints de gestión de usuarios permiten obtener información sobre los usuarios registrados en el sistema. El endpoint GET /api/v1/users obtiene información de todos los usuarios, y el endpoint GET /api/v1/users/{userId} recupera la información de un usuario específico basado en el ID proporcionado.|
+|Vet Centers|![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/1a718ccd-92f7-47d1-aa68-26877385ce14)|Los endpoints de gestión de centros veterinarios permiten crear, obtener y actualizar información sobre los centros veterinarios. El endpoint POST /api/v1/vet-centers se utiliza para crear un nuevo centro. Los endpoints GET /api/v1/vet-centers y /api/v1/vet-centers/{vetCenterId} permiten obtener información de todos los centros o de uno específico, respectivamente. Además, los endpoints GET y POST /api/v1/vet-centers/{vetCenterId}/images gestionan las imágenes de los centros, y el endpoint GET /api/v1/vet-centers/name/{vetCenterName} recupera información basada en el nombre del centro.|
+
 
 |Endpoint|Method|Parameters|URL|
 | :- | :- | :- | :- |
@@ -2628,7 +2632,11 @@ A continuación, se muestra la documentación de los servicios de la aplicación
 |Booking|GET|Booking/{typeService}/week|/api/v1/bookings/{typeService}/week|
 |Review|POST||/api/v1/reviews|
 |Review|GET|Review/vet-center/{vetCenterId}|/api/v1/reviews/vet-center/{vetCenterId}|
-
+|Roles|GET||/api/v1/roles|
+|Users|GET||/api/v1/users|
+|Users|GET|/api/v1/users/{userId}|/api/v1/users/{userId}|
+|Authentication|POST||/api/v1/authentication/sign-up|
+|Authentication|POST||/api/v1/authentication/sign-in|
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2674,9 +2682,10 @@ Acceder al Backend: <https://vetconnect.azurewebsites.net/swagger-ui/index.html#
 
 ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/e59c3d3f-f3a1-4853-996c-b19036a39ada)
 
-![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/9e0c63a1-6693-40e7-8339-935f0a433886)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/64d6b4a6-1e77-4b4c-903f-1eb5b8dc211b)
 
-![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/a6953c09-a267-4f1f-bd5b-d41326b06813)
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/8fb4d939-e7aa-4ab3-aaed-bcb629c70a9d)
+
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
