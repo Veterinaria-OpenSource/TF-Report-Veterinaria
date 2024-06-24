@@ -157,7 +157,10 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TP1:</strong><br>
           Para la entrega del Sprint 2, se uso la vista de preguntas y respuestas en el Frontend de la aplicacion, además, se hicieron preguntas entre grupo en una reunion para la el mejor entendimiento del proyecto.<br><br>
           <strong>TB2:</strong><br>
-           Para esta entrega, investigué como mejorar el frontend del FAQ y también la heuristica del grupo 02 dejando recomendaciones a mejoras
+           Para esta entrega, investigué como mejorar el frontend del FAQ y también la heuristica del grupo 02 dejando recomendaciones a mejoras.
+          <br><br>
+          <strong>TF:</strong><br>
+           Para esta entrega, investigué como realizar el sprint 4 y también el Validation Interview.
           <br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
@@ -206,6 +209,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Para esta entrega, realicé la mejora del frontend en el FAQ y también la revision de la heuristica del grupo 02 dejando recomendaciones a mejoras.
           <br><br>
+          <strong>TF:</strong><br>
+           Para esta entrega, realicé el sprint 4 y también el Validation Interview.
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
@@ -1641,7 +1646,7 @@ Link Structurizr: https://structurizr.com/share/90558/ebcd6594-0b35-4a78-90cf-48
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-![DiagramVetConnect](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/164422483/0b225cc5-80ec-4da1-946b-3f07ee31e448)
+![Imagen de WhatsApp 2024-06-23 a las 19 52 04_92c5448b](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/1d20fb28-9996-4aaf-9a3b-40023349b1a2)
 
 #### 4.7.2. Class Dictionary
 
@@ -2481,6 +2486,221 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/116921103/9c052f97-12df-472b-ac23-88a26066c747)
 
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+En este Sprint 4, se tiene planeado Conectar el Backend con el Frontend de la aplicación de VetConnect, el cual se encargará de gestionar la información de los dueños de mascotas, Clinicas Veterinarias, reviews y las reservaciones de citas. Por otro lado, el desarrollo del Frontend ha tenido ciertas mejoras con respecto a anteriores versiones.
+
+|Sprint 4||
+| :- | :- |
+|Sprint Planning Background||
+|Date |2024/06/20|
+|Time |12:00 PM|
+|Location |Reunión virtual mediante Discord|
+|Prepared By|Jose Ampudia|
+|Attendees|Luiggi Antonio, Brayan Gamboa, Renzo Ramos, Fabricio Iparraguirre.|
+|Sprint 4 Review Summary|Se logró desarrollar la documentación del Sprint 4, la revisión y mejora del anterior sprint.|
+|<p>Sprint 4 Retrospective </p><p>Summary</p>|Se logró cumplir con el objetivo del Sprint 4, se tuvo en cuenta las observaciones de la entrega anterior, lo cual nos ha permitido mejorar nuestro enfoque.|
+|Sprint Goal & User Stories||
+|Sprint 4 Goal|Realizar la documentación del sprint 4, corregir errores del sprint 3 y agregar Validation Interview |
+|Sprint 4 Velocity|8|
+|Sum of Story Points|31|
+
+##### 5.2.4.2. Sprint Backlog 4
+
+El Sprint Backlog 4 es una lista detallada de tareas específicas que se han planificado y se comprometen a completarse durante el Sprint 4. El equipo de desarrollo tuvo tareas asignadas para la conexión del Backend con el Frontend de la aplicación VetConnect, además, mejorar el Frontend, es por eso por lo que usamos la herramienta de Trello para mantener un control de las tareas que deben de realizarse.
+
+![Imagen de WhatsApp 2024-06-24 a las 06 49 08\_5ed63c67](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/3beb698d-49be-4dda-ae8e-95f006fc13d7)
+
+Link Trello: [https://trello.com/invite/b/ZEpbDzU5/ATTI4f11f584815d30efafccb70c2b19c46505AA306A/sprint-4-vetconnect ](https://trello.com/invite/b/ZEpbDzU5/ATTI4f11f584815d30efafccb70c2b19c46505AA306A/sprint-4-vetconnect)
+
+
+|Sprint #4||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Title|Work-Item/Task||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To Do, In Progress, Done)|
+|US024|Ver calendario de citas|1|Mostrar calendario de citas|Permitir ver el calendario que contiene las citas reservadas por los clientes en la vista del veterinario|3|Fabricio Iparraguirre|Done|
+|US007|Ver perfiles de Veterinarias|2|lo Observar una respectiva veterinaria|Permitir ver los perfiles de veterinarias con sus respectivas reseñas|3|Brayan Gamboa|Done|
+|US005|Inicio de sesión para Veterinarios y Dueños de mascotas|3|Inicio de sesión por autentificación |Permitir el inicio de sesión de los Dueños de mascotas y Veterinarios con sus cuentas registradas mediante el Backend|4|Jeremy Antonio|To-do|
+|US006|Busqueda de veterinarias por ubicación y nombre|4|Permitir la búsqueda de veterinarias por nombre|Permitir al usuario buscar veterinarias por nombre|3|Jose Ampudia|To-do|
+|US008|Seleccion de fecha y hora para agendar cita|5|Permitir la seleccion de fecha y hora para agendar cita|Permitir al usuario seleccionar la fecha y hora para agendar una cita|3|Renzo Ramos|Done|
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+Para el presente Sprint 4, se ha mejorado la previa versión del backend ya creado de VetConnect, el cual ahora ya se logra conectar con el frontend y se puede visualizar en el siguiente recuadro.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2|master|deea654|Merge pull request #47 from Veterinaria-OpenSource/develop||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2|develop|8894576|fix: updated frontend||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/VetConnect-Frontend-App-V2|develop|42e68ac|fix: basePath updated||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|master|a689d08|Merge pull request #28 from Veterinaria-OpenSource/develop||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|develop|cd66186|<p>Merge pull request #27 from Veterinaria-OpenSource/feature/iam</p><p></p>||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|bb01e20|feat(reviews): delete attribute createAt.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|87dfd1a|feat(properties): application properties modified v2.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|9e1fde9|feat(iam):iam modified version 4.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|bfc5776|feat(iam):iam modified version 3.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|10cc7ce|feat(iam):iam modified version 2.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|1a8bed6|feat(iam):iam modified.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/iam|484023c|feat(iam):iam complete.||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/ACL-profile-appointments|654c817|fix: merge conflicts solved||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/ACL-profile-appointments|05d5b5b|fix: ACL between bounded context fixed||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/vet-center-images|f4e140e|ACL implemented||23/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/profile-vets|712941c|feat(profiles): added new attributes: description and imageProfile.||22/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform|feature/vet-center-images|6f64834|refactor(profiles): vetcenter images entity added with their respective endpoints||22/06/2024|
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 4, se ha realizado la mejora del Frontend y Backend incluyendo la conexión entre ambos para la aplicación VetConnect, se agregó la validación del correo y usuario para iniciar sesión.
+
+API Documentation Deployed: <https://vet-connect.netlify.app/login>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/iam|c6a4bf2|Merge pull request #28 from Veterinaria-OpenSource/develop||25/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/iam|716b0a6|feat(properties): delete attribute||25/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/iam|f5e78c2|feat(properties): application properties modified v2.||25/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|develop|d57c6e6|feat(iam):iam modified version 4.||25/06/2024|
+|https://github.com/Veterinaria-OpenSource/vet-connect-platform.git|feature/ACL-profile-appointments|f4f48a1|fix: merge conflicts solved||25/06/2024|
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este Sprint 4, se ha logrado la conexión del Backend con el Frontend y mejoras en el Frontend:
+
+-Se muestra la información correcta que se tiene en el Backend:
+
+![image](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/f69cd880-18e6-4b11-99ed-5b40dfa89c7d>)
+
+-Mejora en el calendario de citas:
+
+![Imagen de WhatsApp 2024-06-22 a las 20 04 49\_2b6ae638](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/3a7b83fb-b844-4d77-b2ec-a3a15aaeac3a>)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 05 14\_33011311](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/90c52ff0-d321-4bd8-9eaf-9e7def19681a>)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 05 35\_70db1fe8](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/ce79f3ae-1ff1-4bfc-b864-eadcd91fb8db>)
+
+-Filtrado de búsqueda:
+
+![Imagen de WhatsApp 2024-06-22 a las 20 02 35\_b74f4ff1](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/b0fec003-bf4f-4e88-b356-a78956c53ba2>)
+
+-Opiniones de dueños:
+
+![Imagen de WhatsApp 2024-06-22 a las 20 03 12\_46b45107](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/533ae8bc-4049-4f4b-a188-2cba7cd2dcba>)
+
+-Transacciones:
+
+![Imagen de WhatsApp 2024-06-22 a las 20 04 26\_01f1b795](<https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/9e82ec9c-9f87-4c48-b92a-bca24888ffb7>)
+
+Web Services:
+
+-Implementación del IAM
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/6239f697-ad35-4bbf-9234-cff5ec7d3737)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se muestra la documentación de los servicios de la aplicación VetConnect, la cual se ha desarrollado en el Sprint 4. En el cual nuestro Frontend podrá consumir de manera correcta los servicios del Backend.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/01f0bc1b-e7bc-4a44-85fd-35f77a3d6901)
+
+|Service|Evidence|Description|
+| :- | :- | :- |
+|Pet Owner|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/3c7b9275-3afd-448a-ae2f-68bb627d7fdf)|Este servicio permite registrar, editar un dueño de mascota en la aplicación VetConnect y obtener todos los dueños de mascotas.|
+|Vet Center|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/cbfe07e0-8e78-493e-b045-c704a036cc9e)|Los endpoints de gestión de centros veterinarios permiten realizar diversas operaciones: obtener información de un centro específico , actualizar detalles de un centro, listar todos los centros disponibles , agregar un nuevo centro , obtener y añadir imágenes asociadas a un centro, y buscar centros por nombre.|
+|Booking|![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/0ab6d278-6bb6-4d59-9bb0-47cde66a411c)|Este servicio permite agregar una cita, obtener una cita por Id, y obtener citas por el tipo de servicio en un rango de fecha (una semana).|
+|Review|<p>![image](https://github.com/Veterinaria-OpenSource/vet-connect-platform/assets/89022092/47405eaf-c509-4ef4-8fdd-1271af41af10)</p><p></p>|Este servicio permite que un usuario en específico realice una reseña a una veterinaria en particular y obtener todas las reseñas de una respectiva veterinaria, las cuales serán mostradas en el perfil de la veterinaria.|
+
+|Endpoint|Method|Parameters|URL|
+| :- | :- | :- | :- |
+|Pet Owner|POST||/api/v1/pet-owners|
+|Pet Owner|GET|PetOwner|/api/v1/pet-owners|
+|Pet Owner|GET|PetOwner/{petOwnerId}|/api/v1/pet-owners/{petOwnerId}|
+|Pet Owner|PUT|PetOwner/{petOwnerId}|/api/v1/pet-owners/{petOwnerId}|
+|Vet Center|POST|VetCenter|/api/v1/vet-centers|
+|Vet Center|GET|VetCenter|/api/v1/vet-centers|
+|Vet Center|GET|VetCenter/{vetCenterId}|/api/v1/vet-centers/{vetCenterId}|
+|Vet Center|PUT|VetCenter/{vetCenterId}|/api/v1/vet-centers/{vetCenterId}|
+|Vet Center|GET|VetCenter/{vetCenterId}/images|/api/v1/vet-centers/{vetCenterId}/images|
+|Vet Center|POST|VetCenter/{vetCenterId}/images|/api/v1/vet-centers/{vetCenterId}/images|
+|Vet Center|GET|VetCenter/name/{vetCenterName}|/api/v1/vet-centers/name/{vetCenterName}|
+|Booking|POST||/api/v1/bookings|
+|Booking|GET|Booking/{bookingId}|/api/v1/bookings/{bookingId}|
+|Booking|GET|Booking/{typeService}/week|/api/v1/bookings/{typeService}/week|
+|Review|POST||/api/v1/reviews|
+|Review|GET|Review/vet-center/{vetCenterId}|/api/v1/reviews/vet-center/{vetCenterId}|
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 4, se hicieron 2 despliegues, en el cual se encuentran la versión mejorada del Frontend de la aplicación y conexión del Backend con el Frontend de la aplicación Vet Connect:
+
+Acceder al Frontend: <https://vet-connect.netlify.app/login>
+
+![Imagen de WhatsApp 2024-06-23 a las 23 05 05\_88161cc0](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/28e960f9-ac56-4c4d-ae91-5b428203c871)
+
+![Imagen de WhatsApp 2024-06-23 a las 23 05 32\_32ed0232](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/a810ef65-6f75-4eb5-990c-7fc39ba2df56)
+
+![Imagen de WhatsApp 2024-06-23 a las 23 05 46\_5da119ab](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/7af8debe-777f-458f-a1e4-35b8f3194544)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 00 51\_9cc8fed7](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/f42b74e3-85b6-44fc-bddd-d3795dcddbe2)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 01 07\_412a115d](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/56583b9a-395c-45fc-8089-a9a24694e66d)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 01 21\_89235aa8](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/b789701a-88d7-45fb-921b-beb23530444d)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 01 54\_9c75ec21](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/daf31e4e-dbf6-450b-856a-481266a73912)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 02 35\_9fa32ff4](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/44ca9867-78ab-4476-ab32-d4638ac7d5e2)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 03 12\_a59f9bb7](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/24b0490e-ef78-4435-a929-e6aadcc93e92)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 03 24\_8d4cedef](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/26734dfd-1a5a-4851-8df9-7d3643d37cc6)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 04 26\_f3e665a9](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/80cac586-e210-46a1-adc6-f37078664c76)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 04 49\_f49f005e](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/abe93e2a-8e67-490d-bbee-6f71779ee723)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 05 14\_3f411a1e](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/20ae41b5-346b-4dd2-b078-7852bb3510d6)
+
+![Imagen de WhatsApp 2024-06-22 a las 20 05 35\_f12cdc2d](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/64d79ea3-f70d-4bdb-b3fa-9f3e2885a2a7)
+
+Para el Backend:
+
+Nuestro equipo se apoyó en la herramienta de Azure para el despliegue de la aplicación VetConnect. El despliegue de tanto la base de datos como el Backend se realizó de manera exitosa. A continuación, se muestra el enlace de la documentación de la API desplegada en Azure.
+
+Acceder al Backend: <https://vetconnect.azurewebsites.net/swagger-ui/index.html#/>
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/7d99cbba-6870-4e17-b605-1ad9cad89715)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/e59c3d3f-f3a1-4853-996c-b19036a39ada)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/9e0c63a1-6693-40e7-8339-935f0a433886)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/a6953c09-a267-4f1f-bd5b-d41326b06813)
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+| :- | :- |
+|Jose Ampudia|Mejora del Frontend y Backend.|
+|Luiggi Antonio|Agrega sprint 4 y realización del Validation Interview.|
+|Brayan Gamboa|Agrega sprint 4 y realización del Validation Interview.|
+|Renzo Ramos|Mejora del Frontend y Backend.|
+|Fabricio Iparraguirre|Mejora del Frontend.|
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/dfc6f4fd-063f-4944-9ad1-f762b2a9efd8)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/254062c6-9d3f-4227-b3f8-53257184418e)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/b22b0340-fad7-40b5-b355-2314df6866d4)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/5bd87df1-48ac-4449-a1e9-64660654e84a)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/3f93236b-0956-457b-a5ff-16e7465d539f)
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/118092973/dd9b5b19-d13f-41b8-8dee-cee3d0bd22d3)
+
+
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
@@ -2682,21 +2902,6 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
 
 ### Conclusiones y recomendaciones
 
-  - El equipo de desarrollo ha establecido un control de versiones del código fuente del proyecto Vet Connect utilizando el sistema de control de versiones Git y el flujo de trabajo GitFlow, lo que ha permitido gestionar y controlar las versiones del proyecto de manera eficiente.
-
-  - Se ha implementado la primera versión del Landing Page de la aplicación Vet Connect, la cual se ha desplegado en GitHub Pages. La Landing Page contiene las secciones de About us, Beneficios, Seguro de Mascotas y Servicios que se ofrecen.
-
-  - Se ha establecido pautas y buenas prácticas para el desarrollo del proyecto Vet Connect, incluyendo el uso de HTML5, CSS3, JavaScript, Gherkin y Conventional Commits.
-
-  - Las reuniones de planificación, revisión y retrospectiva del Sprint 1 se han llevado a cabo de manera eficiente, permitiendo al equipo de desarrollo colaborar y trabajar de manera conjunta en el proyecto.
-
-  - Gracias a la implementación de pruebas de aceptación y pruebas de usabilidad, se ha validado la funcionalidad y usabilidad de la primera versión del Landing Page de la aplicación Vet Connect.
-
-  - Gracias al desarrollo de entrevistas a ambos segmentos objetivos, se ha tenido en cuenta las opiniones y sugerencias de los usuarios, lo que ha permitido mejorar el enfoque que se le dará a la aplicación.
-
-  - Se han aplicado las correcciones correspondientes de la Landing Page y el Front-End en este Sprint 3. Además de añadieron nuevas vistas enfocados al segundo segmento objetivo.
-
-  - Se desplegó la primera versión del Back-end gracias a Microsoft Azure. Ahora nuestros endpoints pueden ser utilizados por nuestro Front-end. 
 
 ### Video About-the-Team
 
