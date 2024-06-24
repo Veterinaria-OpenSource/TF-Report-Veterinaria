@@ -2898,19 +2898,64 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
 
 ### 5.4. Video About-the-Product
 
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
 
+1. Organización y Comunicación: Se establecieron medios de comunicación eficientes como Discord, lo que facilitó la organización del trabajo en equipo y permitió una entrega de proyecto exitosa.
+
+2. Desarrollo de Interfaces de Usuario: El uso de Angular Material y Tailwind permitió crear interfaces de usuario modernas y coherentes, aplicando principios de UX para garantizar una experiencia de usuario intuitiva y atractiva​​.
+
+3. Investigación Competitiva y Análisis: Se realizó un análisis detallado de competidores, estrategias y tácticas, así como entrevistas y análisis de necesidades para entender mejor los requisitos del usuario​​.
+
+4. Documentación y Presentación: La documentación del proyecto se mejoró continuamente y se realizaron presentaciones regulares para resolver dudas y recibir retroalimentación​​.
+
+5. Evaluación y Retroalimentación: Las evaluaciones de usabilidad y las recomendaciones de mejora basadas en las heurísticas de UX ayudaron a refinar y optimizar las funcionalidades del proyecto​​.
+
+6. Implementación Técnica: El proyecto se benefició del uso de herramientas y metodologías modernas como GitHub para el control de versiones y colaboración en tiempo real, lo que permitió un desarrollo ordenado y eficiente​​.
+
+7. Impacto del Producto: La plataforma desarrollada, Vet Connect, ofrece una solución integral y conveniente para la gestión de la atención veterinaria, mejorando la experiencia tanto para los dueños de mascotas como para las clínicas veterinarias​​.
+
+8. Adaptación Continua: La evaluación periódica del rendimiento del proyecto y la incorporación de feedback permitieron ajustes continuos, asegurando que el producto final cumpliera con las expectativas de los usuarios​​.
 
 ### Video About-the-Team
 
 ### Bibliografía
 
-IPSOS. (2016). Mascotas 2016. Recuperado de https://www.ipsos.com/es-pe/mascotas-2016
+1. IPSOS. (2016). Mascotas 2016. Recuperado de: https://www.ipsos.com/es-pe/mascotas-2016​​.
+2. Gherkin. Documentación y pruebas. Recuperado de: https://cucumber.io/docs/gherkin/​​.
+3. Git. Sistema de control de versiones. Recuperado de: https://git-scm.com/​​.
+4. GitHub. Plataforma de desarrollo colaborativo. Recuperado de: https://github.com/​​.
+5. Visual Studio Code. Editor de código fuente. Recuperado de: https://code.visualstudio.com/​​.
+6. IntelliJ IDEA. Entorno de desarrollo integrado. Recuperado de: https://www.jetbrains.com/es-es/idea/​​.
+7. WebStorm. Entorno de desarrollo para JavaScript. Recuperado de: https://www.jetbrains.com/es-es/webstorm/​​.
+8. MDN Web Docs. HTML. Recuperado de: https://developer.mozilla.org/es/docs/Web/HTML​​.
+9. MDN Web Docs. CSS. Recuperado de: https://developer.mozilla.org/es/docs/Web/CSS​​.
+10. MDN Web Docs. JavaScript. Recuperado de: https://developer.mozilla.org/es/docs/Web/JavaScript​​.
+11. TypeScript. Lenguaje de programación. Recuperado de: https://www.typescriptlang.org/​​.
+12. Java. Lenguaje de programación. Recuperado de: https://www.java.com/es/​​.
+13. Spring Boot. Framework para aplicaciones Java. Recuperado de: https://spring.io/projects/spring-boot​​.
 
 ### Anexos
 
 Video de Exposicion TB2:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVw3WnTeD9tHhglPdmxuDdgBSmQmm40XjHJ3rxnv4XiteA?e=JzGYLk
+
+Entrevistas realizadas:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EcLOoTQtRtxMlu00A3Wy2rMBoOal10S4abkjKnC11kIrbA?e=iGhPJG
+
+Landing Page Vet Connect:
+
+https://github.com/Veterinaria-OpenSource/VetConnect-LandingPage.git​​.
+
+Web App Vet Connect:
+
+URL del Frontend: https://vet-connect.netlify.app/login​​.
+URL del Backend: https://vetconnect.azurewebsites.net/swagger-ui/index.html#/​​.
+
+Prototipo en Figma:
+URL: https://www.figma.com/file/AIqDZU5dF8y1GpgOJvHuFu/App-Web-%26-Prototyping?type=design&node-id=0%3A1&mode=design&t=KO1RcG21x5IWnJC6-1​​.
