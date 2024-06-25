@@ -2931,6 +2931,10 @@ A cada apartado destinar distintas imágenes, según lo que corresponda.
 
 ### Video About-the-Team
 
+![ima](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/116921103/54031c3e-17e8-45a5-a3a6-2c6bef523200)
+
+[upc-pre-202401-si729-SV55-CodeConnect-aboutthe-team-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/Ea7m6bumOl9Jh6_xneapUn8BShn1pR9rSWoYibfUPx09lA?e=Oymbaj)
+
 ### Bibliografía
 
 1. IPSOS. (2016). Mascotas 2016. Recuperado de: https://www.ipsos.com/es-pe/mascotas-2016​​.
