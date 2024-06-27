@@ -223,6 +223,7 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <br><br>
           <strong>TF:</strong><br>
            Para esta entrega, realicé el sprint 4 y también el Validation Interview.
+          <br><br>
           <strong>Iparraguirre, Fabricio</strong><br>
           <strong>TB1:</strong><br>
           Se describieron los segmentos objetivos de manera detallada, con el fin de identificar las áreas específicas que necesitan ser mejoradas y optimizadas en la estrategia.<br><br>
