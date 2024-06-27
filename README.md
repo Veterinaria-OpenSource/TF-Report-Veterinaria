@@ -139,7 +139,9 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TP1:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, el cual se mantuvo una comunicación activa entre todos los miembros del equipo para la elaboración de un buen proyecto.<br><br>
           <strong>TB2:</strong><br>
-          Para la entrega de este Sprint 3, se organizó en grupo las partes que debíamos mejorar en base al feedback de la entrega anterior.
+          Para la entrega de este Sprint 3, se organizó en grupo las partes que debíamos mejorar en base al feedback de la entrega anterior.<br><br>
+          <strong>TF:</strong><br>
+          Organicé una reunión con mi equipo para realizar el Sprint Retrospective para mejorar el proyecto en esta etapa final.<br><br>
           <br><br>
           <strong>Jeremy, Antonio</strong><br>
           <strong>TB1:</strong><br>
@@ -151,6 +153,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Implementé interfaces de usuario mejoradas: Desarrollé un login y registro utilizando Angular Material y Tailwind, aplicando principios de diseño de experiencia de usuario (UX) y usabilidad para crear interfaces intuitivas y atractivas.
           <br><br>
+          <strong>TF:</strong><br>
+          Me comuniqué constantemente con mi grupo para verificar que las mejoras en base al feedback brindado se aplicaran en este último Sprint<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1:</strong><br>
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
@@ -171,6 +175,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Me comuniqué con mis compañeros de equipo para realizar los cambios correspondientes de esta entrega.
           <br><br>
+          <strong>TF:</strong><br>
+          Me comuniqué eficazmente con mis compañeros que se encargaron del backend para utilizar los endpoints en el Frontend.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
           Se realizó los Lean UX Assumptions y el Empathy Map tomando en cuenta las necesidades y problemas de los segmentos objetivos seleccionados.<br><br>
@@ -178,6 +184,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           Para la entrega del Sprint 2, presenté mis primeros avances a un pequeño grupo de personas cercanas para obtener feedback y mejorar el proyecto.<br><br>
           <strong>TB2:</strong><br>
           Para la entrega del Sprint 3 realicé las mejoras tomando en cuenta el feedback brindado por el profesor. Añadi modals y la vista de Transactions.<br><br>
+          <strong>TF:</strong><br>
+          Participé en el Sprint Retrospective para mejorar el trabajo final en base al feedback brindado por el profesor.<br><br>
         </td>
         <td>
         Como equipo, logramos establecer medios de comunicación eficientes como Discord, para poder realizar una organización concreta y de tal nabera realizar una entrega de proyecto bueno.<br><br>
@@ -193,6 +201,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Se documentó los endpoints del backend mediante el uso de Swagger para poder visualizar los métodos Http de nuestra API Rest.
           <br><br>
+          <strong>TF:</strong><br>
+          Actualicé y documenté los endpoints definitivos de nuestro proyecto para que los lectores puedan saber sus funcionalidades.<br><br>
           <strong>Jeremy, Antonio </strong><br>
           <strong>TB1:</strong><br>
           Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, se realizó la entrevista junto a su análisis, desarrollo User Task Matrix  y To-Be Scenario Mapping.<br><br>
@@ -201,6 +211,8 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Personalicé estilos con Tailwind: Utilicé Tailwind CSS para personalizar y extender los estilos de los componentes de Angular Material, logrando una apariencia cohesiva y moderna en las interfaces de usuario del login y registro.
           <br><br>
+          <strong>TF:</strong><br>
+          Logré incorporar las entrevistas al documento final, con su registro correspondiente y resumen a detalle.<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
@@ -219,13 +231,17 @@ A continuación, se muestran evidencia de la colaboración en el proyecto:
           <strong>TB2:</strong><br>
           Se aplicaron correciones a los estilos y estructuras html para arreglar la presentación del front-end.
           <br><br>
+          <strong>TF:</strong><br>
+          Pude realizar correcciones en el informe para presentar una buena documentación de nuestro proyecto final.<br><br>
           <strong>Ramos, Renzo</strong><br>
           <strong>TB1:</strong><br>
          Se describieron los procesos y flujos importantes de la Web Application, tanto de los Mock ups y Wireframes<br><br>
          <strong>TP1:</strong><br>
          Se realizaron mejoras en la redaccion de la documentacion, de tal modo que los stakeholders puedan entender de manera clara el proyecto, se mantuvo una comunicación constante para la realización del proyecto.<br><br>
          <strong>TB2:</strong><br>
-         Se realizó mejoras en la documentación y la estructura del informe para el Sprint 3.
+         Se realizó mejoras en la documentación y la estructura del informe para el Sprint 3.<br><br>
+        <strong>TF:</strong><br>
+        Mejoré la redacción de algunas secciones del informe que habían quedado pendientes del Sprint anterior.<br><br>
     </td>
     <td>Como equipo, se logró desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto. El documento realizado es una forma para que las personas puedan conocer más sobre el proyecto, el proceso de desarrollo y las herramientas utilizadas para la realización del mismo.<br><br></td>
     </td><br>
